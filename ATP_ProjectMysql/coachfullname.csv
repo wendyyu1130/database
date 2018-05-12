@@ -1,0 +1,194 @@
+coach_id,coach_name,coaching_player_id
+1,Ivan-Ljubicic,f324
+2,Daniel-Vallverdu,d875
+3,Ricardo-Acioly,sg64
+4,Yves-Allegro ,Unknown
+5,Leonardo-Alonso,Unknown
+6,Jose-Altur,g676
+7," William ""Pato""-Alvarez ",Unknown
+8,Braen-Aneiros,se73
+9,Paul-Annacone,w367
+10,Roberto-Antonini,Unknown
+11,Jan-Apell,Unknown
+12,Carsten-Arriens,Unknown
+13,Thierry-Ascione,t786
+14,Jean-Francois-Bachelot,Unknown
+15,Aubrey-Barrett,Unknown
+16,Jeremy-Bates,Unknown
+17,Boris-Becker,Unknown
+18,Tarik-Benhabiles ,Unknown
+19,Galo-Blanco,Unknown
+20,Fabian-Blengino,e698
+21,Nick-Bollettieri,Unknown
+22,Boris-Borgula,kc04
+23,Dante-Bottini,n552
+24,Craig-Boynton,q927
+25,Oscar-Burrieza,Unknown
+26,Darren-Cahill,Unknown
+27,Leonardo-Caperchi,Unknown
+28,Nick-Carr,Unknown
+29,Alberto-Castellani,Unknown
+30,Louis-Cayer,Unknown
+31,Michael-Chang,n552
+32,Jose-Checa Calvo,kb54
+33,Ivan-Cinkus,c977
+34,"Francisco ""Pato""-Clavet",Unknown
+35,"José Manuel ""Pepo""-Clavet",l397
+36,Jeff-Coetzee,c834
+37,Albert-Costa,Unknown
+38,Hakan-Dahlbo,v564
+39,Hugo Streit-Daibert,s938
+40,Scott-Davidoff,b757
+41,James-Davidson,Unknown
+42,Franco-Davin,f510
+43,Robert-Davis,Unknown
+44,John-Laffnie-De Jager,Unknown
+45,Jan-De Witt,Unknown
+46,Jamie-Delgado,mc10
+47,Ramon-Delgado,Unknown
+48,Yannis-Demeroutis,d632
+49,Diego-Dinomo,Unknown
+50,Mladen-Dodig,d646
+51,Joshua-Eagle,Unknown
+52,Juan Manuel-Esparcia,Unknown
+53,Cesar-Fabregas,cd85
+54,Philip-Farmer,Unknown
+55,John B.-Farrington,Unknown
+56,Stephan-Fehske,Unknown
+57,Frederic-Fontang,Unknown
+58,Jean-Luc-Fontanot,Unknown
+59,Othmane-Garma,h788
+60,Neville-Godwin,ch27
+61,Carlos-Gomez Ferre,l480
+62,Pablo-Gonzalez,Unknown
+63,Fabio-Gorietti,f586
+64,Marcos-Gorriz,Unknown
+65,Brian-Gottfried,Unknown
+66,Walter-Grinovero,Unknown
+67,Sven-Groeneveld,Unknown
+68,Christian-Groh,h355
+69,Sebastien-Grosjean,ke17
+70,Billy-Heiser,r548
+71,Jacques-Hervet,Unknown
+72,Mark-Hilton,e687
+73,Dirk-Hordorff,t742
+74,Goran-Ivanisevic,Unknown
+75,Diego-Junqueira,Unknown
+76,Craig-Kardon,Unknown
+77,Carlos-Kirmayr,Unknown
+78,Robbie-Koenig,Unknown
+79,Petr-Korda,Unknown
+80,Patrik-Kuhnen,Unknown
+81,Anastasia-Kukushkina,k926
+82,Ronan-Lafaix,r612
+83,Klaus-Langenbach,Unknown
+84,Martin-Laurendeau,Unknown
+85,Rick-Leach,Unknown
+86,Ronnie-Leitgeb,mo55
+87,Ivan-Lendl,Unknown
+88,Jaroslav-Levinsky,Unknown
+89,Alexandre-Lisiecki,ma30
+90,Gonzalo-López,Unknown
+91,Samuel-Lopez,cd85
+92,Peter-Lucassen,ka98
+93,Miles-Maclagan,Unknown
+94,David-Macpherson,b588
+95,Alberto-Mancini,c882
+96,Gustavo-Marcaccio,Unknown
+97,Gabriel-Markus,Unknown
+98,Frederico-Marques,sh90
+99,Antonio-Martinez Cascales,Unknown
+100,Wally-Masur,Unknown
+101,Scott-McCain,Unknown
+102,Mats-Merkel,Unknown
+103,Daniel-Meyers,be67
+104,Andrei-Mlendea,ca99
+105,Mariano-Monachesi,Unknown
+106,Patrick-Mouratoglou,Unknown
+107,Carlos-Moya,n409
+108,Diego-Moyano,pl56
+109,Michal-Navratil,Unknown
+110,Eduardo-Nicolas,Unknown
+111,Magnus-Norman,Unknown
+112,Colon-Nuñez,q941
+113,Joakim-Nystrom,Unknown
+114,Leonardo-Olguin,Unknown
+115,Daniel-Orsanic,Unknown
+116,Andrei-Pavel,b896
+117,Narcis-Pelach,Unknown
+118,Jose-Perlas,l987
+119,Dejan-Petrovic,Unknown
+120,Morgan-Phillips,gd08
+121,Claudio-Pistolesi,Unknown
+122,Emmanuel-Planque,pf39
+123,Petar-Popovic,Unknown
+124,Sebastian-Prieto,g585
+125,Eric-Prodon,Unknown
+126,Massimo-Puci,da67
+127,Roger-Rasheed,Unknown
+128,Jack-Reader,Unknown
+129,Horacio-Rearte,Unknown
+130,Burghard-Riehemann,Unknown
+131,Guillermo-Rivas,Unknown
+132,Patricio-Rodriguez ,Unknown
+133,David-Sammel,d763
+134,Davide-Sanguinetti,Unknown
+135,Cyril-Saulnier,Unknown
+136,Facundo-Savio,c882
+137,Yoav-Schab,Unknown
+138,Michiel-Schapers,Unknown
+139,Andres-Schneiter,sc73
+140,Oscar-Serrano,Unknown
+141,Sanjay-Singh,Unknown
+142,Liam-Smith,a829
+143,Boris-Sobkin,d864
+144,Jon-Sorbo,Unknown
+145,Louk-Sorensen,Unknown
+146,Dennis-Soumilas,Unknown
+147,Martin-Stepanek,ba47
+148,Brad-Stine,a678
+149,Jan-Stoces,k540
+150,Mitsuru-Takada,n732
+151,Gustavo-Tavernini,d874
+152,Brian-Teacher,Unknown
+153,Michele-Tellini,Unknown
+154,Kim-Tiilikainen,Unknown
+155,Mikael-Tillstrom,Unknown
+156,Miguel-Tobon,Unknown
+157,Federico-Torresi ,f586
+158,Gabriel-Trifu,Unknown
+159,Danai-Udomchoke,Unknown
+160,Lars-Uebel,bc65
+161,Borja-Uribe-Quintana,Unknown
+162,Gabriel-Urpi,Unknown
+163,Jan-Vacek,c582
+164,Marian-Vajda,Unknown
+165,Daniel-Vallverdu,d875
+166,Thierry-Van Cleemput,gb88
+167,Jan-Velthuis,Unknown
+168,Dusan-Vemic,Unknown
+169,Fernando-Vicente,re44
+170,Juan Albert-Viloca,Unknown
+171,Alexander-Volkov,Unknown
+172,Kieron-Vorster,Unknown
+173,Glenn-Weiner,mp01
+174,Kent-Wood,sd23
+175,Mark-Woodforde,Unknown
+176,Yong-il-Yoon,kf17
+177,Francisco-Yunis,Unknown
+178,Alexander-Zverev Sr.,z355
+179,Nicolas-Renavand,r613
+180,Ferrero-Juan Carlos,z355
+181,Alexander-Satschko,g967
+182,Jochen-Schlieker,ba79
+183,Stephen-Koon,l575
+184,Antonio-Baldellou-Esteva,i305
+185,Dejan-Cvetkovic,f525
+186,Mardy-Fish,fb98
+187,Stephan-De Kock,k609
+188,Rainer-Schuettler,pd07
+189,Pierre-Bouteyre,e678
+190,Michael-Russell,h940
+191,Toni-Nadal,n409
+192,Cao-Xiao Yin,w571
+193,Mark-Draper,mh30

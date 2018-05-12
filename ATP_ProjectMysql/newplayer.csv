@@ -1,0 +1,2599 @@
+player_id,first_name,last_name,"flag_code	",birth_year,birth_month,birth_day,turned_pro,weight_kg,height_cm,handedness,backhand,fullname
+a0ab,Adrian,Andreev,BUL,2001,5,12,0,0,0,0,0,Adrian Andreev
+a272,Julian,Alonso,ESP,1977,8,2,1996,82,185,0,0,Julian Alonso
+a280,Henrik,Andersson,SWE,1977,5,2,0,0,0,0,0,Henrik Andersson
+a293,Yves,Allegro,SUI,1978,8,24,1997,82,183,0,0,Yves Allegro
+a303,Leonardo,Azzaro,ITA,1978,5,30,1997,75,188,0,0,Leonardo Azzaro
+a305,Jacob,Adaktusson,SWE,1980,8,31,0,87,193,0,0,Jacob Adaktusson
+a308,Florian,Allgauer,ITA,1979,1,7,0,0,0,0,0,Florian Allgauer
+a310,Emin,Agaev,AZE,1979,5,14,1999,77,0,0,0,Emin Agaev
+a316,Diego,Ayala,USA,1979,4,29,1998,77,175,0,0,Diego Ayala
+a311,Hugo,Armando,USA,1978,5,27,1997,82,183,Right-Handed,One-Handed Backhand,Hugo Armando
+a318,Patricio,Arquez,ARG,1980,4,12,0,0,0,0,0,Patricio Arquez
+a340,Francesco,Aldi,ITA,1981,9,17,1999,75,175,0,0,Francesco Aldi
+a356,Thierry,Ascione,FRA,1981,1,17,2000,89,188,Right-Handed,One-Handed Backhand,Thierry Ascione
+a366,Diego,Alvarez,ARG,1980,3,6,0,0,0,0,0,Diego Alvarez
+a373,James,Auckland,GBR,1980,4,1,1999,79,0,0,0,James Auckland
+a380,Clayton,Almeida,BRA,1980,12,26,0,0,0,0,0,Clayton Almeida
+a385,Mario,Ancic,CRO,1984,3,30,2001,82,196,Right-Handed,Two-Handed Backhand,Mario Ancic
+a389,Jose,Acasuso,ARG,1982,10,20,1999,86,191,Right-Handed,One-Handed Backhand,Jose Acasuso
+a392,Artemon,Apostu-Efremov,ROU,1979,6,19,0,0,0,0,0,Artemon Apostu-Efremov
+a391,Maximilian,Abel,GER,1982,2,28,0,76,0,0,0,Maximilian Abel
+a404,Johannes,Ager,AUT,1984,3,10,2003,80,196,0,0,Johannes Ager
+a410,Thiago,Alves,BRA,1982,5,22,2000,75,178,Right-Handed,Two-Handed Backhand,Thiago Alves
+a412,Andrea,Agazzi,ITA,1982,7,23,0,0,0,0,0,Andrea Agazzi
+a438,Andrew,Anderson,RSA,1983,4,8,2002,79,193,0,0,Andrew Anderson
+a457,Jorge,Aguilar,CHI,1985,1,8,0,68,178,Right-Handed,Two-Handed Backhand,Jorge Aguilar
+a467,Mariano,Albert-Ferrando,ESP,1982,4,26,0,0,0,0,0,Mariano Albert-Ferrando
+a478,Jae-Sung,An,KOR,1985,5,28,0,0,0,0,0,Jae-Sung An
+a479,Nicolas,Almagro,ESP,1985,8,21,2003,86,183,Right-Handed,One-Handed Backhand,Nicolas Almagro
+a487,Prakash,Amritraj,IND,1983,10,2,2003,75,188,0,0,Prakash Amritraj
+a494,Karim,Alayli,LIB,1983,3,24,0,0,0,0,0,Karim Alayli
+a502,Juan-Martin,Aranguren,ARG,1983,10,7,0,0,0,0,0,Juan-Martin Aranguren
+a499,Omar ,Alawadhi,UAE,1982,1,16,0,0,0,Right-Handed,Two-Handed Backhand,Omar  Alawadhi
+a503,Musaad,Al Jazzaf,KUW,1984,4,20,0,0,0,0,0,Musaad Al Jazzaf
+a511,Igor,Andreev,RUS,1983,7,14,2002,80,185,Right-Handed,Two-Handed Backhand,Igor Andreev
+a517,Marc,Auradou,FRA,1984,7,9,0,0,0,0,0,Marc Auradou
+a536,Stephen,Amritraj,IND,1984,3,28,0,0,0,0,0,Stephen Amritraj
+a539,Martin,Alund,ARG,1985,12,26,0,80,183,Right-Handed,One-Handed Backhand,Martin Alund
+a563,Haythem,Abid,TUN,1985,7,17,0,0,0,Left-Handed,Two-Handed Backhand,Haythem Abid
+a570,Ali,Ghareeb,KUW,1986,3,16,0,0,0,0,0,Ali Ghareeb
+a609,Khalid,Al Nabhani,OMA,1982,9,2,0,0,0,0,0,Khalid Al Nabhani
+a596,Pablo,Andujar,ESP,1986,1,23,2003,76,180,Right-Handed,Two-Handed Backhand,Pablo Andujar
+a584,Theodoros,Angelinos,GRE,1984,5,29,0,0,0,0,0,Theodoros Angelinos
+a618,Mohammed,Abdulla,QAT,1985,5,23,0,0,0,0,0,Mohammed Abdulla
+a622,Andrea,Arnaboldi,ITA,1987,12,27,2006,72,180,Left-Handed,One-Handed Backhand,Andrea Arnaboldi
+a620,Rafael,Arevalo,ESA,1986,7,4,0,0,0,0,0,Rafael Arevalo
+a630,Ali,El Alaoui,MAR,1986,2,21,0,0,0,0,0,Ali El Alaoui
+a633,Victor-Mugurel,Anagnastopol,ROU,1986,3,23,0,0,0,0,0,Victor-Mugurel Anagnastopol
+a653,Mohammed,Al Nabhani,OMA,1985,9,1,0,0,0,Right-Handed,Two-Handed Backhand,Mohammed Al Nabhani
+a663,Aleksandr,Agafonov,UKR,1986,2,23,0,0,0,0,0,Aleksandr Agafonov
+a656,Guillermo,Alcaide,ESP,1986,5,27,0,77,188,Right-Handed,Two-Handed Backhand,Guillermo Alcaide
+a674,Juan-Pablo,Amado,ARG,1986,4,2,0,0,0,0,0,Juan-Pablo Amado
+a678,Kevin,Anderson,RSA,1986,5,18,2007,93,203,Right-Handed,Two-Handed Backhand,Kevin Anderson
+a679,Ivan,Anikanov,UKR,1988,3,15,0,0,0,0,0,Ivan Anikanov
+a703,Adnan,Al Mahmoud,ROU,1988,6,6,0,0,0,Right-Handed,Two-Handed Backhand,Adnan Al Mahmoud
+a704,Gleb,Alekseenko,UKR,1983,5,19,0,85,191,0,0,Gleb Alekseenko
+a706,Syrym,Abdukhalikov,KAZ,1987,8,7,0,0,0,0,0,Syrym Abdukhalikov
+a707,Bruno,Agostinelli,CAN,1987,4,1,0,0,0,0,0,Bruno Agostinelli
+a725,Vadim,Alekseenko,UKR,1983,5,19,0,85,191,Right-Handed,Two-Handed Backhand,Vadim Alekseenko
+a732,Arnaud,Agniel,FRA,1982,1,23,0,0,0,0,0,Arnaud Agniel
+a741,Jean,Andersen,RSA,1988,6,17,0,0,0,0,0,Jean Andersen
+a742,Ahmed,Abdrabuh,SYR,1985,5,23,0,0,0,0,0,Ahmed Abdrabuh
+a749,Pedro,Ast,VEN,1988,8,12,0,0,0,0,0,Pedro Ast
+a755,Hashim,Abdal,KUW,1989,11,26,0,0,0,0,0,Hashim Abdal
+a759,Jean-Yves,Aubone,USA,1988,1,10,0,73,178,Right-Handed,One-Handed Backhand,Jean-Yves Aubone
+a764,Tuna,Altuna,TUR,1989,1,30,0,80,185,Right-Handed,Two-Handed Backhand,Tuna Altuna
+a787,Ivan,Arenas-Gualda,ESP,1990,10,31,0,0,0,0,0,Ivan Arenas-Gualda
+a789,Maxime,Authom,BEL,1987,3,29,0,0,0,0,0,Maxime Authom
+a798,Iain,Atkinson,GBR,1988,10,2,0,0,0,0,0,Iain Atkinson
+a803,Mauricio,Astorga,MEX,1991,6,19,0,74,0,Left-Handed,One-Handed Backhand,Mauricio Astorga
+a806,Miles,Armstrong,AUS,1986,4,16,0,0,0,0,0,Miles Armstrong
+a824,Guillermo,Alcorta-Olarra,ESP,1989,6,16,0,0,0,0,0,Guillermo Alcorta-Olarra
+a825,Bogdan,Andrii,ROU,1989,6,30,0,0,0,0,0,Bogdan Andrii
+a829,Radu,Albot,MDA,1989,11,11,2008,69,175,Right-Handed,Two-Handed Backhand,Radu Albot
+a837,Toni,Androic,CRO,1991,12,28,2010,73,168,Right-Handed,Two-Handed Backhand,Toni Androic
+a853,Marcelo,Arevalo,ESA,1990,10,17,2012,86,191,Right-Handed,Two-Handed Backhand,Marcelo Arevalo
+a861,Danila,Arsenov,RUS,1989,6,9,0,70,183,0,0,Danila Arsenov
+a874,Miguel,Almeida,POR,1992,6,29,0,0,0,0,0,Miguel Almeida
+a887,Guido,Andreozzi,ARG,1991,8,5,2010,77,183,Right-Handed,Two-Handed Backhand,Guido Andreozzi
+a930,Hamad Abbas,Janahi,UAE,1990,8,4,0,0,0,0,0,Hamad Abbas Janahi
+a931,Jasmin,Ademovic,BIH,1991,8,24,0,0,0,0,0,Jasmin Ademovic
+a941,Facundo,Arguello,ARG,1992,8,4,0,77,178,Right-Handed,Two-Handed Backhand,Facundo Arguello
+a967,Vugar,Aliev,RUS,1993,9,3,0,0,0,0,0,Vugar Aliev
+a943,Vasile,Antonescu,ROU,1990,3,24,0,82,183,Right-Handed,Two-Handed Backhand,Vasile Antonescu
+a961,Matthew,Allare,USA,1989,3,19,0,0,0,0,0,Matthew Allare
+a975,Anthony,Assal,USA,1992,6,2,0,0,0,0,0,Anthony Assal
+aa17,Hamza,Aglaib,MAR,1990,3,10,0,0,0,0,0,Hamza Aglaib
+aa60,Elwin,Antony,IND,1991,10,6,0,0,0,0,0,Elwin Antony
+aa23,Jack,Anton,USA,1991,9,25,0,0,0,Right-Handed,Two-Handed Backhand,Jack Anton
+aa61,Renato,Assad,BRA,1992,10,3,0,0,0,0,0,Renato Assad
+aa72,Aitor,Aramburu,MEX,1991,11,30,0,0,0,0,0,Aitor Aramburu
+aa74,Hamad,Al Mulla,QAT,1992,8,16,0,0,0,0,0,Hamad Al Mulla
+aa78,Mohamed,Adnaoui,MAR,1984,12,9,0,78,185,Right-Handed,One-Handed Backhand,Mohamed Adnaoui
+ab11,Kalle,Averfalk,SWE,1992,4,7,0,0,0,Right-Handed,Two-Handed Backhand,Kalle Averfalk
+aa81,Romain,Arneodo,MON,1992,8,4,0,70,175,Right-Handed,Two-Handed Backhand,Romain Arneodo
+ab12,Isak,Arvidsson,SWE,1992,8,6,0,79,188,Right-Handed,Two-Handed Backhand,Isak Arvidsson
+ab17,Andres,Artunedo Martinavarro,ESP,1993,9,14,2011,75,183,Right-Handed,Two-Handed Backhand,Andres Artunedo Martinavarro
+ab40,Albert,Alcaraz Ivorra,ESP,1995,5,15,0,85,191,Right-Handed,Two-Handed Backhand,Albert Alcaraz Ivorra
+ab46,Abdulrahman,Al Harib,QAT,1995,1,24,0,0,0,0,0,Abdulrahman Al Harib
+ab47,Osvaldo,Aguirre,CHI,1986,3,12,0,0,0,0,0,Osvaldo Aguirre
+ab52,Khalid,Allouch,MAR,1991,6,3,0,0,0,0,0,Khalid Allouch
+ab85,Andrew,Adams,USA,1993,3,18,0,0,0,0,0,Andrew Adams
+ab64,Andrei Stefan,Apostol,ROU,1995,2,25,0,74,0,Right-Handed,Two-Handed Backhand,Andrei Stefan Apostol
+ab68,Ahmed Deedat,Abdul Razak,MAS,1995,6,18,0,0,0,0,0,Ahmed Deedat Abdul Razak
+ab90,Bogdan Ionut,Apostol,ROU,1996,1,17,0,0,0,0,0,Bogdan Ionut Apostol
+ac01,Roberto,Affonso,BRA,1994,2,9,0,75,170,0,0,Roberto Affonso
+ac23,Jabor,Al-Mutawa,QAT,1994,5,27,0,0,0,0,0,Jabor Al-Mutawa
+ac39,Mubarak Shannan,Zayid,QAT,1995,4,14,0,0,0,Right-Handed,Two-Handed Backhand,Mubarak Shannan Zayid
+ac41,Ali,Al-Saygh,QAT,1996,2,12,0,0,0,Right-Handed,Two-Handed Backhand,Ali Al-Saygh
+ac74,Manuel,Arias,COL,1997,5,21,0,0,0,0,0,Manuel Arias
+ac84,Collin,Altamirano,USA,1995,12,7,0,84,188,Right-Handed,Two-Handed Backhand,Collin Altamirano
+ac76,Jay,Andrijic,AUS,1995,10,3,0,0,0,Right-Handed,Two-Handed Backhand,Jay Andrijic
+ac95,Abdulla,Al Mohamoud,QAT,1996,11,2,0,0,0,0,0,Abdulla Al Mohamoud
+ac98,Abdulla,Al-Jufairi,QAT,1997,8,29,0,0,0,0,0,Abdulla Al-Jufairi
+ad00,Jassem,Al Zeyara,QAT,1997,12,9,0,0,0,0,0,Jassem Al Zeyara
+ad04,Sarp,Agabigun,TUR,1997,6,12,0,75,178,Right-Handed,Two-Handed Backhand,Sarp Agabigun
+ad23,Oliver,Anderson,AUS,1998,4,30,0,73,175,Right-Handed,Two-Handed Backhand,Oliver Anderson
+ad41,Daniel,Appelgren,SWE,1996,5,6,0,67,175,Right-Handed,Two-Handed Backhand,Daniel Appelgren
+ad49,Jordi,Arconada,USA,1996,9,6,0,70,180,Right-Handed,Two-Handed Backhand,Jordi Arconada
+ad56,Srikar,Alla,IND,1993,7,25,0,0,0,Right-Handed,Two-Handed Backhand,Srikar Alla
+af32,Amine,Ahouda,MAR,1997,9,11,2013,76,185,Right-Handed,Two-Handed Backhand,Amine Ahouda
+af66,Goncalo,Andrade,POR,1998,12,2,0,0,0,0,0,Goncalo Andrade
+af67,Joao,Antonio,POR,1999,4,30,0,0,0,0,0,Joao Antonio
+ag37,Felix,Auger-Aliassime,CAN,2000,8,8,2016,84,188,Right-Handed,Two-Handed Backhand,Felix Auger-Aliassime
+b09m,Sam,Bloom,USA,1994,1,13,0,0,0,0,0,Sam Bloom
+b09a,Trent,Bryde,USA,1999,11,24,0,0,0,0,0,Trent Bryde
+b510,Allen,Belobrajdic,AUS,1976,9,18,1995,67,175,0,0,Allen Belobrajdic
+b516,Federico,Browne,ARG,1976,4,7,1994,82,180,0,0,Federico Browne
+b562,Jean-Francois,Bachelot,FRA,1977,6,11,1996,80,183,Right-Handed,One-Handed Backhand,Jean-Francois Bachelot
+b570,Daniele,Bracciali,ITA,1978,1,10,1995,78,180,Right-Handed,One-Handed Backhand,Daniele Bracciali
+b585,Matthew,Breen,AUS,1976,6,12,0,0,0,0,0,Matthew Breen
+b588,Bob,Bryan,USA,1978,4,29,1998,88,193,Left-Handed,One-Handed Backhand,Bob Bryan
+b589,Mike,Bryan,USA,1978,4,29,1998,82,188,Right-Handed,One-Handed Backhand,Mike Bryan
+b518,Galo,Blanco,ESP,1976,10,8,1995,70,175,0,0,Galo Blanco
+b600,Luke,Bourgeois,AUS,1977,3,3,0,86,188,0,0,Luke Bourgeois
+b607,Jan,Boruszewski,GER,1977,10,2,0,0,0,0,0,Jan Boruszewski
+b619,Thomas,Blake,USA,1976,12,29,1999,88,0,Right-Handed,One-Handed Backhand,Thomas Blake
+b649,Kornel,Bardoczky,HUN,1978,7,5,0,0,0,0,0,Kornel Bardoczky
+b645,Justin,Bower,RSA,1978,5,23,0,79,191,0,0,Justin Bower
+b660,Jack,Brasington,USA,1976,9,9,2000,82,188,0,0,Jack Brasington
+b663,Boris,Bachert,GER,1981,4,16,0,0,0,0,0,Boris Bachert
+b670,Chemseddine,Belal,MAR,1977,10,10,0,74,180,0,0,Chemseddine Belal
+b676,James,Blake,USA,1979,12,28,1999,83,185,Right-Handed,One-Handed Backhand,James Blake
+b678,Michael,Berrer,GER,1980,7,1,1999,100,193,Left-Handed,One-Handed Backhand,Michael Berrer
+b681,Paul,Baccanello,AUS,1979,6,12,1999,85,183,0,0,Paul Baccanello
+b692,Ivan,Beros,CRO,1979,12,30,0,0,0,0,0,Ivan Beros
+b741,Stian,Boretti,NOR,1981,12,20,2000,88,188,0,0,Stian Boretti
+b699,Matias,Boeker,USA,1980,12,11,0,0,0,0,0,Matias Boeker
+b752,Stephane,Bohli,SUI,1983,7,25,2002,82,185,0,0,Stephane Bohli
+b747,Julien,Benneteau,FRA,1981,12,20,2000,79,185,Right-Handed,Two-Handed Backhand,Julien Benneteau
+b757,Rohan,Bopanna,IND,1980,3,4,2003,86,191,Right-Handed,One-Handed Backhand,Rohan Bopanna
+b763,Adriano,Biasella,ITA,1980,9,1,0,0,0,0,0,Adriano Biasella
+b764,Juan Pablo,Brzezicki,ARG,1982,4,12,2001,72,178,0,0,Juan Pablo Brzezicki
+b765,Brian,Battistone,USA,1979,8,10,2007,82,191,0,0,Brian Battistone
+b804,Karol,Beck,SVK,1982,4,3,2001,74,180,Right-Handed,Two-Handed Backhand,Karol Beck
+b841,Doug,Bohaboy,USA,1976,9,25,2000,73,0,0,0,Doug Bohaboy
+b837,Marcos,Baghdatis,CYP,1985,6,17,2003,82,178,Right-Handed,Two-Handed Backhand,Marcos Baghdatis
+b842,Alex,Bogomolov Jr.,RUS,1983,4,23,2002,75,178,Right-Handed,Two-Handed Backhand,Alex Bogomolov Jr.
+b859,Eric,Basica,USA,1981,6,27,0,0,0,0,0,Eric Basica
+b881,Tomasz,Bednarek,POL,1981,11,12,2000,0,0,0,0,Tomasz Bednarek
+b884,Carlos,Berlocq,ARG,1983,2,3,2001,81,183,Right-Handed,One-Handed Backhand,Carlos Berlocq
+b896,Benjamin,Becker,GER,1981,6,16,2005,72,178,Right-Handed,Two-Handed Backhand,Benjamin Becker
+b898,Adrian,Bohane,USA,1981,9,15,0,0,0,0,0,Adrian Bohane
+b929,Alex,Bogdanovic,GBR,1984,5,22,2002,74,183,Left-Handed,One-Handed Backhand,Alex Bogdanovic
+b908,Johan,Brunstrom,SWE,1980,4,3,2005,89,193,0,0,Johan Brunstrom
+b946,Benjamin,Balleret,MON,1983,1,15,0,85,183,Right-Handed,Two-Handed Backhand,Benjamin Balleret
+b953,Neil,Bamford,GBR,1982,2,10,0,0,0,0,0,Neil Bamford
+b975,Guillem,Burniol,ESP,1983,8,14,0,0,0,0,0,Guillem Burniol
+b981,Matt,Bocko,USA,1983,12,12,0,0,0,0,0,Matt Bocko
+b976,David,Brewer,GBR,1985,2,24,0,0,0,0,0,David Brewer
+b977,Richard,Bloomfield,GBR,1983,4,27,2002,75,185,0,0,Richard Bloomfield
+ba01,Gyorgy,Balazs,HUN,1985,7,24,0,0,0,0,0,Gyorgy Balazs
+ba08,Alberto,Brizzi,ITA,1984,3,26,0,0,0,0,0,Alberto Brizzi
+ba23,Brian,Baker,USA,1985,4,30,2003,77,191,Right-Handed,Two-Handed Backhand,Brian Baker
+ba47,Tomas,Berdych,CZE,1985,9,17,2002,91,196,Right-Handed,Two-Handed Backhand,Tomas Berdych
+ba53,Jamie,Baker,GBR,1986,8,5,0,81,183,0,0,Jamie Baker
+ba57,Ilija,Bozoljac,SRB,1985,8,2,2002,86,193,0,0,Ilija Bozoljac
+ba79,Andre,Begemann,GER,1984,7,12,2008,90,188,Right-Handed,Two-Handed Backhand,Andre Begemann
+ba77,Arnau,Brugues-Davi,ESP,1985,3,5,2009,82,183,Left-Handed,Two-Handed Backhand,Arnau Brugues-Davi
+ba65,Dustin,Brown,GER,1984,12,8,2002,78,196,Right-Handed,Two-Handed Backhand,Dustin Brown
+ba86,Andreas,Beck,GER,1986,2,5,2003,89,191,Left-Handed,Two-Handed Backhand,Andreas Beck
+ba98,Simone,Bolelli,ITA,1985,10,8,2003,83,183,Right-Handed,One-Handed Backhand,Simone Bolelli
+bb20,Ivan,Bjelica,SRB,1984,2,15,0,0,0,0,0,Ivan Bjelica
+bb02,Matthew,Behrmann,USA,1980,8,3,0,0,0,0,0,Matthew Behrmann
+bb44,Joe,Bates,USA,1982,12,21,0,0,0,Right-Handed,Two-Handed Backhand,Joe Bates
+bb25,Robin,Brage,SWE,1983,3,21,0,0,0,0,0,Robin Brage
+bb68,Stephen,Bass,USA,1985,4,13,0,0,0,0,0,Stephen Bass
+bb97,Antoine,Benneteau,FRA,1986,6,30,0,0,0,0,0,Antoine Benneteau
+bc11,Sergei,Bubka,UKR,1987,2,10,2005,88,188,Right-Handed,Two-Handed Backhand,Sergei Bubka
+bc14,Marin,Bradaric,CRO,1985,9,5,0,0,0,0,0,Marin Bradaric
+bc36,Gregoire,Burquier,FRA,1984,7,8,0,0,0,Left-Handed,One-Handed Backhand,Gregoire Burquier
+bc35,Eric,Butorac,USA,1981,5,22,2003,82,191,0,0,Eric Butorac
+bc62,Enrico,Burzi,ITA,1981,1,14,0,76,178,0,0,Enrico Burzi
+bc65,Matthias,Bachinger,GER,1987,4,2,2005,83,188,0,0,Matthias Bachinger
+bc71,Jonas,Berg,SWE,1984,5,16,0,0,0,0,0,Jonas Berg
+bc68,Philip,Bester,CAN,1988,10,6,2006,79,188,Right-Handed,One-Handed Backhand,Philip Bester
+bc72,Daniel,Brands,GER,1987,7,17,2005,92,196,Right-Handed,One-Handed Backhand,Daniel Brands
+bd05,Luka,Belic,CRO,1988,10,14,0,0,0,0,0,Luka Belic
+bd00,Roman,Borvanov,MDA,1982,3,31,2004,80,183,0,0,Roman Borvanov
+bc76,Nicolas,Barrientos,COL,1987,4,24,2009,75,175,Right-Handed,Two-Handed Backhand,Nicolas Barrientos
+bd06,Roberto,Bautista Agut,ESP,1988,4,14,2005,76,183,Right-Handed,Two-Handed Backhand,Roberto Bautista Agut
+bd20,Thomaz,Bellucci,BRA,1987,12,30,2005,82,188,Left-Handed,Two-Handed Backhand,Thomaz Bellucci
+bd34,Stefan,Borg,SWE,1983,6,15,0,0,0,0,0,Stefan Borg
+bd42,Agustin,Boje-Ordonez,ESP,1988,7,19,0,0,0,0,0,Agustin Boje-Ordonez
+bd59,Carsten,Ball,AUS,1987,6,20,2005,91,198,Left-Handed,Two-Handed Backhand,Carsten Ball
+bd80,Attila,Balazs,HUN,1988,12,27,0,78,180,Right-Handed,Two-Handed Backhand,Attila Balazs
+bd73,Mehdi,Benhammou,MAR,1988,1,10,0,0,0,Right-Handed,Two-Handed Backhand,Mehdi Benhammou
+bd82,Sergey,Betov,BLR,1987,10,15,0,74,185,0,0,Sergey Betov
+bd83,Aliaksandr,Bury,BLR,1987,9,14,0,93,203,Right-Handed,One-Handed Backhand,Aliaksandr Bury
+bd89,Josip,Brkic,BIH,1988,6,27,0,0,0,0,0,Josip Brkic
+bd91,Denis,Bejtulahi,SRB,1987,6,1,0,87,0,0,0,Denis Bejtulahi
+bd97,Saso,Bende,SLO,1986,5,24,0,70,0,0,0,Saso Bende
+be04,Patrick,Briaud,USA,1983,2,6,0,0,0,0,0,Patrick Briaud
+be03,Maxime,Bonami,FRA,1983,11,12,0,0,0,0,0,Maxime Bonami
+be19,Alex,Bartlett,USA,1987,11,13,0,0,0,0,0,Alex Bartlett
+be10,Matt,Bruch,USA,1987,7,6,0,68,0,0,0,Matt Bruch
+be44,Jose Daniel,Bendeck,COL,1990,12,24,0,76,183,Right-Handed,Two-Handed Backhand,Jose Daniel Bendeck
+be54,Ruben,Bemelmans,BEL,1988,1,14,2006,75,183,Left-Handed,Two-Handed Backhand,Ruben Bemelmans
+be64,Mohammed-Faizal,Bin Othman,MAS,1983,2,19,0,0,0,0,0,Mohammed-Faizal Bin Othman
+be59,Kanagaraj,Balakrishnan,MAS,1988,1,18,0,0,0,0,0,Kanagaraj Balakrishnan
+be67,Mirza,Basic,BIH,1991,7,12,2012,88,188,Right-Handed,Two-Handed Backhand,Mirza Basic
+be68,Tomislav,Brkic,BIH,1990,3,9,2008,80,185,Right-Handed,Two-Handed Backhand,Tomislav Brkic
+be77,Carl,Bergman,SWE,1987,10,10,0,0,0,0,0,Carl Bergman
+be69,Yan,Bai,CHN,1989,5,21,0,80,185,Right-Handed,Two-Handed Backhand,Yan Bai
+be81,Alen,Bisevac,AUT,1989,2,17,0,0,0,0,0,Alen Bisevac
+be83,Kevin,Botti,FRA,1989,1,14,0,0,0,0,0,Kevin Botti
+be90,Ricardas,Berankis,LTU,1990,6,21,2007,70,175,Right-Handed,Two-Handed Backhand,Ricardas Berankis
+be93,Chase,Buchanan,USA,1991,6,4,0,79,193,0,0,Chase Buchanan
+be95,Dmytro,Badanov,UKR,1988,1,19,0,65,185,0,0,Dmytro Badanov
+bf01,Lewis,Barnes,GBR,1990,5,12,0,0,0,0,0,Lewis Barnes
+bf12,Pascal,Brunner,AUT,1989,6,11,0,75,180,Right-Handed,One-Handed Backhand,Pascal Brunner
+bf02,Philippe,Brand,NED,1988,4,6,0,0,0,0,0,Philippe Brand
+bf13,Marko,Boskovic,SRB,1991,9,25,0,0,0,0,0,Marko Boskovic
+bf17,Devin,Britton,USA,1991,3,17,2009,84,193,Right-Handed,Two-Handed Backhand,Devin Britton
+bf23,Facundo,Bagnis,ARG,1990,2,27,2008,82,183,Left-Handed,Two-Handed Backhand,Facundo Bagnis
+bf27,Adrien,Bossel,SUI,1986,12,28,0,0,0,0,0,Adrien Bossel
+bf25,Ilya,Belyaev,RUS,1990,8,9,2005,79,180,Right-Handed,Two-Handed Backhand,Ilya Belyaev
+bf34,Boris Nicola,Bakalov,BUL,1980,11,23,0,75,183,Left-Handed,One-Handed Backhand,Boris Nicola Bakalov
+bf28,Ante,Bilic,CRO,1989,3,7,0,0,0,0,0,Ante Bilic
+bf45,Charles-Antoine,Brezac,FRA,1985,9,17,0,0,0,0,0,Charles-Antoine Brezac
+bf41,Jesper,Brunstrom,SWE,1987,2,17,0,0,0,0,0,Jesper Brunstrom
+bf55,Yuki,Bhambri,IND,1992,7,4,2008,77,183,Right-Handed,Two-Handed Backhand,Yuki Bhambri
+bf49,Edward,Bourchier,AUS,1988,11,14,0,81,188,Right-Handed,Two-Handed Backhand,Edward Bourchier
+bf60,Saad,Benkirane,MAR,1989,4,26,0,0,0,0,0,Saad Benkirane
+bf71,David,Barclay,AUS,1990,9,6,0,0,0,0,0,David Barclay
+bf72,Andre,Baran,BRA,1991,2,14,0,0,0,0,0,Andre Baran
+bf76,Clint,Bowles,USA,1988,11,16,0,70,173,0,0,Clint Bowles
+bf83,Pascal,Benz,GER,1990,1,12,0,0,0,0,0,Pascal Benz
+bf82,Jan,Blecha,CZE,1989,3,18,0,0,0,0,0,Jan Blecha
+bf89,Dennis,Bloemke,GER,1989,7,23,0,0,0,Right-Handed,Two-Handed Backhand,Dennis Bloemke
+bf94,Pongsatorn,Benjamas,THA,1989,4,5,0,0,0,0,0,Pongsatorn Benjamas
+bf96,Roy,Bruggeling,NED,1989,8,1,0,0,0,0,0,Roy Bruggeling
+bf95,William,Boe-Wiegaard,USA,1983,11,9,2011,83,183,Right-Handed,Two-Handed Backhand,William Boe-Wiegaard
+bf98,Alessandro,Bega,ITA,1991,1,11,0,68,173,Right-Handed,Two-Handed Backhand,Alessandro Bega
+bg06,Miles,Bugby,GBR,1986,12,7,0,0,0,0,0,Miles Bugby
+bg16,Daniel,Berta,SWE,1992,11,26,0,0,178,Right-Handed,Two-Handed Backhand,Daniel Berta
+bg08,Moritz,Baumann,GER,1987,5,9,0,83,188,0,0,Moritz Baumann
+bg32,Mikolaj,Borkowski,POL,1987,11,5,0,0,0,0,0,Mikolaj Borkowski
+bg23,Nikoloz,Basilashvili,GEO,1992,2,23,2008,79,185,Right-Handed,Two-Handed Backhand,Nikoloz Basilashvili
+bg41,Andraz,Bedene,SLO,1989,7,18,0,0,0,0,0,Andraz Bedene
+bg48,Patrik,Brydolf,SWE,1991,11,27,0,0,0,0,0,Patrik Brydolf
+bg52,Jaan-Frederik,Brunken,FIN,1990,4,26,0,0,0,0,0,Jaan-Frederik Brunken
+bg63,Richard,Becker,GER,1991,1,29,0,0,0,0,0,Richard Becker
+bh00,Olivier,Borsos,HUN,1990,9,16,0,0,0,0,0,Olivier Borsos
+bh04,Sean,Berman,USA,1993,1,8,0,0,0,0,0,Sean Berman
+bh02,Sekou,Bangoura,USA,1991,11,18,2011,77,183,Right-Handed,Two-Handed Backhand,Sekou Bangoura
+bh08,Marco,Bortolotti,ITA,1991,1,21,0,72,175,Right-Handed,Two-Handed Backhand,Marco Bortolotti
+bh22,Sam,Barry,IRL,1992,1,27,2011,83,191,Right-Handed,Two-Handed Backhand,Sam Barry
+bh09,Aljaz,Bedene,GBR,1989,7,18,2008,72,183,Right-Handed,Two-Handed Backhand,Aljaz Bedene
+bh36,Brian,Brogan,USA,1986,12,4,0,0,0,0,0,Brian Brogan
+bh64,Arthur,Beavis,USA,1987,1,7,0,0,0,0,0,Arthur Beavis
+bh51,Pedro,Bernardi,BRA,1991,4,16,0,90,198,Right-Handed,Two-Handed Backhand,Pedro Bernardi
+bh66,Mikhail,Biryukov,RUS,1992,4,28,0,0,0,0,0,Mikhail Biryukov
+bh76,Riccardo,Bellotti,ITA,1991,8,5,0,0,0,Right-Handed,Two-Handed Backhand,Riccardo Bellotti
+bh74,Mikhail,Balmashev,RUS,1990,8,5,0,0,0,0,0,Mikhail Balmashev
+bh87,Maverick,Banes,AUS,1992,4,10,0,0,0,0,0,Maverick Banes
+bh94,Tobias,Blomgren,SWE,1992,7,9,0,0,0,0,0,Tobias Blomgren
+bh98,Matthew,Barton,AUS,1991,12,18,2009,85,191,Right-Handed,Two-Handed Backhand,Matthew Barton
+bi09,Abdul-Hazli,Bin Zainuddin,MAS,1980,11,4,0,0,0,0,0,Abdul-Hazli Bin Zainuddin
+bi17,Phassawit,Burapharitta,THA,1992,12,24,0,0,0,0,0,Phassawit Burapharitta
+bi29,Jarryd,Bant,GBR,1992,10,29,0,70,183,0,0,Jarryd Bant
+bi23,Liam,Broady,GBR,1994,1,4,2014,78,183,Left-Handed,Two-Handed Backhand,Liam Broady
+bi50,Lewis,Burton,GBR,1992,3,23,0,85,193,Right-Handed,One-Handed Backhand,Lewis Burton
+bi75,Mihai,Badescu,ROU,1980,11,10,0,0,0,0,0,Mihai Badescu
+bi53,Victor,Baluda,RUS,1992,9,30,0,0,0,0,0,Victor Baluda
+bi81,Alex,Bolt,AUS,1993,1,5,0,84,183,Left-Handed,Two-Handed Backhand,Alex Bolt
+bi87,Ivan,Blazevic,CRO,1991,8,15,0,0,0,Right-Handed,Two-Handed Backhand,Ivan Blazevic
+bj28,Anton,Bettink,NZL,1992,12,11,0,0,0,0,0,Anton Bettink
+bj05,Harry,Bourchier,AUS,1996,1,24,0,76,185,Right-Handed,Two-Handed Backhand,Harry Bourchier
+bj43,Darius Florin,Bragusi,ROU,1993,6,18,0,74,180,Right-Handed,One-Handed Backhand,Darius Florin Bragusi
+bj37,Sebastien,Boltz,FRA,1993,4,5,0,74,178,Right-Handed,Two-Handed Backhand,Sebastien Boltz
+bj51,Drake,Bernstein,USA,1989,8,28,0,0,0,0,0,Drake Bernstein
+bj44,Florian,Barth,GER,1989,3,6,0,0,0,0,0,Florian Barth
+bj57,Nattan,Benjasupawan,THA,1994,8,22,0,0,0,0,0,Nattan Benjasupawan
+bj56,Johan,Backstrom,SWE,1991,5,1,0,0,0,Right-Handed,Two-Handed Backhand,Johan Backstrom
+bj76,Kevin,Boumlil,FRA,1989,6,13,0,0,0,0,0,Kevin Boumlil
+bj78,Claude,Benz,SUI,1992,4,18,0,0,0,Left-Handed,Two-Handed Backhand,Claude Benz
+bk19,Mathias,Bourgue,FRA,1994,1,18,0,83,188,Right-Handed,Two-Handed Backhand,Mathias Bourgue
+bk05,Luke,Bambridge,GBR,1995,1,21,0,85,191,Right-Handed,Two-Handed Backhand,Luke Bambridge
+bk23,Abdelkader,Benabdellah,MAR,1995,4,26,0,0,0,0,0,Abdelkader Benabdellah
+bk24,Gregoire,Barrere,FRA,1994,2,16,0,83,183,Right-Handed,Two-Handed Backhand,Gregoire Barrere
+bk34,Dimitri,Bretting,SUI,1993,3,7,0,0,0,Right-Handed,Two-Handed Backhand,Dimitri Bretting
+bk41,Punnakrit,Kritakara,THA,1993,6,3,0,68,175,Right-Handed,Two-Handed Backhand,Punnakrit Kritakara
+bk52,Dekel,Bar,ISR,1993,3,15,0,0,0,0,0,Dekel Bar
+bk56,Nizar,Belmati,MAR,1993,4,23,0,0,0,Right-Handed,Two-Handed Backhand,Nizar Belmati
+bk68,Francisco,Bahamonde,ITA,1996,11,7,0,74,185,Right-Handed,Two-Handed Backhand,Francisco Bahamonde
+bl53,Joao,Barra,POR,1994,7,21,0,0,0,0,0,Joao Barra
+bk85,Romain,Bogaerts,BEL,1993,12,23,0,76,188,Left-Handed,Two-Handed Backhand,Romain Bogaerts
+bl05,Romain,Barbosa,BEL,1994,4,17,0,85,185,Right-Handed,Two-Handed Backhand,Romain Barbosa
+bk92,Alexander,Bublik,KAZ,1997,6,17,2014,76,196,Right-Handed,Two-Handed Backhand,Alexander Bublik
+bl58,Matias Rodolfo,Buchhass,ARG,1993,2,27,0,85,180,Right-Handed,Two-Handed Backhand,Matias Rodolfo Buchhass
+bm00,Daniel,Brown,NZL,1990,9,9,0,0,0,0,0,Daniel Brown
+bl61,Filip,Bergevi,SWE,1994,4,20,0,0,0,Right-Handed,Two-Handed Backhand,Filip Bergevi
+bl78,Bogdan,Borza,ROU,1997,4,5,0,0,0,Left-Handed,Two-Handed Backhand,Bogdan Borza
+bm15,Joachim,Bjerke,NOR,1994,11,11,0,72,178,Right-Handed,Two-Handed Backhand,Joachim Bjerke
+bm19,Deiton,Baughman,USA,1996,4,23,0,0,0,0,0,Deiton Baughman
+bm43,Remi,Boutillier,FRA,1990,1,15,0,75,188,Right-Handed,One-Handed Backhand,Remi Boutillier
+bm45,Domagoj,Biljesko,CRO,1997,6,28,0,0,0,0,0,Domagoj Biljesko
+bo09,Alexander,Braun,GER,1995,3,28,0,0,0,Right-Handed,Two-Handed Backhand,Alexander Braun
+bp41,Antoine,Bellier,SUI,1996,10,18,0,80,196,Left-Handed,One-Handed Backhand,Antoine Bellier
+bp44,Gage,Brymer,USA,1995,2,7,0,70,185,Right-Handed,Two-Handed Backhand,Gage Brymer
+bt69,Sebastian,Buehler,GER,1995,6,23,0,0,0,Right-Handed,Two-Handed Backhand,Sebastian Buehler
+bu13,Zizou,Bergs,BEL,1999,6,3,0,0,0,Right-Handed,Two-Handed Backhand,Zizou Bergs
+bu54,Geoffrey,Blancaneaux,FRA,1998,8,8,2016,68,178,Right-Handed,Two-Handed Backhand,Geoffrey Blancaneaux
+bv27,Ulises,Blanch,USA,1998,3,25,0,79,185,Right-Handed,Two-Handed Backhand,Ulises Blanch
+c430,Tomas,Catar,SVK,1977,1,19,0,0,0,0,0,Tomas Catar
+c433,Guillermo,Canas,ARG,1977,11,25,1995,86,185,Right-Handed,Two-Handed Backhand,Guillermo Canas
+c447,Stefano,Cobolli,ITA,1977,3,2,1995,73,175,0,0,Stefano Cobolli
+c445,Frantisek,Cermak,CZE,1976,11,14,1998,80,193,0,0,Frantisek Cermak
+c455,Radovan,Chrz,CZE,1977,9,30,0,0,0,0,0,Radovan Chrz
+c463,Rodolphe,Cadart,FRA,1978,8,8,1997,76,183,0,0,Rodolphe Cadart
+c469,Igor,Tchelychev,RUS,1977,1,9,0,0,0,0,0,Igor Tchelychev
+c476,Nicolas,Coutelot,FRA,1977,2,9,1996,79,185,0,0,Nicolas Coutelot
+c478,Agustin,Calleri,ARG,1976,9,14,1995,86,183,Right-Handed,One-Handed Backhand,Agustin Calleri
+c487,Arnaud,Clement,FRA,1977,12,17,1996,74,173,Right-Handed,Two-Handed Backhand,Arnaud Clement
+c493,Jeff,Coetzee,RSA,1977,4,25,1996,70,173,0,0,Jeff Coetzee
+c514,Juan Ignacio,Chela,ARG,1979,8,30,1998,75,191,Right-Handed,Two-Handed Backhand,Juan Ignacio Chela
+c522,Kristian,Capalik,USA,1978,10,3,0,79,188,0,0,Kristian Capalik
+c524,Guillermo,Coria,ARG,1982,1,13,2000,69,175,Right-Handed,Two-Handed Backhand,Guillermo Coria
+c546,Teodor-Dacian,Craciun,ROU,1980,6,6,0,81,170,0,0,Teodor-Dacian Craciun
+c556,Carlos,Cuadrado,ESP,1983,6,1,0,71,180,0,0,Carlos Cuadrado
+c574,Tyler,Cleveland,USA,1978,10,15,0,0,0,0,0,Tyler Cleveland
+c577,Ladislav,Chramosta,CZE,1981,4,10,0,0,0,0,0,Ladislav Chramosta
+c582,Marco,Chiudinelli,SUI,1981,9,10,2000,85,185,Right-Handed,Two-Handed Backhand,Marco Chiudinelli
+c585,Tomas,Cakl,CZE,1981,4,25,2000,75,178,0,0,Tomas Cakl
+c608,Diego,Camacho,BOL,1983,5,21,0,0,0,0,0,Diego Camacho
+c611,Tobias,Clemens,GER,1979,8,14,2005,83,188,0,0,Tobias Clemens
+c627,Lee,Childs,GBR,1982,6,11,0,79,0,Right-Handed,One-Handed Backhand,Lee Childs
+c634,Paul,Capdeville,CHI,1983,4,2,2002,78,191,Right-Handed,Two-Handed Backhand,Paul Capdeville
+c648,Julien,Cassaigne,FRA,1982,1,14,0,0,0,0,0,Julien Cassaigne
+c660,Adam,Chadaj,POL,1984,5,1,2001,72,178,0,0,Adam Chadaj
+c663,Rabie,Chaki,MAR,1982,4,14,0,0,0,0,0,Rabie Chaki
+c666,Adrian,Cruciat,ROU,1983,3,31,0,76,0,0,0,Adrian Cruciat
+c672,Fernando ,Cabrera,MEX,1979,7,11,0,0,0,0,0,Fernando  Cabrera
+c706,Nikola,Ciric,SRB,1983,8,2,2000,94,201,Left-Handed,Two-Handed Backhand,Nikola Ciric
+c723,Flavio,Cipolla,ITA,1983,10,20,2003,74,173,Right-Handed,One-Handed Backhand,Flavio Cipolla
+c736,Olivier,Charroin,FRA,1982,3,10,2005,84,183,0,0,Olivier Charroin
+c750,Frank,Condor,ESP,1984,1,10,0,0,0,0,0,Frank Condor
+c759,Ivan,Cerovic,CRO,1982,3,1,2001,86,191,0,0,Ivan Cerovic
+c768,Lester,Cook,USA,1984,4,24,0,75,180,0,0,Lester Cook
+c775,Julio Cesar,Campozano,ECU,1986,1,31,0,0,0,0,0,Julio Cesar Campozano
+c786,Kamil,Capkovic,SVK,1986,6,2,2005,93,198,0,0,Kamil Capkovic
+c805,Andrew,Carlson,USA,1977,8,18,0,0,0,0,0,Andrew Carlson
+c813,Ti,Chen,TPE,1983,10,3,2002,73,178,0,0,Ti Chen
+c834,Juan Sebastian,Cabal,COL,1986,4,25,2005,82,185,Right-Handed,Two-Handed Backhand,Juan Sebastian Cabal
+c853,Pedro,Clar-Rossello,ESP,1986,1,23,0,0,0,Right-Handed,Two-Handed Backhand,Pedro Clar-Rossello
+c856,Victor,Crivoi,ROU,1982,5,25,2003,75,185,0,0,Victor Crivoi
+c866,Jose,Checa-Calvo,ESP,1985,4,2,0,85,191,Right-Handed,Two-Handed Backhand,Jose Checa-Calvo
+c879,Lado,Chikhladze,GEO,1985,6,15,0,0,0,0,0,Lado Chikhladze
+c893,Nick,Cavaday,GBR,1986,5,14,0,0,0,Right-Handed,Two-Handed Backhand,Nick Cavaday
+c882,Pablo,Cuevas,URU,1986,1,1,2004,80,180,Right-Handed,One-Handed Backhand,Pablo Cuevas
+c918,Erik,Chvojka,CAN,1986,10,26,2004,80,185,0,0,Erik Chvojka
+c922,James,Cerretani,USA,1981,10,2,2005,79,185,Left-Handed,One-Handed Backhand,James Cerretani
+c924,Alex,Clayton,USA,1987,11,23,0,77,183,0,0,Alex Clayton
+c938,Dawid,Celt,POL,1985,11,29,0,0,0,0,0,Dawid Celt
+c944,Evghenii,Corduneanu,MDA,1983,4,14,0,0,0,0,0,Evghenii Corduneanu
+c967,Andrew,Coelho,AUS,1987,10,2,0,66,180,0,0,Andrew Coelho
+c968,Marco,Crugnola,ITA,1983,5,24,2004,84,188,0,0,Marco Crugnola
+c990,Boris,Conkic,SRB,1987,6,5,0,0,0,0,0,Boris Conkic
+c977,Marin,Cilic,CRO,1988,9,28,2005,89,198,Right-Handed,Two-Handed Backhand,Marin Cilic
+c993,Ignacio,Coll-Riudavets,ESP,1987,9,5,0,0,0,0,0,Ignacio Coll-Riudavets
+c996,Alexandru-Daniel,Carpen,ROU,1986,11,24,0,0,0,0,0,Alexandru-Daniel Carpen
+ca12,Jeremy,Chardy,FRA,1987,2,12,2005,75,188,Right-Handed,Two-Handed Backhand,Jeremy Chardy
+ca18,Artur,Chernov,RUS,1988,6,4,0,0,0,0,0,Artur Chernov
+ca22,Pavol,Cervenak,SVK,1987,7,1,0,77,191,Right-Handed,Two-Handed Backhand,Pavol Cervenak
+ca28,Antonio,Comporto,ITA,1989,6,14,0,0,0,0,0,Antonio Comporto
+ca33,Inigo,Cervantes,ESP,1989,11,30,2009,78,183,Right-Handed,Two-Handed Backhand,Inigo Cervantes
+ca42,Carlos,Calderon-Rodriguez,ESP,1988,3,19,0,0,0,Right-Handed,Two-Handed Backhand,Carlos Calderon-Rodriguez
+ca44,Joe,Cooper,GBR,1986,5,28,0,68,178,Right-Handed,Two-Handed Backhand,Joe Cooper
+ca46,Joshua,Crowe,AUS,1988,7,28,0,0,0,0,0,Joshua Crowe
+ca61,Viorel-Catalin,Ciobanu,ROU,1981,3,17,0,0,0,0,0,Viorel-Catalin Ciobanu
+ca60,Andrei,Ciumac,MDA,1985,9,10,0,0,0,0,0,Andrei Ciumac
+ca62,Erik,Crepaldi,ITA,1990,5,4,0,0,0,0,0,Erik Crepaldi
+ca71,Edward,Corrie,GBR,1988,2,21,0,0,0,0,0,Edward Corrie
+ca99,Marius,Copil,ROU,1990,10,17,2008,86,191,Right-Handed,One-Handed Backhand,Marius Copil
+ca82,Yu,Chang,CHN,1988,8,14,0,70,185,Left-Handed,Two-Handed Backhand,Yu Chang
+ca93,Pavel,Chekhov,RUS,1988,7,27,0,72,0,0,0,Pavel Chekhov
+cb04,Alin-Mihai,Constantin,ROU,1990,2,1,0,0,0,0,0,Alin-Mihai Constantin
+cb11,Dane,Chuntraruk,THA,1985,12,27,0,0,0,0,0,Dane Chuntraruk
+cb14,Daniel,Cox,GBR,1990,9,28,2011,72,170,0,0,Daniel Cox
+cb33,Martin,Colenbrander,NZL,1988,9,8,0,0,0,0,0,Martin Colenbrander
+cb36,Rudy,Coco,FRA,1984,3,21,0,102,196,Left-Handed,Two-Handed Backhand,Rudy Coco
+cb41,Austen,Childs,NZL,1989,2,23,0,0,0,0,0,Austen Childs
+cb51,Bradley,Cox,USA,1989,5,23,0,0,0,0,0,Bradley Cox
+cb65,Darrin,Cohen,USA,1983,9,21,0,0,0,0,0,Darrin Cohen
+cb58,Henrique,Cunha,BRA,1990,4,30,0,75,178,Left-Handed,Two-Handed Backhand,Henrique Cunha
+cb67,Matias,Castro,ARG,1987,10,21,0,0,0,0,0,Matias Castro
+cb76,Robert,Coman,ROU,1990,11,2,0,0,0,0,0,Robert Coman
+cb77,Robert,Chambers,GBR,1988,1,31,0,0,0,0,0,Robert Chambers
+cb87,Rafael,Camilo,BRA,1990,3,13,0,0,0,0,0,Rafael Camilo
+cb88,Pitichart,Chokchaijaroen,THA,1986,1,14,0,0,0,0,0,Pitichart Chokchaijaroen
+cb97,Simon,Cauvard,FRA,1986,10,21,0,0,0,0,0,Simon Cauvard
+cc07,Hendrik,Coertzen,RSA,1990,8,12,0,0,0,0,0,Hendrik Coertzen
+cc21,Reid,Carleton,USA,1989,2,27,0,0,0,0,0,Reid Carleton
+cc24,George,Coupland,GBR,1989,5,12,0,73,193,0,0,George Coupland
+cc48,Pongphun,Chimdee,THA,1988,11,11,0,0,0,0,0,Pongphun Chimdee
+cc27,Antoine,Champagne,BEL,1990,9,18,0,0,0,0,0,Antoine Champagne
+cc32,Guilherme,Clezar,BRA,1992,12,31,2009,79,183,Right-Handed,Two-Handed Backhand,Guilherme Clezar
+cc51,Sa,Chen,CHN,1990,1,30,0,0,0,0,0,Sa Chen
+cc60,Piotr,Cialkowski,POL,1987,9,21,0,0,0,0,0,Piotr Cialkowski
+cc54,Nikola,Cacic,SRB,1990,12,7,0,75,185,Right-Handed,Two-Handed Backhand,Nikola Cacic
+cc57,Keith-Patrick,Crowley,RSA,1988,12,15,0,0,0,0,0,Keith-Patrick Crowley
+cc66,Andrea,Collarini,ARG,1992,1,31,2010,80,185,Left-Handed,Two-Handed Backhand,Andrea Collarini
+cc98,Martin,Cuevas,URU,1992,1,14,0,0,0,0,0,Martin Cuevas
+cc84,Daniel,Chu,CAN,1985,1,11,0,0,0,0,0,Daniel Chu
+cd00,Maxime,Chazal,FRA,1993,4,24,0,0,0,0,0,Maxime Chazal
+cd19,Alvaro,Cajigal,ESP,1992,1,30,0,0,0,0,0,Alvaro Cajigal
+cd30,Jack,Carpenter,GBR,1992,4,11,0,0,0,0,0,Jack Carpenter
+cd39,Charles,Costa,BRA,1989,5,24,0,0,0,0,0,Charles Costa
+cd61,Jordan,Cox,USA,1992,1,7,0,84,188,Right-Handed,Two-Handed Backhand,Jordan Cox
+cd94,Jarryd,Chaplin,AUS,1992,4,13,0,84,183,Right-Handed,One-Handed Backhand,Jarryd Chaplin
+ce25,Salvatore,Caruso,ITA,1992,12,15,2010,78,0,Right-Handed,Two-Handed Backhand,Salvatore Caruso
+cd85,Pablo,Carreno Busta,ESP,1991,7,12,2009,78,188,Right-Handed,Two-Handed Backhand,Pablo Carreno Busta
+ce28,Ben,Chen,USA,1991,1,7,0,0,0,0,0,Ben Chen
+ce32,Rodrigo,Carvalho,POR,1991,6,26,0,0,0,Right-Handed,Two-Handed Backhand,Rodrigo Carvalho
+ce33,Andre,Caiado,POR,1991,7,25,0,0,0,0,0,Andre Caiado
+ce35,Alexis,Carlos,MEX,1992,11,19,0,0,0,0,0,Alexis Carlos
+ce46,Julien,Carsuzaa,FRA,1986,12,8,0,0,0,0,0,Julien Carsuzaa
+ce76,Jesper,Cederlind,SWE,1992,2,27,0,0,0,0,0,Jesper Cederlind
+ce81,Scott,Clayton,GBR,1994,2,11,0,75,183,Right-Handed,Two-Handed Backhand,Scott Clayton
+ce98,Fedor,Chervyakov,RUS,1993,1,13,0,80,183,Right-Handed,Two-Handed Backhand,Fedor Chervyakov
+cf01,Marco,Cecchinato,ITA,1992,9,30,2010,78,185,Right-Handed,One-Handed Backhand,Marco Cecchinato
+cf23,Lance,Cohen,RSA,1988,2,12,0,88,193,0,0,Lance Cohen
+cf05,Zhao,Cai,CHN,1994,7,5,0,70,175,Right-Handed,Two-Handed Backhand,Zhao Cai
+cf25,Victor Vlad,Cornea,ROU,1993,9,24,0,81,198,Left-Handed,Two-Handed Backhand,Victor Vlad Cornea
+cf52,Andrei,Cociasu,ROU,1992,7,10,0,0,0,Right-Handed,Two-Handed Backhand,Andrei Cociasu
+cg04,Pedro,Cachin,ARG,1995,4,12,0,0,0,Right-Handed,Two-Handed Backhand,Pedro Cachin
+cf59,Roberto,Carballes Baena,ESP,1993,3,23,2011,76,180,Right-Handed,Two-Handed Backhand,Roberto Carballes Baena
+cg33,Kimmer,Coppejans,BEL,1994,2,7,0,68,180,Right-Handed,Two-Handed Backhand,Kimmer Coppejans
+cg07,Hernan,Casanova,ARG,1994,2,6,0,76,178,Right-Handed,Two-Handed Backhand,Hernan Casanova
+cg40,Patrick,Ciorcila ,ROU,1996,9,20,0,70,180,Right-Handed,Two-Handed Backhand,Patrick Ciorcila 
+cg42,Zhaoyi,Cao,CHN,1993,12,5,0,75,185,0,0,Zhaoyi Cao
+cg49,Andrew,Carter,USA,1990,3,28,0,73,170,0,0,Andrew Carter
+cg67,Oliver,Ceranic,AUS,1995,2,6,0,0,0,0,0,Oliver Ceranic
+cg73,Ayoub,Chakrouni,MAR,1991,6,10,0,0,0,0,0,Ayoub Chakrouni
+cg82,Robert,Carter,GBR,1993,7,13,0,0,0,0,0,Robert Carter
+cg80,Borna,Coric,CRO,1996,11,14,2013,79,185,Right-Handed,Two-Handed Backhand,Borna Coric
+cg92,Jose Fernando,Carvajal Torres,COL,1998,3,20,0,80,0,Right-Handed,Two-Handed Backhand,Jose Fernando Carvajal Torres
+cg94,Enzo,Couacaud,FRA,1995,3,1,0,0,0,Right-Handed,Two-Handed Backhand,Enzo Couacaud
+ch12,Jan,Choinski,GER,1996,6,10,0,80,196,Right-Handed,Two-Handed Backhand,Jan Choinski
+ch05,Altug,Celikbilek,TUR,1996,9,7,0,72,185,Right-Handed,Two-Handed Backhand,Altug Celikbilek
+cg97,Artur,Completo,POR,1994,2,21,0,74,178,Right-Handed,Two-Handed Backhand,Artur Completo
+ch27,Hyeon,Chung,KOR,1996,5,19,2014,87,188,Right-Handed,Two-Handed Backhand,Hyeon Chung
+ch35,Mile,Cilic,CRO,1994,11,7,0,0,0,0,0,Mile Cilic
+ch59,Elliot,Carnello,SWE,1995,4,26,0,0,0,0,0,Elliot Carnello
+ch73,Petros,Chrysochos,CYP,1996,4,8,0,0,0,Right-Handed,Two-Handed Backhand,Petros Chrysochos
+ch84,Felipe,Cunha-Silva,POR,1997,3,31,0,78,180,Right-Handed,One-Handed Backhand,Felipe Cunha-Silva
+ci14,Jay,Clarke,GBR,1998,7,27,0,80,183,Right-Handed,Two-Handed Backhand,Jay Clarke
+cj68,Stjepan,Cagalj,CRO,1995,8,30,0,78,191,Right-Handed,Two-Handed Backhand,Stjepan Cagalj
+cm74,Ian,Chadwell,USA,1991,4,2,0,0,0,0,0,Ian Chadwell
+cm82,Long,Chen,CHN,1996,5,18,0,70,175,Right-Handed,Two-Handed Backhand,Long Chen
+cm88,Congsup,Congcar,THA,1996,8,21,0,68,175,Right-Handed,Two-Handed Backhand,Congsup Congcar
+cn08,Jordan,Correia,BRA,1997,7,5,0,0,0,0,0,Jordan Correia
+cn78,Lucas,Catarina,MON,1996,8,26,0,0,0,Right-Handed,Two-Handed Backhand,Lucas Catarina
+d09v,Ivan,Denisov,RUS,2000,6,7,0,0,0,0,0,Ivan Denisov
+d291,Jacobo,Diaz,ESP,1976,7,11,1995,73,173,0,0,Jacobo Diaz
+d295,Sergi,Duran,ESP,1976,6,23,0,0,0,0,0,Sergi Duran
+d316,Ramon,Delgado,PAR,1976,11,14,1995,79,185,Right-Handed,Two-Handed Backhand,Ramon Delgado
+d289,Jamie,Delgado,GBR,1977,3,21,1995,70,178,0,0,Jamie Delgado
+d330,Alessio,Di Mauro,ITA,1977,8,9,1998,71,185,0,0,Alessio Di Mauro
+d339,Marcos,Daniel,BRA,1978,7,4,1997,79,180,Right-Handed,One-Handed Backhand,Marcos Daniel
+d347,Mariano,Delfino,ARG,1977,9,20,1997,85,183,0,0,Mariano Delfino
+d351,Sebastien,De Chaunac,FRA,1977,10,7,1998,74,183,0,0,Sebastien De Chaunac
+d353,Jose,De Armas,VEN,1981,3,25,1999,78,0,0,0,Jose De Armas
+d357,Arnaud,Di Pasquale,FRA,1979,2,11,1998,80,185,Right-Handed,One-Handed Backhand,Arnaud Di Pasquale
+d359,Artem,Derepasko,RUS,1980,1,26,0,0,0,0,0,Artem Derepasko
+d361,Massimo,Dell'Acqua,ITA,1979,9,6,1999,86,193,0,0,Massimo Dell'Acqua
+d363,Dejan,Djokic,SRB,1980,10,19,0,0,0,0,0,Dejan Djokic
+d362,Taylor,Dent,USA,1981,4,24,1998,88,188,Right-Handed,One-Handed Backhand,Taylor Dent
+d385,Benedikt,Dorsch,GER,1981,1,10,2005,84,178,0,0,Benedikt Dorsch
+d424,Rik,De Voest,RSA,1980,6,5,1999,68,180,Right-Handed,Two-Handed Backhand,Rik De Voest
+d402,Nikolay,Davydenko,RUS,1981,6,2,1999,70,178,Right-Handed,Two-Handed Backhand,Nikolay Davydenko
+d437,Andres,Dellatorre,ARG,1980,7,9,1999,85,191,0,0,Andres Dellatorre
+d438,Amer,Delic,BIH,1982,6,30,2003,93,196,Right-Handed,One-Handed Backhand,Amer Delic
+d468,Thomas,Drouet,MON,1983,5,17,0,0,0,0,0,Thomas Drouet
+d463,Baptiste,Dupuy,FRA,1981,1,16,0,0,0,0,0,Baptiste Dupuy
+d469,Nicolas,Devilder,FRA,1980,3,25,2000,65,173,Left-Handed,Two-Handed Backhand,Nicolas Devilder
+d479,Sebastian,Decoud,ARG,1981,9,18,2000,80,180,Left-Handed,One-Handed Backhand,Sebastian Decoud
+d499,Frank,Dancevic,CAN,1984,9,26,2003,79,185,Right-Handed,One-Handed Backhand,Frank Dancevic
+d487,Lukas,Dlouhy,CZE,1983,4,9,2001,88,185,0,0,Lukas Dlouhy
+d502,Yann,Dupuy,FRA,1978,4,20,0,0,0,0,0,Yann Dupuy
+d519,Vadim,Davletshin,RUS,1984,10,7,0,0,0,0,0,Vadim Davletshin
+d526,Raphael,Durek,AUS,1984,2,2,2003,79,188,0,0,Raphael Durek
+d532,Minh-Quan,Do,VIE,1984,1,7,0,0,0,0,0,Minh-Quan Do
+d540,Tin,Dong,USA,1982,11,6,0,0,0,0,0,Tin Dong
+d551,Farrukh,Dustov,UZB,1986,5,22,2003,88,193,0,0,Farrukh Dustov
+d555,Sergei,Demekhine,RUS,1984,3,30,0,0,0,0,0,Sergei Demekhine
+d556,Brian,Dabul,ARG,1984,2,24,2001,70,170,0,0,Brian Dabul
+d616,Somdev,Devvarman,IND,1985,2,13,2008,73,180,Right-Handed,Two-Handed Backhand,Somdev Devvarman
+d617,Ryler,DeHeart,USA,1984,1,3,2006,79,183,Left-Handed,One-Handed Backhand,Ryler DeHeart
+d626,Kevin,Deden,GER,1984,2,25,0,0,0,0,0,Kevin Deden
+d632,Steve,Darcis,BEL,1984,3,13,2003,77,178,Right-Handed,One-Handed Backhand,Steve Darcis
+d643,Novak,Djokovic,SRB,1987,5,22,2003,77,188,Right-Handed,Two-Handed Backhand,Novak Djokovic
+d646,Ivan,Dodig,CRO,1985,1,2,2004,83,183,Right-Handed,Two-Handed Backhand,Ivan Dodig
+d677,Zach,Dailey,USA,1981,11,14,0,0,0,0,0,Zach Dailey
+d683,Juan Martin,del Potro,ARG,1988,9,23,2005,97,198,Right-Handed,Two-Handed Backhand,Juan Martin del Potro
+d684,Weerapat,Doakmaiklee,THA,1987,6,13,0,0,0,0,0,Weerapat Doakmaiklee
+d686,Pierre-Ludovic,Duclos,CAN,1986,1,8,2007,75,188,0,0,Pierre-Ludovic Duclos
+d689,Luis,Diaz-Barriga,MEX,1986,4,9,0,0,0,0,0,Luis Diaz-Barriga
+d716,Jeff,Dadamo,USA,1989,7,17,0,0,0,0,0,Jeff Dadamo
+d718,Remko,de Rijke,NED,1986,11,6,0,0,0,0,0,Remko de Rijke
+d727,Jeffrey,Das,USA,1985,2,25,0,0,0,0,0,Jeffrey Das
+d729,Jonathan,Dasnieres de Veigy,FRA,1987,1,5,2008,76,175,Left-Handed,Two-Handed Backhand,Jonathan Dasnieres de Veigy
+d735,Damiano,Di Ienno,ITA,1989,5,18,0,0,0,0,0,Damiano Di Ienno
+d749,Daniel,Danilovic,SWE,1988,7,25,0,0,0,Right-Handed,Two-Handed Backhand,Daniel Danilovic
+d750,Kenny,De Schepper,FRA,1987,5,29,2010,104,203,Left-Handed,One-Handed Backhand,Kenny De Schepper
+d752,Niels,Desein,BEL,1987,6,9,2007,85,191,0,0,Niels Desein
+d763,Marcus,Daniell,NZL,1989,11,9,2008,78,191,Right-Handed,Two-Handed Backhand,Marcus Daniell
+d776,Thiemo,de Bakker,NED,1988,9,19,0,83,193,Right-Handed,Two-Handed Backhand,Thiemo de Bakker
+d787,Guillermo,Duran,ARG,1988,6,6,2009,82,178,Right-Handed,Two-Handed Backhand,Guillermo Duran
+d790,Mark,De Jong,NED,1987,2,20,0,0,0,0,0,Mark De Jong
+d808,Julien,Dubail,BEL,1988,2,14,0,78,193,0,0,Julien Dubail
+d801,Alexandr,Dolgopolov,UKR,1988,11,7,2006,71,180,Right-Handed,Two-Handed Backhand,Alexandr Dolgopolov
+d815,Fabiano,De Paula,BRA,1988,11,28,0,78,178,Right-Handed,One-Handed Backhand,Fabiano De Paula
+d820,Ye,Du,CHN,1988,3,14,0,0,0,0,0,Ye Du
+d837,Luigi,D'Agord,ITA,1984,10,10,0,0,0,0,0,Luigi D'Agord
+d833,Marcelo,Demoliner,BRA,1989,1,18,0,86,191,Right-Handed,One-Handed Backhand,Marcelo Demoliner
+d844,Gabriel,Dias,BRA,1991,6,21,0,0,0,0,0,Gabriel Dias
+d846,Adrian-Marin,Dancescu,ROU,1989,7,11,0,0,0,0,0,Adrian-Marin Dancescu
+d856,Silvio,Dadic,CRO,1990,11,7,0,0,0,0,0,Silvio Dadic
+d861,Graeme,Dyce,GBR,1989,7,24,0,0,0,0,0,Graeme Dyce
+d864,Evgeny,Donskoy,RUS,1990,5,9,2007,74,185,Right-Handed,Two-Handed Backhand,Evgeny Donskoy
+d871,Christopher,Dekker,NED,1987,10,13,0,0,0,0,0,Christopher Dekker
+d862,Dorian,Descloix,FRA,1988,3,14,0,86,193,Right-Handed,One-Handed Backhand,Dorian Descloix
+d868,Christopher,Diaz-Figueroa,GUA,1990,3,14,0,71,178,Right-Handed,Two-Handed Backhand,Christopher Diaz-Figueroa
+d873,Jonathan,David,CAN,1988,9,1,0,62,170,Right-Handed,Two-Handed Backhand,Jonathan David
+d876,Ben,Dunbar,GBR,1989,8,17,0,0,0,0,0,Ben Dunbar
+d878,Alexander,Domijan,USA,1991,9,3,0,0,0,0,0,Alexander Domijan
+d874,Federico,Delbonis,ARG,1990,10,5,2007,88,191,Left-Handed,Two-Handed Backhand,Federico Delbonis
+d875,Grigor,Dimitrov,BUL,1991,5,16,2008,80,191,Right-Handed,One-Handed Backhand,Grigor Dimitrov
+d891,Jared,Drucker,USA,1986,5,29,0,0,0,0,0,Jared Drucker
+d893,Marko,Djokovic,SRB,1991,8,20,0,0,0,0,0,Marko Djokovic
+d908,Philipp,Davydenko,RUS,1992,9,2,0,79,183,Right-Handed,One-Handed Backhand,Philipp Davydenko
+d915,Eduardo,Dischinger,BRA,1992,5,18,0,0,0,0,0,Eduardo Dischinger
+d917,Sadio,Doumbia,FRA,1990,9,12,0,79,185,Right-Handed,One-Handed Backhand,Sadio Doumbia
+d916,Steven,Diez,CAN,1991,3,17,0,0,0,Right-Handed,Two-Handed Backhand,Steven Diez
+d928,Francisco,Dias,POR,1992,5,1,0,0,0,0,0,Francisco Dias
+d923,Damir,Dzumhur,BIH,1992,5,20,2011,70,175,Right-Handed,Two-Handed Backhand,Damir Dzumhur
+d935,Gibril,Diarra,AUT,1990,5,26,0,85,196,0,0,Gibril Diarra
+d934,Marin,Draganja,CRO,1991,5,13,0,78,185,Right-Handed,One-Handed Backhand,Marin Draganja
+d946,Marcos Vinicius ,Dias,BRA,1993,4,24,0,81,183,Right-Handed,Two-Handed Backhand,Marcos Vinicius  Dias
+d960,Kirill,Dmitriev,RUS,1991,8,9,0,84,191,0,0,Kirill Dmitriev
+d961,Tudor,Dumitrescu,ROU,1989,7,14,0,0,0,0,0,Tudor Dumitrescu
+d981,Arthur,De Greef,BEL,1992,3,27,2010,73,183,Right-Handed,Two-Handed Backhand,Arthur De Greef
+d985,Joao,Domingues,POR,1993,10,5,2013,70,0,Right-Handed,Two-Handed Backhand,Joao Domingues
+d994,James,Duckworth,AUS,1992,1,21,2010,82,183,Right-Handed,Two-Handed Backhand,James Duckworth
+da01,Patrick,Davidson,USA,1990,4,9,0,75,183,0,0,Patrick Davidson
+da02,Maxim,Dubarenco,BLR,1993,6,24,0,0,0,0,0,Maxim Dubarenco
+da13,Dragos,Dima,ROU,1992,6,16,0,70,180,Right-Handed,One-Handed Backhand,Dragos Dima
+da17,Maximilian,Dinslaken,GER,1992,6,8,0,0,0,Right-Handed,Two-Handed Backhand,Maximilian Dinslaken
+da23,Patrick,Daciek,USA,1990,3,9,0,75,178,Right-Handed,Two-Handed Backhand,Patrick Daciek
+da29,David,De Goede,NED,1990,10,6,0,0,0,0,0,David De Goede
+da30,Shalva,Dzhanashia,RUS,1992,8,26,0,0,0,Left-Handed,Two-Handed Backhand,Shalva Dzhanashia
+da31,Hugo,Dellien,BOL,1993,6,16,0,0,0,0,0,Hugo Dellien
+da44,Luciano,Doria,ARG,1993,1,27,0,78,180,Right-Handed,Two-Handed Backhand,Luciano Doria
+da53,Ariez Elyaas,Deen Heshaam,MAS,1993,12,24,0,0,0,Right-Handed,Two-Handed Backhand,Ariez Elyaas Deen Heshaam
+da59,Florent,Diep,FRA,1991,9,24,0,80,191,0,0,Florent Diep
+da67,Matteo,Donati,ITA,1995,2,28,2013,74,185,Right-Handed,Two-Handed Backhand,Matteo Donati
+da81,Taro,Daniel,JPN,1993,1,27,2010,76,191,Right-Handed,Two-Handed Backhand,Taro Daniel
+da86,Joris,De Loore,BEL,1993,4,21,2011,86,191,Right-Handed,Two-Handed Backhand,Joris De Loore
+da89,Mate,Delic,CRO,1993,4,29,0,86,196,Right-Handed,Two-Handed Backhand,Mate Delic
+db28,Andrew,Dzulynsky,USA,1993,3,30,0,0,0,0,0,Andrew Dzulynsky
+db22,Anthony,Delcore,USA,1993,12,20,0,0,0,0,0,Anthony Delcore
+db44,Djordje,Djokovic,SRB,1995,7,17,0,0,0,0,0,Djordje Djokovic
+db49,Andre,Dome,USA,1990,8,13,0,77,180,Right-Handed,Two-Handed Backhand,Andre Dome
+db51,Cedric,De Zutter,BEL,1992,1,27,0,0,0,0,0,Cedric De Zutter
+db59,Dennis,Novak,AUT,1993,8,28,2011,80,183,Right-Handed,Two-Handed Backhand,Dennis Novak
+db63,Laslo,Djere,SRB,1995,6,2,2013,80,185,Right-Handed,Two-Handed Backhand,Laslo Djere
+db69,Tomislav,Draganja,CRO,1994,8,10,0,87,191,0,0,Tomislav Draganja
+dc07,Max,De Vroome,NED,1994,6,1,0,0,0,Right-Handed,Two-Handed Backhand,Max De Vroome
+dc51,Nuno,Deus,POR,1995,5,7,0,74,183,0,0,Nuno Deus
+dc58,Jared,Donaldson,USA,1996,10,9,2014,75,188,Right-Handed,Two-Handed Backhand,Jared Donaldson
+dc76,Viktor,Durasovic,NOR,1997,3,19,0,0,0,0,0,Viktor Durasovic
+dd50,Roy,De Valk,NED,1991,12,30,0,85,185,Right-Handed,Two-Handed Backhand,Roy De Valk
+df92,Corentin,Denolly,FRA,1997,6,6,0,77,185,Left-Handed,Two-Handed Backhand,Corentin Denolly
+df98,Walker,Duncan,USA,1996,5,7,0,77,185,Right-Handed,Two-Handed Backhand,Walker Duncan
+dh18,Guy,Den Heijer,NED,1997,3,30,0,0,0,0,0,Guy Den Heijer
+dh58,Alex,de Minaur,AUS,1999,2,17,2015,69,180,Right-Handed,Two-Handed Backhand,Alex de Minaur
+e09o,Mayez Jupiter,Elrich,AUS,1999,4,9,0,0,0,Right-Handed,Two-Handed Backhand,Mayez Jupiter Elrich
+e135,Eyal,Erlich,ISR,1977,1,1,1995,72,183,0,0,Eyal Erlich
+e140,Nicolas,Escude,FRA,1976,4,3,1995,70,185,0,0,Nicolas Escude
+e143,Ben,Ellwood,AUS,1976,3,12,1994,76,178,0,0,Ben Ellwood
+e152,Jonathan,Erlich,ISR,1977,4,5,1996,78,178,0,0,Jonathan Erlich
+e155,Daniel,Elsner,GER,1979,1,4,1997,80,183,0,0,Daniel Elsner
+e159,Mounir,El Aarej,MAR,1977,6,16,0,0,0,0,0,Mounir El Aarej
+e160,Konstantinos,Economidis,GRE,1977,11,2,1998,80,188,0,0,Konstantinos Economidis
+e169,Gilles,Elseneer,BEL,1978,3,6,1998,77,188,0,0,Gilles Elseneer
+e180,Mikhail,Elgin,RUS,1981,10,14,1998,78,183,0,0,Mikhail Elgin
+e196,Rainer,Eitzinger,AUT,1983,6,28,2003,65,178,0,0,Rainer Eitzinger
+e212,Bruno,Echagaray,MEX,1983,5,8,2000,84,183,Right-Handed,One-Handed Backhand,Bruno Echagaray
+e223,Martin,Emmrich,GER,1984,12,17,2001,81,183,Left-Handed,Two-Handed Backhand,Martin Emmrich
+e232,Juan-Manuel,Elizondo,MEX,1983,6,8,0,74,180,Ambidextrous,Two-Handed Backhand,Juan-Manuel Elizondo
+e224,Victor,Estrella Burgos,DOM,1980,8,2,2002,77,170,Right-Handed,One-Handed Backhand,Victor Estrella Burgos
+e243,David,Estruch,ESP,1985,7,20,0,0,0,0,0,David Estruch
+e254,Brendan,Evans,USA,1986,4,8,2004,91,188,0,0,Brendan Evans
+e629,Colin,Ebelthite,AUS,1984,11,27,0,0,0,0,0,Colin Ebelthite
+e634,Mikael,Ekman,SWE,1984,3,30,0,0,0,0,0,Mikael Ekman
+e639,Ervin,Eleskovic,SWE,1987,5,8,0,0,0,0,0,Ervin Eleskovic
+e654,Omar,El Hizaz,MAR,1980,9,15,0,0,0,0,0,Omar El Hizaz
+e655,Reda,El Amrani,MAR,1988,5,19,0,82,185,Right-Handed,Two-Handed Backhand,Reda El Amrani
+e661,Gonzalo,Escobar,ECU,1989,1,20,0,0,0,Left-Handed,Two-Handed Backhand,Gonzalo Escobar
+e669,Patrick,Eichenberger,SUI,1988,6,2,0,0,0,0,0,Patrick Eichenberger
+e672,Laurentiu,Erlic,ROU,1986,12,20,0,0,0,0,0,Laurentiu Erlic
+e673,Chris,Eaton,GBR,1987,11,27,0,76,0,0,0,Chris Eaton
+e678,Jonathan,Eysseric,FRA,1990,5,27,2008,79,180,Left-Handed,Two-Handed Backhand,Jonathan Eysseric
+e688,Markus,Eriksson,SWE,1989,11,29,0,80,188,Right-Handed,Two-Handed Backhand,Markus Eriksson
+e679,Joe,Epkey,USA,1984,6,1,0,0,0,0,0,Joe Epkey
+e687,Daniel,Evans,GBR,1990,5,23,2006,75,175,Right-Handed,One-Handed Backhand,Daniel Evans
+e690,Matthew,Ebden,AUS,1987,11,26,2006,80,188,Right-Handed,Two-Handed Backhand,Matthew Ebden
+e698,Gastao,Elias,POR,1990,11,24,2008,76,183,Right-Handed,Two-Handed Backhand,Gastao Elias
+e701,Ivan,Endara,ECU,1988,3,4,0,75,0,Right-Handed,Two-Handed Backhand,Ivan Endara
+e702,Mauricio,Echazu,PER,1989,1,21,0,0,0,0,0,Mauricio Echazu
+e708,Maximiliano,Estevez,ARG,1989,5,18,0,82,191,Left-Handed,Two-Handed Backhand,Maximiliano Estevez
+e723,Benedikt,Eger,GER,1989,12,8,0,0,0,0,0,Benedikt Eger
+e720,Adam,El Mihdawy,USA,1989,8,9,0,0,0,0,0,Adam El Mihdawy
+e728,Idio,Escobar,BRA,1991,11,22,0,0,0,0,0,Idio Escobar
+e730,Omar,Erramy,MAR,1988,10,15,0,0,0,0,0,Omar Erramy
+e736,Joss,Espasandin,SUI,1990,5,4,0,0,0,0,0,Joss Espasandin
+e739,Gregorio,Espinosa Muller,FRA,1983,9,21,0,0,0,0,0,Gregorio Espinosa Muller
+e740,Nicholas,Edlefsen,USA,1984,7,21,0,0,0,0,0,Nicholas Edlefsen
+e757,Hiroyasu,Ehara,JPN,1991,6,18,0,0,0,0,0,Hiroyasu Ehara
+e762,Ahmed,El Menshawy,GBR,1991,3,3,0,0,0,0,0,Ahmed El Menshawy
+e764,Justin,Eleveld,NED,1992,5,26,0,0,0,0,0,Justin Eleveld
+e768,Antoine,Escoffier,FRA,1992,2,29,0,0,0,0,0,Antoine Escoffier
+e780,Sandro,Ehrat,SUI,1991,4,18,0,0,180,0,0,Sandro Ehrat
+e804,Simon,Ede,AUS,1992,3,13,0,0,0,0,0,Simon Ede
+e806,Michael,Eibl,AUT,1993,9,14,0,0,0,0,0,Michael Eibl
+e831,Kyle,Edmund,GBR,1995,1,8,2012,83,188,Right-Handed,Two-Handed Backhand,Kyle Edmund
+e807,Amir,El-Bayoumy,EGY,1984,12,3,0,0,0,0,0,Amir El-Bayoumy
+e811,Elmar,Ejupovic,GER,1993,2,1,0,90,193,0,0,Elmar Ejupovic
+e865,Christopher,Eubanks,USA,1996,5,5,2017,82,201,Right-Handed,One-Handed Backhand,Christopher Eubanks
+e861,Nicolas,Ernst,GER,1986,12,28,0,0,0,Right-Handed,Two-Handed Backhand,Nicolas Ernst
+e832,Neeraj,Elangovan,IND,1995,2,2,0,0,0,0,0,Neeraj Elangovan
+e857,Evgeny,Elistratov,RUS,1994,12,28,0,85,193,Right-Handed,Two-Handed Backhand,Evgeny Elistratov
+e876,Magnus,Eriksson,SWE,1992,6,7,0,0,0,0,0,Magnus Eriksson
+e873,Ernesto,Escobedo,USA,1996,7,4,2014,82,185,Right-Handed,Two-Handed Backhand,Ernesto Escobedo
+e923,Daniel,Eger,AUT,1995,8,31,0,0,0,0,0,Daniel Eger
+e928,Alexander,Erler,AUT,1997,10,27,0,0,0,0,0,Alexander Erler
+ea16,Juan,Espinel,COL,1993,6,5,0,0,0,Right-Handed,Two-Handed Backhand,Juan Espinel
+ea23,Camilo Andres,Erazo,COL,1996,12,27,0,75,0,Left-Handed,Two-Handed Backhand,Camilo Andres Erazo
+ea25,Rodrigo,Echavarria,COL,1996,12,10,0,0,0,0,0,Rodrigo Echavarria
+f253,Joao,Ferreira,POR,1986,4,3,0,0,0,0,0,Joao Ferreira
+f291,Ruben,Fernandez,ESP,1978,1,12,0,0,0,0,0,Ruben Fernandez
+f290,Kalle,Flygt,SWE,1976,6,15,0,0,0,0,0,Kalle Flygt
+f292,Ota,Fukarek,CZE,1977,1,18,1995,78,191,0,0,Ota Fukarek
+f299,Leos,Friedl,CZE,1977,1,1,1997,80,183,0,0,Leos Friedl
+f303,Francisco,Fogues,ESP,1977,8,6,1998,82,191,0,0,Francisco Fogues
+f312,Andy,Fahlke,GER,1979,5,30,1996,82,185,0,0,Andy Fahlke
+f309,Oliver,Freelove,GBR,1977,3,5,0,0,0,0,0,Oliver Freelove
+f313,Gorka,Fraile,ESP,1978,4,7,0,82,180,0,0,Gorka Fraile
+f316,Juan Carlos,Ferrero,ESP,1980,2,12,1998,73,183,Right-Handed,Two-Handed Backhand,Juan Carlos Ferrero
+f323,Sebastian,Fitz,GER,1979,8,12,0,0,0,0,0,Sebastian Fitz
+f324,Roger,Federer,SUI,1981,8,8,1998,85,185,Right-Handed,One-Handed Backhand,Roger Federer
+f334,Katsushi,Fukuda,JPN,1976,4,14,0,0,0,0,0,Katsushi Fukuda
+f337,Zack,Fleishman,USA,1980,3,17,2000,84,188,0,0,Zack Fleishman
+f339,Mardy,Fish,USA,1981,12,9,2000,82,188,Right-Handed,Two-Handed Backhand,Mardy Fish
+f344,Jean-Christophe,Faurel,FRA,1981,3,6,2000,69,175,0,0,Jean-Christophe Faurel
+f345,Andreas,Fasching,AUT,1981,1,1,0,0,0,0,0,Andreas Fasching
+f360,Jonas,Froberg,SWE,1981,4,11,0,0,0,0,0,Jonas Froberg
+f364,Mariusz,Fyrstenberg,POL,1980,7,8,2001,80,191,0,0,Mariusz Fyrstenberg
+f376,Alberto,Francis,USA,1982,2,6,2005,86,196,0,0,Alberto Francis
+f375,Marc,Fornell-Mestres,ESP,1982,1,26,0,0,0,Right-Handed,Two-Handed Backhand,Marc Fornell-Mestres
+f377,Holger,Fischer,GER,1980,12,11,0,0,0,0,0,Holger Fischer
+f378,John Paul,Fruttero,USA,1981,4,30,2003,79,185,Right-Handed,One-Handed Backhand,John Paul Fruttero
+f403,Timo,Fleischfresser,GER,1979,3,23,0,0,0,0,0,Timo Fleischfresser
+f392,Marcel,Felder,URU,1984,7,9,0,64,0,Right-Handed,One-Handed Backhand,Marcel Felder
+f401,David,Ferrer,ESP,1982,4,2,2000,73,175,Right-Handed,Two-Handed Backhand,David Ferrer
+f428,Jaime,Fillol,CHI,1976,11,3,0,0,0,0,0,Jaime Fillol
+f432,Alexander,Flock,GER,1983,5,15,2001,80,191,0,0,Alexander Flock
+f417,Alexei,Filenkov,RUS,1981,5,17,0,0,0,0,0,Alexei Filenkov
+f433,Franco,Ferreiro,BRA,1984,7,1,2002,82,188,0,0,Franco Ferreiro
+f434,Alejandro,Fabbri,ARG,1982,10,27,0,0,0,0,0,Alejandro Fabbri
+f444,Alejandro,Falla,COL,1983,11,14,2000,77,185,Left-Handed,Two-Handed Backhand,Alejandro Falla
+f436,Ian,Flanagan,GBR,1982,1,15,0,0,0,0,0,Ian Flanagan
+f454,Colin,Fleming,GBR,1984,8,13,0,80,188,Right-Handed,Two-Handed Backhand,Colin Fleming
+f464,Luis Manuel,Flores,MEX,1985,2,1,0,0,0,Left-Handed,Two-Handed Backhand,Luis Manuel Flores
+f473,Romano,Frantzen,NED,1982,4,18,0,70,185,Left-Handed,Two-Handed Backhand,Romano Frantzen
+f480,Mohammed,Fetov,SUI,1984,8,30,0,0,0,0,0,Mohammed Fetov
+f491,Adam,Feeney,AUS,1985,3,7,0,70,178,0,0,Adam Feeney
+f502,Pablo,Figueroa,SWE,1985,4,18,0,0,0,0,0,Pablo Figueroa
+f525,Robert,Farah,COL,1987,1,20,2010,91,191,Right-Handed,Two-Handed Backhand,Robert Farah
+f510,Fabio,Fognini,ITA,1987,5,24,2004,74,178,Right-Handed,Two-Handed Backhand,Fabio Fognini
+f531,Joao,Fernandes,POR,1987,4,3,0,0,0,0,0,Joao Fernandes
+f536,Marcus,Fugate,USA,1988,1,22,0,0,0,0,0,Marcus Fugate
+f569,Anas,Fattar,MAR,1987,5,12,0,0,0,0,0,Anas Fattar
+f593,Robin,Fahgen,SWE,1986,3,23,0,0,0,0,0,Robin Fahgen
+f586,Thomas,Fabbiano,ITA,1989,5,26,2005,69,173,Right-Handed,Two-Handed Backhand,Thomas Fabbiano
+f580,Martin,Fischer,AUT,1986,7,21,2005,71,180,0,0,Martin Fischer
+f606,Patrik,Fischer,SUI,1985,8,7,0,0,0,0,0,Patrik Fischer
+f607,Goncalo,Falcao,POR,1988,2,22,0,77,0,0,0,Goncalo Falcao
+f619,Tristan,Farron-Mahon,IRL,1987,5,26,0,71,0,0,0,Tristan Farron-Mahon
+f610,Pedro,Feitosa,BRA,1988,7,29,2006,72,178,0,0,Pedro Feitosa
+f620,Nikolai,Fidirko,BLR,1987,6,15,0,85,185,0,0,Nikolai Fidirko
+f631,James,Feaver,GBR,1986,9,10,0,0,0,0,0,James Feaver
+f640,Jesus Francisco,Felix,DOM,1982,4,9,0,68,178,Right-Handed,One-Handed Backhand,Jesus Francisco Felix
+f644,Ibrahim,Fetov,SUI,1988,4,29,0,0,0,0,0,Ibrahim Fetov
+f634,Isaac,Frost,AUS,1989,1,6,0,0,0,0,0,Isaac Frost
+f663,Stephan,Fransen,NED,1988,8,8,0,0,0,0,0,Stephan Fransen
+f693,Andrew,Fitzpatrick,GBR,1989,4,6,0,0,0,0,0,Andrew Fitzpatrick
+f684,Denny,Fafek,USA,1989,9,19,0,0,0,0,0,Denny Fafek
+f698,Taylor,Fogleman,USA,1987,6,17,0,0,0,0,0,Taylor Fogleman
+f703,Mikhail,Fufygin,RUS,1990,5,13,0,0,0,0,0,Mikhail Fufygin
+f705,Antoine,Feret,FRA,1990,4,9,0,0,0,0,0,Antoine Feret
+f706,Tiago,Fernandes,BRA,1993,1,29,0,0,0,0,0,Tiago Fernandes
+f714,Patrick,Frandji,USA,1988,12,6,0,0,0,0,0,Patrick Frandji
+f719,Harry,Fowler,USA,1991,12,23,0,0,0,0,0,Harry Fowler
+f724,Marton,Fucsovics,HUN,1992,2,8,2010,82,188,Right-Handed,Two-Handed Backhand,Marton Fucsovics
+f727,Marin,Franjicevic,CRO,1990,4,12,0,0,0,0,0,Marin Franjicevic
+f723,Mark,Fynn,ZIM,1985,4,16,0,75,183,Right-Handed,One-Handed Backhand,Mark Fynn
+f759,David,Fleming,CHI,1992,4,5,0,66,0,Right-Handed,Two-Handed Backhand,David Fleming
+f733,Mitchell,Frank,USA,1992,10,16,0,79,185,Right-Handed,Two-Handed Backhand,Mitchell Frank
+f747,Claudio,Fortuna,ITA,1990,4,19,0,0,0,0,0,Claudio Fortuna
+f762,Florian,Fallert,GER,1992,5,25,0,73,183,0,0,Florian Fallert
+f776,Thomas Jun,Facchini Takemoto,BRA,1992,11,15,0,0,0,Right-Handed,Two-Handed Backhand,Thomas Jun Facchini Takemoto
+f787,Emilien,Firmin,FRA,1990,7,11,0,0,0,Right-Handed,Two-Handed Backhand,Emilien Firmin
+f794,Ioan,Farcas,ROU,1991,3,27,0,0,0,0,0,Ioan Farcas
+f808,He,Feng,CHN,1993,2,11,0,78,191,Right-Handed,Two-Handed Backhand,He Feng
+f807,Blade,Fong,AUS,1992,6,4,0,71,180,Right-Handed,One-Handed Backhand,Blade Fong
+f812,Emanuel,Fraitzl,GER,1987,7,16,0,0,0,0,0,Emanuel Fraitzl
+f858,Franco,Feitt,ARG,1992,9,3,0,83,193,Right-Handed,Two-Handed Backhand,Franco Feitt
+f811,Bjorn,Fratangelo,USA,1993,7,19,2012,79,183,Right-Handed,Two-Handed Backhand,Bjorn Fratangelo
+f859,Bastien,Favier,FRA,1990,10,2,0,0,0,0,0,Bastien Favier
+f823,Stefan,Fiacan,SUI,1994,3,29,0,75,0,Right-Handed,Two-Handed Backhand,Stefan Fiacan
+f916,Theo,Fournerie,FRA,1997,3,6,0,0,0,Right-Handed,Two-Handed Backhand,Theo Fournerie
+fa48,Antonioni,Fasano,BRA,1998,6,28,0,79,183,Right-Handed,One-Handed Backhand,Antonioni Fasano
+fb98,Taylor,Fritz,USA,1997,10,28,2015,84,193,Right-Handed,Two-Handed Backhand,Taylor Fritz
+g323,Eric,Gomes,BRA,1984,10,8,0,0,0,0,0,Eric Gomes
+g331,Jean-Noel,Grinda,FRA,1976,4,20,0,0,0,0,0,Jean-Noel Grinda
+g334,Giorgio,Galimberti,ITA,1976,9,5,1995,79,180,0,0,Giorgio Galimberti
+g333,Paul,Goldstein,USA,1976,8,4,1998,72,178,0,0,Paul Goldstein
+g353,Martin,Garcia,ARG,1977,5,2,1996,75,191,0,0,Martin Garcia
+g352,Jan-Michael,Gambill,USA,1977,6,3,1996,88,191,0,0,Jan-Michael Gambill
+g354,Justin,Gimelstob,USA,1977,1,26,1996,88,196,Right-Handed,One-Handed Backhand,Justin Gimelstob
+g375,Hermes,Gamonal,CHI,1977,5,31,1997,76,180,0,0,Hermes Gamonal
+g374,Gaston,Gaudio,ARG,1978,12,9,1996,70,175,Right-Handed,One-Handed Backhand,Gaston Gaudio
+g372,Stefano,Galvani,ITA,1977,6,3,1999,73,178,0,0,Stefano Galvani
+g379,Sebastien,Grosjean,FRA,1978,5,29,1996,73,175,Right-Handed,Two-Handed Backhand,Sebastien Grosjean
+g385,Rodrigo-Antonio,Grilli,BRA,1979,11,20,0,0,0,0,0,Rodrigo-Antonio Grilli
+g400,Juan,Giner,ESP,1978,7,28,1999,73,178,0,0,Juan Giner
+g386,Jaymon,Crabb,AUS,1978,3,6,1997,83,183,0,0,Jaymon Crabb
+g401,Javier,Garcia-Sintes,ESP,1979,5,2,0,0,0,0,0,Javier Garcia-Sintes
+g404,Jay,Gooding,AUS,1976,5,13,1998,76,188,0,0,Jay Gooding
+g414,Adrian,Garcia,CHI,1978,5,25,1998,69,175,0,0,Adrian Garcia
+g415,Fernando,Gonzalez,CHI,1980,7,29,1999,82,183,Right-Handed,One-Handed Backhand,Fernando Gonzalez
+g426,Konstantin Don,Gruber,AUT,1979,10,27,1999,75,183,0,0,Konstantin Don Gruber
+g435,Mustafa,Ghouse,IND,1980,8,19,1998,75,185,0,0,Mustafa Ghouse
+g446,Denis,Golovanov,RUS,1979,3,27,1998,80,188,0,0,Denis Golovanov
+g450,Ralph,Grambow,GER,1979,7,14,0,0,0,0,0,Ralph Grambow
+g462,Pablo,Garcia-Gaitan,ESP,1978,8,9,0,0,0,0,0,Pablo Garcia-Gaitan
+g464,Philip,Gubenco,CAN,1982,3,14,0,77,188,0,0,Philip Gubenco
+g478,Pablo,Gonzalez,COL,1982,7,2,2001,73,178,0,0,Pablo Gonzalez
+g476,Guillermo,Garcia-Lopez,ESP,1983,6,4,2002,80,185,Right-Handed,One-Handed Backhand,Guillermo Garcia-Lopez
+g483,Juan-Pablo,Guzman,ARG,1981,1,29,1999,77,178,0,0,Juan-Pablo Guzman
+g436,Marc,Gicquel,FRA,1977,3,30,1999,75,188,0,0,Marc Gicquel
+g493,Catalin-Ionut,Gard,ROU,1981,7,10,0,0,0,Right-Handed,One-Handed Backhand,Catalin-Ionut Gard
+g511,Simon,Greul,GER,1981,4,13,2000,80,185,0,0,Simon Greul
+g510,Miguel,Gallardo-Valles,MEX,1981,4,8,0,0,0,Right-Handed,Two-Handed Backhand,Miguel Gallardo-Valles
+g512,Denis,Gremelmayr,GER,1981,8,16,2000,73,183,Left-Handed,Two-Handed Backhand,Denis Gremelmayr
+g527,Luka,Gregorc,SLO,1984,2,14,0,0,0,0,0,Luka Gregorc
+g531,Mohammad,Ghareeb,KUW,1980,7,22,0,0,0,0,0,Mohammad Ghareeb
+g528,Daniele,Giorgini,ITA,1984,4,24,2003,75,180,0,0,Daniele Giorgini
+g551,Santiago,Gonzalez,MEX,1983,2,24,2001,91,191,Right-Handed,Two-Handed Backhand,Santiago Gonzalez
+g569,Robby,Ginepri,USA,1982,10,7,2001,79,183,Right-Handed,Two-Handed Backhand,Robby Ginepri
+g571,Jose-Manuel,Garcia-Rodriguez,ESP,1981,3,1,0,0,0,0,0,Jose-Manuel Garcia-Rodriguez
+g585,Maximo,Gonzalez,ARG,1983,7,20,2002,75,175,Right-Handed,Two-Handed Backhand,Maximo Gonzalez
+g591,Andrzej,Grusiecki,POL,1982,10,27,0,0,0,0,0,Andrzej Grusiecki
+g621,Chris,Guccione,AUS,1985,7,30,2003,92,201,Left-Handed,One-Handed Backhand,Chris Guccione
+g602,Andre,Ghem,BRA,1982,5,29,2003,86,193,0,0,Andre Ghem
+g608,Javier,Genaro-Martinez,ESP,1979,5,1,0,0,0,0,0,Javier Genaro-Martinez
+g628,Richard,Gasquet,FRA,1986,6,18,2002,75,185,Right-Handed,One-Handed Backhand,Richard Gasquet
+g642,Andrei,Gorban,MDA,1983,7,19,0,0,0,0,0,Andrei Gorban
+g647,Adrian,Gavrila,ROU,1984,4,1,0,0,0,0,0,Adrian Gavrila
+g672,Robert,Gustafsson,SWE,1979,12,18,0,0,0,0,0,Robert Gustafsson
+g676,Daniel,Gimeno-Traver,ESP,1985,8,7,2004,80,183,Right-Handed,Two-Handed Backhand,Daniel Gimeno-Traver
+g681,Teymuraz,Gabashvili,RUS,1985,5,23,2001,83,188,Right-Handed,Two-Handed Backhand,Teymuraz Gabashvili
+g706,Harshana,Godamanna,SRI,1985,10,31,0,0,0,0,0,Harshana Godamanna
+g692,Mustafa,Gencsoy,TUR,1985,8,24,0,0,0,0,0,Mustafa Gencsoy
+g695,Augustin,Gensse,FRA,1983,8,10,2001,0,180,Right-Handed,Two-Handed Backhand,Augustin Gensse
+g710,Marcel,Granollers,ESP,1986,4,12,2003,77,191,Right-Handed,Two-Handed Backhand,Marcel Granollers
+g714,Daniel,Garza,MEX,1985,4,8,0,0,0,Right-Handed,One-Handed Backhand,Daniel Garza
+g711,Tiago,Godinho,POR,1984,8,13,0,0,0,0,0,Tiago Godinho
+g716,Rohan,Gajjar,IND,1984,5,8,0,0,0,0,0,Rohan Gajjar
+g725,Santiago,Giraldo,COL,1987,11,27,2004,75,188,Right-Handed,Two-Handed Backhand,Santiago Giraldo
+g717,Fred,Gil,POR,1985,3,24,2003,75,175,0,0,Fred Gil
+g733,Adolfo,Gomez Pinter,ESP,1986,6,17,0,0,0,0,0,Adolfo Gomez Pinter
+g737,Robert,Godlewski,POL,1984,3,3,0,0,0,0,0,Robert Godlewski
+g744,Josh,Goodall,GBR,1985,10,17,2004,74,188,0,0,Josh Goodall
+g753,David,Guez,FRA,1982,12,8,0,75,185,0,0,David Guez
+g764,Ervand,Gasparyan,RUS,1987,6,14,0,0,0,0,0,Ervand Gasparyan
+g802,Ilie-Aurelian,Giurgiu,ROU,1987,6,4,0,0,0,0,0,Ilie-Aurelian Giurgiu
+g806,Andrey,Golubev,KAZ,1987,7,22,2005,79,183,Right-Handed,One-Handed Backhand,Andrey Golubev
+g810,Ruben,Gonzales,PHI,1985,9,11,0,0,0,0,0,Ruben Gonzales
+g811,Jamie,Gresh,USA,1980,2,26,0,0,0,0,0,Jamie Gresh
+g813,Claudio,Grassi,ITA,1985,7,25,2003,80,180,0,0,Claudio Grassi
+g817,Pablo,Galdon,ARG,1985,11,28,0,0,0,Right-Handed,Two-Handed Backhand,Pablo Galdon
+g820,Xin,Gao,CHN,1994,5,12,0,80,180,Right-Handed,Two-Handed Backhand,Xin Gao
+g822,Riccardo,Ghedin,ITA,1985,12,5,0,78,0,Right-Handed,Two-Handed Backhand,Riccardo Ghedin
+g826,Tristan,Gabriel,FRA,1986,6,4,0,0,0,0,0,Tristan Gabriel
+g858,Ernests,Gulbis,LAT,1988,8,30,2004,88,193,Right-Handed,Two-Handed Backhand,Ernests Gulbis
+g861,Tim,Goransson,SWE,1988,3,26,0,0,0,0,0,Tim Goransson
+g866,Patrick,Gamauf,AUT,1986,2,12,0,0,0,0,0,Patrick Gamauf
+g868,Erik,Graves,USA,1979,8,17,0,0,0,0,0,Erik Graves
+g876,Mao-Xin,Gong,CHN,1987,8,24,2006,70,178,0,0,Mao-Xin Gong
+g880,Wan,Gao,CHN,1987,8,24,0,0,0,0,0,Wan Gao
+g881,Rohan,Gide,IND,1987,2,20,0,0,0,0,0,Rohan Gide
+g892,Alejandro,Gonzalez,COL,1989,2,7,2006,83,191,Right-Handed,Two-Handed Backhand,Alejandro Gonzalez
+g899,Steven,Goh,AUS,1988,6,13,0,0,0,0,0,Steven Goh
+g900,Colt,Gaston,USA,1985,1,19,0,0,0,0,0,Colt Gaston
+g917,Mathieu,Guenat,SUI,1986,3,6,0,0,0,0,0,Mathieu Guenat
+g905,Peng,Gao,CHN,1987,8,2,0,0,0,0,0,Peng Gao
+g921,Javier,Garrapiz-Borderias,ESP,1988,5,24,0,74,0,0,0,Javier Garrapiz-Borderias
+g922,Gerard,Granollers,ESP,1989,1,30,0,0,0,0,0,Gerard Granollers
+g925,Tihomir,Grozdanov,BUL,1987,4,29,0,0,0,0,0,Tihomir Grozdanov
+g934,Guillermo,Gomez-Diaz,ESP,1987,6,18,0,0,0,0,0,Guillermo Gomez-Diaz
+g935,Sergio,Gutierrez-Ferrol,ESP,1989,3,5,0,0,0,0,0,Sergio Gutierrez-Ferrol
+g941,Pawel,Glodkowski,POL,1988,7,7,0,0,0,0,0,Pawel Glodkowski
+g944,Carlos,Garcia-Villanueva,ESP,1986,7,29,0,0,0,0,0,Carlos Garcia-Villanueva
+g940,Sam,Groth,AUS,1987,10,19,2006,100,193,Right-Handed,One-Handed Backhand,Sam Groth
+g952,Troy,Gillham,AUS,1982,3,6,0,0,0,0,0,Troy Gillham
+g967,Peter,Gojowczyk,GER,1989,7,15,2006,83,188,Right-Handed,Two-Handed Backhand,Peter Gojowczyk
+g974,Geoff,Gehrke,USA,1979,1,3,2006,78,185,0,0,Geoff Gehrke
+g981,Lei,Gao,CHN,1988,10,12,0,0,0,0,0,Lei Gao
+g980,Sam,Gould,NZL,1989,5,3,0,0,0,0,0,Sam Gould
+g978,Marcin,Gawron,POL,1988,5,25,0,0,0,0,0,Marcin Gawron
+g983,Alessandro,Giannessi,ITA,1990,5,30,2008,82,185,Left-Handed,Two-Handed Backhand,Alessandro Giannessi
+ga02,Llaurentiu-Ady,Gavrila,ROU,1991,5,4,0,0,0,0,0,Llaurentiu-Ady Gavrila
+g985,Carlos,Gomez-Herrera,ESP,1990,4,30,0,85,191,Right-Handed,Two-Handed Backhand,Carlos Gomez-Herrera
+ga03,Antoni,Gomez,ESP,1989,5,22,0,0,0,0,0,Antoni Gomez
+ga26,Jurgen,Gundera,AUT,1982,5,20,0,0,0,0,0,Jurgen Gundera
+ga36,Emilio,Gomez,ECU,1991,11,28,0,0,0,0,0,Emilio Gomez
+ga46,Sergio,Galdos,PER,1990,1,2,0,89,183,Right-Handed,One-Handed Backhand,Sergio Galdos
+ga48,Takanyi,Garanganga,ZIM,1990,9,6,2009,80,185,Right-Handed,Two-Handed Backhand,Takanyi Garanganga
+ga61,Jeff,Gast,USA,1989,3,11,0,0,0,0,0,Jeff Gast
+ga71,Laurynas,Grigelis,LTU,1991,8,14,0,76,183,Right-Handed,Two-Handed Backhand,Laurynas Grigelis
+ga72,Joan-Marc,Grimal-Ferrer,ESP,1990,11,13,0,0,0,0,0,Joan-Marc Grimal-Ferrer
+ga79,Lorenzo,Giustino,ITA,1991,9,10,2007,80,183,Right-Handed,Two-Handed Backhand,Lorenzo Giustino
+ga84,Daniel,Glancy,IRL,1988,11,13,0,0,0,0,0,Daniel Glancy
+ga94,Prajnesh,Gunneswaran,IND,1989,11,12,0,80,188,Left-Handed,Two-Handed Backhand,Prajnesh Gunneswaran
+ga90,Emiliano,Garcia-Blanksman,ARG,1987,7,14,0,0,0,0,0,Emiliano Garcia-Blanksman
+gb13,Germain,Gigounon,BEL,1989,4,20,0,73,178,0,0,Germain Gigounon
+gb41,Juan Sebastian,Gomez,COL,1992,3,5,0,0,0,0,0,Juan Sebastian Gomez
+gb30,Daniel,Geib,AUT,1990,4,19,0,0,0,0,0,Daniel Geib
+gb42,Alejandro,Gomez,COL,1991,8,14,2015,83,188,Right-Handed,Two-Handed Backhand,Alejandro Gomez
+gb53,Federico,Gaio,ITA,1992,3,5,2009,84,180,Right-Handed,One-Handed Backhand,Federico Gaio
+gb61,Viktor,Galovic,CRO,1990,9,19,2011,88,193,Right-Handed,Two-Handed Backhand,Viktor Galovic
+gb71,Marc,Giner,ESP,1991,6,18,0,76,183,Right-Handed,One-Handed Backhand,Marc Giner
+gb76,Damon,Gooch,RSA,1986,7,11,0,78,188,Right-Handed,Two-Handed Backhand,Damon Gooch
+gb88,David,Goffin,BEL,1990,12,7,2009,68,180,Right-Handed,Two-Handed Backhand,David Goffin
+gc03,Teri,Groll,FRA,1992,12,10,0,75,188,Right-Handed,Two-Handed Backhand,Teri Groll
+gb94,Omar,Giacalone,ITA,1992,1,11,0,77,180,Right-Handed,Two-Handed Backhand,Omar Giacalone
+gb93,Norbert,Gombos,SVK,1990,8,13,2009,85,196,Right-Handed,Two-Handed Backhand,Norbert Gombos
+gc36,Richard,Gabb,GBR,1992,2,12,0,80,175,0,0,Richard Gabb
+gc38,Oliver,Golding,GBR,1993,9,29,2011,84,188,Right-Handed,Two-Handed Backhand,Oliver Golding
+gc44,Patrick,Grigoriu,ROU,1991,3,25,0,80,183,Left-Handed,Two-Handed Backhand,Patrick Grigoriu
+gc49,Piotr,Gadomski,POL,1991,1,21,0,0,0,0,0,Piotr Gadomski
+gc52,Vasile-Alexandru,Ghilea,ROU,1993,12,31,0,0,0,0,0,Vasile-Alexandru Ghilea
+gc87,Lucas,Gomez,MEX,1995,8,11,0,72,178,Left-Handed,Two-Handed Backhand,Lucas Gomez
+gc54,Scott,Griekspoor,NED,1991,1,10,0,80,188,Right-Handed,Two-Handed Backhand,Scott Griekspoor
+gc88,Marcos,Giron,USA,1993,7,24,2014,77,180,Right-Handed,Two-Handed Backhand,Marcos Giron
+gc89,Egor,Gerasimov,BLR,1992,11,11,2010,84,183,Right-Handed,Two-Handed Backhand,Egor Gerasimov
+gd08,Lloyd,Glasspool,GBR,1993,11,19,0,85,191,Right-Handed,Two-Handed Backhand,Lloyd Glasspool
+gd13,Michael,Grant,USA,1992,2,13,0,75,183,0,0,Michael Grant
+gd27,Andreas,Gremelmayr,GER,1984,6,15,0,0,0,0,0,Andreas Gremelmayr
+gd25,Tomislav,Gregurovic,CRO,1992,4,12,0,0,0,0,0,Tomislav Gregurovic
+gd64,Christian,Garin,CHI,1996,5,30,2013,85,185,Right-Handed,Two-Handed Backhand,Christian Garin
+gd39,Ivan,Gomez Mantilla,ESP,1992,7,8,0,0,0,0,0,Ivan Gomez Mantilla
+gd84,Andre,Gaspar Murta,POR,1994,8,8,0,84,193,Right-Handed,Two-Handed Backhand,Andre Gaspar Murta
+gd73,Jaden,Grinter,NZL,1993,5,24,0,0,0,Right-Handed,Two-Handed Backhand,Jaden Grinter
+gd92,Pedro,Dumont,BRA,1994,5,3,0,0,0,Right-Handed,Two-Handed Backhand,Pedro Dumont
+gd91,Juan Ignacio,Galarza,ARG,1994,3,18,0,81,183,Right-Handed,Two-Handed Backhand,Juan Ignacio Galarza
+ge03,Andre,Goransson,SWE,1994,4,30,0,86,188,Right-Handed,Two-Handed Backhand,Andre Goransson
+ge09,Xiao,Gong,CHN,1992,1,5,0,75,178,Left-Handed,Two-Handed Backhand,Xiao Gong
+ge22,Agustin,Gonzalez,URU,1993,12,21,0,0,0,0,0,Agustin Gonzalez
+ge28,Ivan,Gakhov,RUS,1996,11,4,0,83,193,Left-Handed,Two-Handed Backhand,Ivan Gakhov
+ge33,Daniel Elahi,Galan,COL,1996,6,18,2015,72,191,Right-Handed,Two-Handed Backhand,Daniel Elahi Galan
+ge56,Felipe,Garces,CHI,1995,2,6,0,0,0,0,0,Felipe Garces
+ge61,Connor,Glennon,GBR,1993,2,2,0,0,0,Right-Handed,Two-Handed Backhand,Connor Glennon
+ge73,Jacob,Grills,AUS,1995,6,18,0,0,0,0,0,Jacob Grills
+gf24,Artur,Gusev,RUS,1996,3,15,0,0,0,0,0,Artur Gusev
+gf33,Nikita,Gudozhnikov,RUS,1994,11,21,0,0,0,0,0,Nikita Gudozhnikov
+gh64,Adam,Gustavsson,SWE,1993,5,15,0,0,0,0,0,Adam Gustavsson
+gj37,Tallon,Griekspoor,NED,1996,7,2,0,82,188,Right-Handed,Two-Handed Backhand,Tallon Griekspoor
+gj62,Eduard,Guell Bartrina,ESP,1998,9,6,0,0,0,Right-Handed,Two-Handed Backhand,Eduard Guell Bartrina
+h210,Fred,Hemmes,NED,1981,1,28,1999,78,183,0,0,Fred Hemmes
+h344,Scott,Humphries,USA,1976,5,26,1995,82,185,0,0,Scott Humphries
+h346,Alejandro,Hernandez,MEX,1977,10,1,1995,79,180,0,0,Alejandro Hernandez
+h351,Maxime,Huard,FRA,1976,1,25,1995,73,180,0,0,Maxime Huard
+h355,Tommy,Haas,GER,1978,4,3,1996,84,188,Right-Handed,One-Handed Backhand,Tommy Haas
+h364,Markus,Hipfl,AUT,1978,4,26,1995,74,178,0,0,Markus Hipfl
+h365,Ignacio,Hirigoyen,ARG,1976,1,23,1999,82,183,0,0,Ignacio Hirigoyen
+h366,Markus,Hantschk,GER,1977,11,19,1996,85,188,0,0,Markus Hantschk
+h377,Dominik,Hrbaty,SVK,1978,1,4,1996,79,183,Right-Handed,Two-Handed Backhand,Dominik Hrbaty
+h380,Ivo,Heuberger,SUI,1976,2,19,1995,77,188,Right-Handed,Two-Handed Backhand,Ivo Heuberger
+h379,Andres,Schneiter,ARG,1976,4,8,0,0,0,0,0,Andres Schneiter
+h387,John,Hui,HKG,1978,1,3,0,0,0,0,0,John Hui
+h390,Luis,Horna,PER,1980,9,14,1998,82,180,Right-Handed,One-Handed Backhand,Luis Horna
+h382,Mathias,Hellstrom,SWE,1978,2,21,0,0,0,0,0,Mathias Hellstrom
+h385,Amir,Hadad,ISR,1978,2,17,0,88,183,0,0,Amir Hadad
+h391,Diego,Hipperdinger,ESP,1977,1,17,0,0,0,0,0,Diego Hipperdinger
+h421,Paul,Hanley,AUS,1977,11,12,1997,76,183,0,0,Paul Hanley
+h431,Nathan,Healey,AUS,1980,2,27,1998,82,180,0,0,Nathan Healey
+h432,Lleyton,Hewitt,AUS,1981,2,24,1998,77,178,Right-Handed,Two-Handed Backhand,Lleyton Hewitt
+h435,Jerome,Haehnel,FRA,1980,7,14,1998,78,185,0,0,Jerome Haehnel
+h442,Jan,Hernych,CZE,1979,7,7,1998,83,188,Right-Handed,Two-Handed Backhand,Jan Hernych
+h437,Jakub,Herm-Zahlava,GER,1980,5,12,0,0,0,0,0,Jakub Herm-Zahlava
+h448,Mark,Hilton,GBR,1981,4,20,2000,80,170,0,0,Mark Hilton
+h465,Phillip,Harboe,CHI,1982,7,20,0,0,0,0,0,Phillip Harboe
+h472,Oscar,Hernandez,ESP,1978,4,10,1998,70,180,Right-Handed,One-Handed Backhand,Oscar Hernandez
+h469,KJ,Hippensteel,USA,1980,5,8,2002,88,191,0,0,KJ Hippensteel
+h500,Philipp,Hammer,GER,1981,7,19,0,0,0,0,0,Philipp Hammer
+h502,Diego,Hartfield,ARG,1981,1,31,0,80,185,0,0,Diego Hartfield
+h507,Levar,Harper-Griffith,USA,1981,9,4,0,74,0,0,0,Levar Harper-Griffith
+h510,Troy,Hahn,USA,1982,3,9,0,0,0,0,0,Troy Hahn
+h528,Victor,Hanescu,ROU,1981,7,21,2000,88,198,Right-Handed,One-Handed Backhand,Victor Hanescu
+h563,Guillermo,Hormazabal,CHI,1985,2,19,0,0,0,0,0,Guillermo Hormazabal
+h571,Jan,Hajek,CZE,1983,8,7,2000,80,180,Right-Handed,Two-Handed Backhand,Jan Hajek
+h596,Ryan,Henry,AUS,1984,10,14,2002,76,183,0,0,Ryan Henry
+h632,Rickard,Holmstrom,SWE,1981,5,25,0,0,0,Left-Handed,Two-Handed Backhand,Rickard Holmstrom
+h653,Javier,Herrera-Eguiluz,MEX,1984,4,19,0,0,0,0,0,Javier Herrera-Eguiluz
+h624,Ryan,Haviland,USA,1980,12,12,0,82,188,Right-Handed,Two-Handed Backhand,Ryan Haviland
+h635,Ross,Hutchins,GBR,1985,2,22,2002,85,191,0,0,Ross Hutchins
+h673,Jonathan,Hilaire,FRA,1984,6,27,0,0,0,0,0,Jonathan Hilaire
+h693,Ricardo,Hocevar,BRA,1985,5,9,2004,80,180,Right-Handed,Two-Handed Backhand,Ricardo Hocevar
+h694,Johnny,Hamui,USA,1989,1,26,0,0,0,0,0,Johnny Hamui
+h704,Jesse,Huta Galung,NED,1985,10,6,2004,89,0,Right-Handed,One-Handed Backhand,Jesse Huta Galung
+h715,Travis,Helgeson,USA,1985,11,9,0,0,0,0,0,Travis Helgeson
+h723,Mislav,Hizak,CRO,1984,7,14,0,0,0,0,0,Mislav Hizak
+h756,Robin,Haase,NED,1987,4,6,2005,71,191,Right-Handed,Two-Handed Backhand,Robin Haase
+h788,Treat,Huey,PHI,1985,8,28,2008,82,178,Left-Handed,Two-Handed Backhand,Treat Huey
+h789,Willem,Hornikx,NED,1982,10,12,0,0,0,0,0,Willem Hornikx
+h804,Andreas,Haider-Maurer,AUT,1987,3,22,2005,89,191,Right-Handed,Two-Handed Backhand,Andreas Haider-Maurer
+h790,Mario,Haider-Maurer,AUT,1984,4,24,0,0,0,0,0,Mario Haider-Maurer
+h808,Harri,Heliovaara,FIN,1989,6,4,0,82,188,Right-Handed,Two-Handed Backhand,Harri Heliovaara
+h830,Romain,Hardy,FRA,1986,9,20,0,0,0,0,0,Romain Hardy
+h836,Tyler,Hochwalt,USA,1989,2,5,0,83,193,Right-Handed,Two-Handed Backhand,Tyler Hochwalt
+h843,Christian,Hand,USA,1985,4,21,0,0,0,0,0,Christian Hand
+h841,Thomas-Cristian,Hodel,ROU,1988,8,17,0,0,0,0,0,Thomas-Cristian Hodel
+h875,Chris,Harfield,GBR,1984,10,15,0,0,0,0,0,Chris Harfield
+h881,Armin,Hirner,AUT,1989,12,23,0,0,0,0,0,Armin Hirner
+h879,Eric,Hechtman,USA,1983,10,24,0,0,0,0,0,Eric Hechtman
+h896,Jose,Hernandez-Fernandez,DOM,1990,3,13,0,77,183,Right-Handed,Two-Handed Backhand,Jose Hernandez-Fernandez
+h917,Tigre,Hank,MEX,1991,9,30,0,85,188,0,0,Tigre Hank
+h908,Abdulla,Hajji,QAT,1990,12,5,0,0,0,0,0,Abdulla Hajji
+h927,Bijan,Hejazi,USA,1987,11,16,0,0,0,0,0,Bijan Hejazi
+h933,Kaden,Hensel,AUS,1986,6,5,0,0,0,0,0,Kaden Hensel
+h963,Filip,Havaj,SVK,1991,7,11,0,0,0,Right-Handed,Two-Handed Backhand,Filip Havaj
+h938,Hans,Hach Verdugo,MEX,1989,11,11,0,82,183,Left-Handed,Two-Handed Backhand,Hans Hach Verdugo
+h940,Ryan,Harrison,USA,1992,5,7,2007,84,185,Right-Handed,Two-Handed Backhand,Ryan Harrison
+h965,Tobias,Hinzmann,GER,1982,12,22,0,0,0,0,0,Tobias Hinzmann
+h984,Stephan,Hoiss,GER,1989,8,1,0,0,0,0,0,Stephan Hoiss
+h996,Pierre-Hugues,Herbert,FRA,1991,3,18,2010,79,188,Right-Handed,Two-Handed Backhand,Pierre-Hugues Herbert
+h986,Tom,Kocevar-Desman,SLO,1990,7,10,0,77,180,0,0,Tom Kocevar-Desman
+h997,Yannick,Hanfmann,GER,1991,11,13,2015,84,193,Right-Handed,Two-Handed Backhand,Yannick Hanfmann
+ha03,Liang-Chi,Huang,TPE,1992,3,8,0,0,0,0,0,Liang-Chi Huang
+ha28,Filip,Horansky,SVK,1993,1,7,0,0,0,Right-Handed,Two-Handed Backhand,Filip Horansky
+ha18,Ashley,Hewitt,GBR,1992,2,6,0,0,0,Right-Handed,Two-Handed Backhand,Ashley Hewitt
+ha33,Peter,Heller,GER,1992,8,12,0,75,188,Right-Handed,Two-Handed Backhand,Peter Heller
+ha47,Alexios,Halebian,USA,1994,6,8,0,0,0,Left-Handed,Two-Handed Backhand,Alexios Halebian
+ha50,Hunter,Harrington,USA,1993,6,25,0,0,0,Right-Handed,Two-Handed Backhand,Hunter Harrington
+ha89,Jui-Chen,Hung,TPE,1990,3,1,0,0,0,Right-Handed,Two-Handed Backhand,Jui-Chen Hung
+ha90,Roy,Hobbs,SIN,1989,8,13,0,70,183,Right-Handed,One-Handed Backhand,Roy Hobbs
+ha95,Karim,Hossam,EGY,1994,4,8,0,0,0,Right-Handed,Two-Handed Backhand,Karim Hossam
+hb17,Jens,Hauser,SUI,1993,1,15,0,0,178,0,0,Jens Hauser
+hb05,Christian,Harrison,USA,1994,5,29,0,77,180,Right-Handed,Two-Handed Backhand,Christian Harrison
+hb31,Johannes,Haerteis,GER,1996,2,22,0,0,0,0,0,Johannes Haerteis
+hb29,Andrew,Harris,AUS,1994,3,7,0,82,183,Right-Handed,One-Handed Backhand,Andrew Harris
+hb41,Jared,Hiltzik,USA,1994,7,8,0,79,185,Right-Handed,Two-Handed Backhand,Jared Hiltzik
+hb35,Maxime,Hamou,FRA,1995,6,8,0,75,185,Right-Handed,Two-Handed Backhand,Maxime Hamou
+hb55,Gustav,Hansson,SWE,1995,4,15,0,0,0,0,0,Gustav Hansson
+hb48,Calvin,Hemery ,FRA,1995,1,28,2013,85,188,Right-Handed,Two-Handed Backhand,Calvin Hemery 
+hb56,Jonathan,Ho,USA,1993,9,5,0,0,0,Ambidextrous,Two-Handed Backhand,Jonathan Ho
+hb59,Yecong,He,CHN,1994,2,15,0,75,180,0,0,Yecong He
+hb64,Quentin,Halys,FRA,1996,10,26,2012,78,191,Right-Handed,Two-Handed Backhand,Quentin Halys
+hb81,David,Hopkins,USA,1989,12,28,0,100,183,0,0,David Hopkins
+hb89,Evan,Hoyt,GBR,1995,1,16,0,83,185,Right-Handed,Two-Handed Backhand,Evan Hoyt
+hc18,Takura,Happy,ZIM,1990,3,19,0,0,0,0,0,Takura Happy
+hc99,Lenny,Hampel,AUT,1996,12,24,0,78,188,Right-Handed,One-Handed Backhand,Lenny Hampel
+hd64,Matthias,Haim,AUT,1998,1,11,0,0,0,0,0,Matthias Haim
+hh48,Nicholas S.,Hu,USA,1994,4,24,0,84,183,Right-Handed,One-Handed Backhand,Nicholas S. Hu
+i052,Andrew,Ilie,AUS,1976,4,18,1994,78,180,0,0,Andrew Ilie
+i062,Yaoki,Ishii,JPN,1977,4,29,0,0,0,0,0,Yaoki Ishii
+i063,Tasuku,Iwami,JPN,1978,7,9,1996,0,168,0,0,Tasuku Iwami
+i067,Vladimir,Ivanov,EST,1987,4,10,0,0,0,0,0,Vladimir Ivanov
+i069,Kirill,Ivanov-Smolensky,RUS,1981,2,19,1998,0,0,0,0,Kirill Ivanov-Smolensky
+i090,Pavel,Ivanov,RUS,1983,1,1,1996,84,193,0,0,Pavel Ivanov
+i097,Stefano,Ianni,ITA,1981,1,31,0,0,0,0,0,Stefano Ianni
+i094,Victor,Ionita,ROU,1983,5,11,0,72,185,0,0,Victor Ionita
+i145,Kyu Tae,Im,KOR,1981,1,6,2001,75,185,0,0,Kyu Tae Im
+i151,Murad,Inoyatov,UZB,1984,11,13,0,0,0,0,0,Murad Inoyatov
+i164,Sarvar,Ikramov,UZB,1985,1,10,0,85,180,Right-Handed,Two-Handed Backhand,Sarvar Ikramov
+i178,Richard,Irwin,GBR,1985,7,12,0,0,0,0,0,Richard Irwin
+i165,Denis,Istomin,UZB,1986,9,7,2004,88,188,Right-Handed,Two-Handed Backhand,Denis Istomin
+i183,Yuichi,Ito,JPN,1986,8,6,0,0,0,0,0,Yuichi Ito
+i198,Takahiro,Ittogi,JPN,1988,12,17,0,0,0,0,0,Takahiro Ittogi
+i186,John,Isner,USA,1985,4,26,2007,108,208,Right-Handed,Two-Handed Backhand,John Isner
+i200,Dominic,Inglot,GBR,1986,3,6,0,95,196,Right-Handed,One-Handed Backhand,Dominic Inglot
+i201,Yassine,Idmbarek,MAR,1986,12,7,0,0,0,0,0,Yassine Idmbarek
+i212,Hamad Abbas,Ismail,UAE,1990,8,4,0,0,0,0,0,Hamad Abbas Ismail
+i229,Jerome,Inzerillo,FRA,1990,2,15,0,0,0,0,0,Jerome Inzerillo
+i230,Tatsuma,Ito,JPN,1988,5,18,2006,75,180,Right-Handed,Two-Handed Backhand,Tatsuma Ito
+i236,Uladzimir,Ignatik,BLR,1990,7,14,2007,82,183,0,0,Uladzimir Ignatik
+i241,Alexey,Iremashvili,RUS,1990,7,13,0,0,0,0,0,Alexey Iremashvili
+i245,Grant,Ive,RSA,1991,2,18,0,0,0,0,0,Grant Ive
+i255,Jean-Noel,Insausti,FRA,1984,3,15,0,0,0,0,0,Jean-Noel Insausti
+i277,Zach,Itzstein,AUS,1988,9,2,0,76,178,Right-Handed,Two-Handed Backhand,Zach Itzstein
+i286,Temur,Ismailov,UZB,1995,1,14,0,0,0,0,0,Temur Ismailov
+i295,Alexander,Igoshin,RUS,1992,1,10,0,92,191,0,0,Alexander Igoshin
+i305,Ilya,Ivashka,BLR,1994,2,24,2013,83,196,Right-Handed,Two-Handed Backhand,Ilya Ivashka
+i306,Cem,Ilkel,TUR,1995,8,21,0,79,185,Right-Handed,Two-Handed Backhand,Cem Ilkel
+i329,James,Ireland,GBR,1993,4,15,0,0,0,Right-Handed,Two-Handed Backhand,James Ireland
+i326,Pruchya,Isarow,THA,1995,10,16,0,70,175,Right-Handed,Two-Handed Backhand,Pruchya Isarow
+i335,Juan Ignacio,Iliev,ARG,1993,7,23,0,75,183,Right-Handed,Two-Handed Backhand,Juan Ignacio Iliev
+i351,Watcharaphong,Iam La-Or,THA,1995,4,22,0,0,0,0,0,Watcharaphong Iam La-Or
+j158,Manuel,Jorquera,ITA,1978,6,12,0,0,0,0,0,Manuel Jorquera
+j148,Fredrik,Jonsson,SWE,1977,3,28,1996,82,193,0,0,Fredrik Jonsson
+j194,Joachim,Johansson,SWE,1982,7,1,2000,90,198,Right-Handed,One-Handed Backhand,Joachim Johansson
+j164,Julien,Jeanpierre,FRA,1980,3,10,1999,77,188,0,0,Julien Jeanpierre
+j200,Lesley,Joseph,USA,1981,9,14,0,0,0,0,0,Lesley Joseph
+j203,Shan,Jiang,CHN,1980,10,8,0,0,0,0,0,Shan Jiang
+j206,Alexandros,Jakupovic,GRE,1981,12,14,0,0,0,0,0,Alexandros Jakupovic
+j214,Diego,Junqueira,ARG,1980,12,28,2001,72,178,0,0,Diego Junqueira
+j239,Damar,Johnson,JAM,1984,1,23,0,0,0,0,0,Damar Johnson
+j230,Rameez,Junaid,AUS,1981,5,25,0,0,0,0,0,Rameez Junaid
+j259,Andis,Juska,LAT,1985,5,22,0,0,0,0,0,Andis Juska
+j233,Alun,Jones,AUS,1980,4,26,2000,69,180,Right-Handed,Two-Handed Backhand,Alun Jones
+j265,Adam,Jaya,MAS,1985,1,10,0,0,0,0,0,Adam Jaya
+j263,Woong-Sun,Jun,KOR,1986,6,14,2005,90,191,0,0,Woong-Sun Jun
+j267,Malek,Jaziri,TUN,1984,1,20,2003,82,185,Right-Handed,Two-Handed Backhand,Malek Jaziri
+j272,Rok,Jarc,SLO,1985,7,20,0,0,0,0,0,Rok Jarc
+j279,Frederic,Jeanclaude,FRA,1981,10,2,0,0,0,0,0,Frederic Jeanclaude
+j284,G.D.,Jones,NZL,1986,4,1,0,72,183,0,0,G.D. Jones
+j290,Scoville,Jenkins,USA,1986,9,23,2004,77,188,Right-Handed,Two-Handed Backhand,Scoville Jenkins
+j309,Brett,Joelson,USA,1984,12,12,0,0,0,0,0,Brett Joelson
+j321,Roman,Jebavy,CZE,1989,11,16,0,90,185,Right-Handed,Two-Handed Backhand,Roman Jebavy
+j323,Richard,Johnson,USA,1986,3,4,0,0,0,0,0,Richard Johnson
+j337,Benjamin,Janse van Rensburg,RSA,1983,1,19,0,0,0,0,0,Benjamin Janse van Rensburg
+j338,Romain,Jouan,FRA,1985,7,16,2006,77,183,0,0,Romain Jouan
+j361,Greg,Jones,AUS,1989,1,31,2007,84,193,0,0,Greg Jones
+j347,Yannick,Jankovits,FRA,1987,1,6,0,72,0,0,0,Yannick Jankovits
+j365,Petar,Jelenic,CRO,1987,6,13,0,80,0,0,0,Petar Jelenic
+j380,Jason,Jung,TPE,1989,6,15,2011,69,180,Right-Handed,Two-Handed Backhand,Jason Jung
+j378,Tomislav,Jotovski,MKD,1990,10,27,0,0,0,0,0,Tomislav Jotovski
+j390,Sydney,Jim,USA,1983,6,24,0,0,0,0,0,Sydney Jim
+j386,Steve,Johnson,USA,1989,12,24,2012,86,188,Right-Handed,Two-Handed Backhand,Steve Johnson
+j393,Jarmere,Jenkins,USA,1990,11,25,0,77,183,Right-Handed,Two-Handed Backhand,Jarmere Jenkins
+j397,Jerzy,Janowicz,POL,1990,11,13,2007,94,203,Right-Handed,Two-Handed Backhand,Jerzy Janowicz
+j398,Navid,Johannigmann,GER,1990,12,20,0,0,0,0,0,Navid Johannigmann
+j399,Mehdi,Jdi,MAR,1988,12,13,0,0,0,0,0,Mehdi Jdi
+j400,Jeremy,Jahn,GER,1990,4,5,0,73,178,Right-Handed,One-Handed Backhand,Jeremy Jahn
+j401,Lukas,Jastraunig,AUT,1989,8,3,0,0,0,0,0,Lukas Jastraunig
+j439,Tom,Jomby,FRA,1991,2,18,2014,96,198,Right-Handed,Two-Handed Backhand,Tom Jomby
+j452,Suk-Young,Jeong,KOR,1993,4,12,0,0,0,Right-Handed,Two-Handed Backhand,Suk-Young Jeong
+j465,Mohit Mayur,Jayaprakash,IND,1993,9,14,0,85,178,Right-Handed,Two-Handed Backhand,Mohit Mayur Jayaprakash
+j473,Deivids,Juksa,LAT,1990,12,21,0,0,0,0,0,Deivids Juksa
+j500,Jacob,Johansson,SWE,1991,5,6,0,0,0,Right-Handed,Two-Handed Backhand,Jacob Johansson
+j505,Eric,Johnson,USA,1993,2,17,0,82,188,Right-Handed,Two-Handed Backhand,Eric Johnson
+j507,Morgan,Johansson,SWE,1994,3,29,0,0,0,0,0,Morgan Johansson
+j513,Miki,Jankovic,SRB,1994,9,26,0,75,180,Right-Handed,Two-Handed Backhand,Miki Jankovic
+j523,Alexander,Jhun,GBR,1995,5,8,0,0,0,0,0,Alexander Jhun
+j552,Osni,Junior,BRA,1996,6,25,0,0,0,0,0,Osni Junior
+j525,Isade,Juneau,CAN,1991,6,5,0,77,183,Right-Handed,Two-Handed Backhand,Isade Juneau
+j551,Nicolas,Jarry,CHI,1995,10,11,2014,87,198,Right-Handed,Two-Handed Backhand,Nicolas Jarry
+j553,Omar,Jasika,AUS,1997,5,18,0,60,183,Left-Handed,Two-Handed Backhand,Omar Jasika
+j557,Gregoire,Jacq,FRA,1992,11,9,0,72,180,Left-Handed,Two-Handed Backhand,Gregoire Jacq
+j620,Maxime,Janvier,FRA,1996,10,18,0,80,193,Right-Handed,Two-Handed Backhand,Maxime Janvier
+k09s,Philipp,Klimov,RUS,1999,3,11,0,0,0,0,0,Philipp Klimov
+k0a4,Vasil,Kirkov,USA,1999,3,13,0,64,185,Right-Handed,Two-Handed Backhand,Vasil Kirkov
+k290,Bobby,Kokavec,CAN,1976,5,17,0,85,191,0,0,Bobby Kokavec
+k293,Gustavo,Kuerten,BRA,1976,9,10,1995,83,191,Right-Handed,One-Handed Backhand,Gustavo Kuerten
+k306,Cedric,Kauffmann,FRA,1976,3,1,0,0,0,0,0,Cedric Kauffmann
+k308,Vadim,Kutsenko,RUS,1977,3,16,1994,76,180,0,0,Vadim Kutsenko
+k310,Stefan,Koubek,AUT,1977,1,2,1994,68,175,0,0,Stefan Koubek
+k313,Zeljko,Krajan,CRO,1979,2,3,1997,78,178,0,0,Zeljko Krajan
+k316,Nicolas,Kiefer,GER,1977,7,5,1995,80,183,Right-Handed,Two-Handed Backhand,Nicolas Kiefer
+k317,Edwin,Kempes,NED,1976,6,23,1995,73,188,0,0,Edwin Kempes
+k319,Michel,Kratochvil,SUI,1979,4,7,1997,77,185,0,0,Michel Kratochvil
+k349,Petr,Kralert,CZE,1979,10,20,1997,75,188,0,0,Petr Kralert
+k336,Ivo,Karlovic,CRO,1979,2,28,2000,104,211,Right-Handed,One-Handed Backhand,Ivo Karlovic
+k346,Sultan,Khalfan,QAT,1977,3,16,0,0,0,0,0,Sultan Khalfan
+k364,Jordan,Kerr,AUS,1979,10,26,1998,80,180,0,0,Jordan Kerr
+k358,Kevin,Kim,USA,1978,7,26,1997,75,180,Right-Handed,One-Handed Backhand,Kevin Kim
+k371,Roko,Karanusic,CRO,1982,9,5,2000,75,183,Right-Handed,Two-Handed Backhand,Roko Karanusic
+k379,Alex,Kim,USA,1978,12,20,2000,73,175,0,0,Alex Kim
+k384,Sergei,Krotiouk,RUS,1978,6,21,0,0,0,0,0,Sergei Krotiouk
+k397,Sunil,Kumar,IND,1983,4,4,0,0,0,0,0,Sunil Kumar
+k398,Vijay,Kannan,IND,1980,2,4,0,0,0,0,0,Vijay Kannan
+k401,Toshiharu,Kato,JPN,1979,8,12,0,0,0,0,0,Toshiharu Kato
+k403,Igor,Kunitsyn,RUS,1981,9,30,1999,75,180,0,0,Igor Kunitsyn
+k406,Christopher,Kas,GER,1980,6,13,2001,85,188,0,0,Christopher Kas
+k407,Alexey,Kedryuk,KAZ,1980,8,8,1998,90,193,0,0,Alexey Kedryuk
+k409,Phillip,King,USA,1981,12,19,2004,66,175,0,0,Phillip King
+k418,Oh-Hee,Kwon,KOR,1978,6,18,0,0,0,0,0,Oh-Hee Kwon
+k436,Dieter,Kindlmann,GER,1982,6,3,2001,71,183,0,0,Dieter Kindlmann
+k435,Philipp,Kohlschreiber,GER,1983,10,16,2001,70,178,Right-Handed,One-Handed Backhand,Philipp Kohlschreiber
+k447,Mait,Kunnap,EST,1982,9,23,0,0,0,0,0,Mait Kunnap
+k448,Robert,Kendrick,USA,1979,11,15,2000,86,191,Right-Handed,Two-Handed Backhand,Robert Kendrick
+k457,Hiroki,Kondo,JPN,1982,11,5,0,77,178,Right-Handed,One-Handed Backhand,Hiroki Kondo
+k459,Sadik,Kadir,AUS,1981,7,27,0,67,0,0,0,Sadik Kadir
+k461,Kamala,Kannan,IND,1982,1,23,0,0,0,0,0,Kamala Kannan
+k512,Ivo,Klec,SVK,1980,11,28,1999,79,183,0,0,Ivo Klec
+k528,Photos,Kallias,CYP,1984,3,6,0,0,0,0,0,Photos Kallias
+k551,Daniel,Koellerer,AUT,1983,8,17,2002,80,180,0,0,Daniel Koellerer
+k583,David,Kuczer,POL,1984,11,19,0,0,0,Right-Handed,Two-Handed Backhand,David Kuczer
+k596,Alexander,Kudryavtsev,RUS,1985,10,26,0,79,183,0,0,Alexander Kudryavtsev
+k609,Raven,Klaasen,RSA,1982,10,16,2002,71,0,Right-Handed,Two-Handed Backhand,Raven Klaasen
+k612,Adam,Kennedy,AUS,1983,2,9,0,0,0,0,0,Adam Kennedy
+k540,Lukasz,Kubot,POL,1982,5,16,2002,86,191,Right-Handed,Two-Handed Backhand,Lukasz Kubot
+k624,Bastian,Knittel,GER,1983,8,8,2003,71,180,0,0,Bastian Knittel
+k647,Daniel,Krajnovic,CRO,1980,6,16,0,0,0,0,0,Daniel Krajnovic
+k650,Leonardo,Kirche,BRA,1985,1,4,2003,87,188,0,0,Leonardo Kirche
+k668,Sascha,Kloer,GER,1985,8,16,0,0,0,0,0,Sascha Kloer
+k667,Michel,Koning,NED,1984,5,1,0,80,0,0,0,Michel Koning
+k688,Daniel,King-Turner,NZL,1984,5,15,0,0,191,Right-Handed,Two-Handed Backhand,Daniel King-Turner
+k676,Marc,Kimmich,AUS,1983,1,21,1999,81,183,0,0,Marc Kimmich
+k707,Marcin,Kosakowski,USA,1980,12,4,0,0,0,0,0,Marcin Kosakowski
+k718,Roman,Vogeli,CZE,1985,3,13,0,0,0,0,0,Roman Vogeli
+k719,Gero,Kretschmer,GER,1985,5,6,2004,77,191,Right-Handed,Two-Handed Backhand,Gero Kretschmer
+k737,Alex,Kuznetsov,USA,1987,2,5,2004,78,183,Right-Handed,Two-Handed Backhand,Alex Kuznetsov
+k740,Steven,Korteling,NED,1984,1,16,0,0,0,0,0,Steven Korteling
+k760,Evgeny,Korolev,KAZ,1988,2,14,2005,82,185,0,0,Evgeny Korolev
+k767,Dejan,Katic,SRB,1988,3,7,0,0,0,0,0,Dejan Katic
+k771,Marsel,Ilhan,TUR,1987,6,11,2006,80,191,Right-Handed,Two-Handed Backhand,Marsel Ilhan
+k776,Konstantin,Kravchuk,RUS,1985,2,23,2004,80,191,Right-Handed,Two-Handed Backhand,Konstantin Kravchuk
+k777,Evgeny,Kirillov,RUS,1987,7,14,0,0,0,0,0,Evgeny Kirillov
+k778,Victor,Kozin,RUS,1988,1,15,0,0,0,0,0,Victor Kozin
+k783,Alejandro,Kon,ARG,1986,11,10,0,0,0,0,0,Alejandro Kon
+k803,Adam,Kellner,HUN,1986,8,1,0,0,0,0,0,Adam Kellner
+k826,Nikita,Kryvonos,USA,1986,9,1,0,0,0,0,0,Nikita Kryvonos
+k834,Blaz,Kavcic,SLO,1987,3,5,2005,78,188,Right-Handed,Two-Handed Backhand,Blaz Kavcic
+k833,Jiri,Kosler,CZE,1989,4,4,0,0,0,0,0,Jiri Kosler
+k839,Tobias,Kamke,GER,1986,5,21,2004,76,178,Right-Handed,Two-Handed Backhand,Tobias Kamke
+k840,Tobias,Klein,GER,1982,3,23,2004,68,170,0,0,Tobias Klein
+k846,Thomas,Kromann,DEN,1987,6,1,0,0,0,0,0,Thomas Kromann
+k858,Chris,Klingemann,CAN,1985,3,24,0,0,0,0,0,Chris Klingemann
+k859,Bryan,Koniecko,USA,1987,7,14,0,0,0,0,0,Bryan Koniecko
+k861,Andrey,Kumantsov,RUS,1986,8,4,0,0,0,0,0,Andrey Kumantsov
+k863,Cheong-Eui,Kim,KOR,1990,3,23,0,0,0,0,0,Cheong-Eui Kim
+k870,Daniel,Kumlin,SWE,1987,8,16,0,0,0,0,0,Daniel Kumlin
+k872,Andrei,Karatchenia,BLR,1989,1,2,0,0,0,0,0,Andrei Karatchenia
+k875,Roman,Kislyanskiy,RUS,1987,10,9,0,0,0,0,0,Roman Kislyanskiy
+k877,Beka,Komakhidze,RUS,1987,9,6,0,0,0,0,0,Beka Komakhidze
+k889,Gerald,Kamitz,AUT,1987,9,26,0,0,0,0,0,Gerald Kamitz
+k891,Justin,Kronauge,USA,1987,10,27,0,0,0,0,0,Justin Kronauge
+k902,Ashwin,Kumar,USA,1985,9,23,0,0,0,0,0,Ashwin Kumar
+k906,Michal,Konecny,CZE,1989,10,13,0,78,183,Left-Handed,Two-Handed Backhand,Michal Konecny
+k905,Mateusz,Kowalczyk,POL,1987,5,3,2005,85,191,Right-Handed,Two-Handed Backhand,Mateusz Kowalczyk
+k909,Andriej,Kapas,POL,1989,8,11,0,83,188,Right-Handed,Two-Handed Backhand,Andriej Kapas
+k922,Roy,Kalmanovich,USA,1989,7,5,0,0,0,0,0,Roy Kalmanovich
+k918,Dimitar,Kutrovsky,BUL,1987,8,27,0,73,175,Right-Handed,Two-Handed Backhand,Dimitar Kutrovsky
+k925,Tomasz,Krzyszkowski,POL,1988,4,6,0,0,0,0,0,Tomasz Krzyszkowski
+k945,Blazej,Koniusz,POL,1988,2,22,0,0,0,0,0,Blazej Koniusz
+k926,Mikhail,Kukushkin,KAZ,1987,12,26,2006,72,183,Right-Handed,Two-Handed Backhand,Mikhail Kukushkin
+k941,Sebastian,Kraila,ROU,1989,6,28,0,0,0,0,0,Sebastian Kraila
+k957,Dmitro,Kamynin,UKR,1989,10,28,0,0,0,0,0,Dmitro Kamynin
+k959,Sahr Timothy ,Kpulun,SLE,1983,9,9,0,0,0,0,0,Sahr Timothy  Kpulun
+k960,Vladyslav,Klymenko,UKR,1988,6,24,0,82,0,0,0,Vladyslav Klymenko
+k961,Barry,King,IRL,1985,1,22,0,0,0,0,0,Barry King
+k964,Brydan,Klein,GBR,1989,12,31,2007,83,188,Right-Handed,Two-Handed Backhand,Brydan Klein
+k966,Martin,Klizan,SVK,1989,7,11,2007,80,191,Left-Handed,Two-Handed Backhand,Martin Klizan
+k980,Reda,Karakhi,MAR,1991,8,23,0,0,0,0,0,Reda Karakhi
+ka00,Austin,Krajicek,USA,1990,6,16,2012,79,188,Left-Handed,Two-Handed Backhand,Austin Krajicek
+ka04,Jordan,Kepler,USA,1991,8,2,0,0,0,0,0,Jordan Kepler
+ka18,Kevin,Kung,HKG,1989,9,30,0,0,0,0,0,Kevin Kung
+ka22,Dayne,Kelly,AUS,1990,7,23,0,0,0,0,0,Dayne Kelly
+ka67,Thomas,Knights,GBR,1990,3,28,0,0,0,0,0,Thomas Knights
+ka43,Matheson,Klein,AUS,1989,7,12,0,0,0,0,0,Matheson Klein
+ka69,Stepan,Khotulev,RUS,1989,5,28,0,0,0,0,0,Stepan Khotulev
+ka74,Vladimir,Karusevich,RUS,1990,1,1,0,76,180,0,0,Vladimir Karusevich
+ka72,Warut,Korkiatthaworn,THA,1991,8,17,0,0,0,0,0,Warut Korkiatthaworn
+ka80,Henri,Kontinen,FIN,1990,6,19,2008,82,191,Right-Handed,One-Handed Backhand,Henri Kontinen
+ka98,Bradley,Klahn,USA,1990,8,20,2012,75,183,Left-Handed,Two-Handed Backhand,Bradley Klahn
+kb01,Nicolas Gustavo,Kauer,CHI,1991,9,16,0,0,0,0,0,Nicolas Gustavo Kauer
+kb02,Robert,Khoury,USA,1988,4,1,0,0,0,0,0,Robert Khoury
+kb07,Hicham,Khaddari,MAR,1991,8,19,0,0,0,0,0,Hicham Khaddari
+kb05,Filip,Krajinovic,SRB,1992,2,27,2008,75,185,Right-Handed,Two-Handed Backhand,Filip Krajinovic
+kb09,Denis,Kudla,USA,1992,8,17,2010,75,180,Right-Handed,Two-Handed Backhand,Denis Kudla
+kb12,Pavel,Krainik,CAN,1992,9,28,0,0,0,0,0,Pavel Krainik
+kb14,Kevin,King,USA,1991,2,28,0,86,191,Left-Handed,Two-Handed Backhand,Kevin King
+kb26,Ashot,Khacharyan,RUS,1992,11,28,0,0,0,0,0,Ashot Khacharyan
+kb42,Kevin,Konfederak,ARG,1991,7,26,0,0,0,0,0,Kevin Konfederak
+kb37,Evan,King,USA,1992,3,25,2013,79,185,Left-Handed,Two-Handed Backhand,Evan King
+kb43,Robin,Kern,GER,1993,10,3,0,87,191,0,0,Robin Kern
+kb47,Vitaliy,Kachanovskiy,RUS,1991,4,12,0,0,0,0,0,Vitaliy Kachanovskiy
+kb56,Micke,Kontinen,FIN,1992,12,18,0,0,0,0,0,Micke Kontinen
+kb54,Andrey,Kuznetsov,RUS,1991,2,22,2008,71,185,Right-Handed,Two-Handed Backhand,Andrey Kuznetsov
+kb62,Austin,Karosi,USA,1990,3,23,0,78,178,Right-Handed,One-Handed Backhand,Austin Karosi
+kb80,Nuttanon,Kadchapanan,THA,1993,6,7,0,0,0,0,0,Nuttanon Kadchapanan
+kb89,Adirek,Khundarnpinitvon,THA,1992,8,9,0,0,0,0,0,Adirek Khundarnpinitvon
+kb95,Jason,Kubler,AUS,1993,5,19,0,74,178,Right-Handed,Two-Handed Backhand,Jason Kubler
+kb92,Kevin,Krawietz,GER,1992,1,24,2008,83,191,Right-Handed,Two-Handed Backhand,Kevin Krawietz
+kc04,Jozef,Kovalik,SVK,1992,11,4,0,82,183,Right-Handed,Two-Handed Backhand,Jozef Kovalik
+kc11,Daniel,Kosakowski,USA,1992,2,21,2011,79,185,0,0,Daniel Kosakowski
+kc12,Mitchell,Krueger,USA,1994,1,12,2012,82,188,Right-Handed,Two-Handed Backhand,Mitchell Krueger
+kc29,Nicolas,Kicker,ARG,1992,8,16,2009,75,178,Right-Handed,One-Handed Backhand,Nicolas Kicker
+kc33,Dimitar,Kuzmanov,BUL,1993,7,28,2009,72,183,Right-Handed,Two-Handed Backhand,Dimitar Kuzmanov
+kc41,Wesley,Koolhof,NED,1989,4,17,2008,78,183,Right-Handed,Two-Handed Backhand,Wesley Koolhof
+kc44,Shahbaaz,Khan,IND,1992,7,4,0,80,185,Right-Handed,Two-Handed Backhand,Shahbaaz Khan
+kc50,Alexandr,Kushakov,UKR,1991,5,2,0,0,0,Right-Handed,Two-Handed Backhand,Alexandr Kushakov
+kc55,Krasimir,Kolev,USA,1979,11,12,0,0,0,0,0,Krasimir Kolev
+kc56,Aslan,Karatsev,RUS,1993,9,4,0,0,0,Right-Handed,Two-Handed Backhand,Aslan Karatsev
+kc68,Mohamed Nazim,Khan,MAS,1993,6,27,0,0,0,0,0,Mohamed Nazim Khan
+kc86,Darian,King,BAR,1992,4,26,2010,77,188,Right-Handed,Two-Handed Backhand,Darian King
+kd19,Svyatoslav,Knyazev,RUS,1992,10,18,0,0,0,0,0,Svyatoslav Knyazev
+kd14,Duje,Kekez,CRO,1993,3,30,0,0,0,Right-Handed,Two-Handed Backhand,Duje Kekez
+kc74,Jacob,Kahoun,SUI,1992,4,5,0,64,173,Right-Handed,Two-Handed Backhand,Jacob Kahoun
+kd25,Alfredo,Krywacz,BRA,1985,9,12,0,0,0,0,0,Alfredo Krywacz
+kd34,Maximilian,Kolleritsch,GER,1993,8,11,0,0,0,Right-Handed,Two-Handed Backhand,Maximilian Kolleritsch
+kd43,Arjun,Kadhe,IND,1994,1,7,0,0,0,Right-Handed,Two-Handed Backhand,Arjun Kadhe
+kd35,Thai-Son,Kwiatkowski,USA,1995,2,13,2017,75,188,Right-Handed,Two-Handed Backhand,Thai-Son Kwiatkowski
+kd45,Stuart,Kenyon,USA,1992,12,19,0,0,0,0,0,Stuart Kenyon
+kd46,Thanasi,Kokkinakis,AUS,1996,4,10,2013,82,196,Right-Handed,Two-Handed Backhand,Thanasi Kokkinakis
+kd77,Neven,Krivokuca,CRO,1995,9,15,0,68,180,Left-Handed,Two-Handed Backhand,Neven Krivokuca
+kd70,Pedja,Krstin,SRB,1994,9,3,0,73,183,Right-Handed,Two-Handed Backhand,Pedja Krstin
+kd78,Kirill,Kasyanov,USA,1989,9,25,0,0,0,Right-Handed,Two-Handed Backhand,Kirill Kasyanov
+kd87,Evgeny,Karlovskiy,RUS,1994,8,7,0,85,191,Right-Handed,Two-Handed Backhand,Evgeny Karlovskiy
+kd88,Kevin,Kaczynski,GER,1994,4,6,0,0,0,Right-Handed,Two-Handed Backhand,Kevin Kaczynski
+ke04,Jessy,Kalambay,SUI,1992,10,30,0,97,193,0,0,Jessy Kalambay
+ke17,Nick,Kyrgios,AUS,1995,4,27,2013,85,193,Right-Handed,Two-Handed Backhand,Nick Kyrgios
+ke19,Vitaly,Kozyukov,RUS,1994,6,2,0,82,188,Right-Handed,Two-Handed Backhand,Vitaly Kozyukov
+ke43,Chayanon,Kaewsuto,THA,1995,6,16,0,0,0,0,0,Chayanon Kaewsuto
+ke29,Karen,Khachanov,RUS,1996,5,21,2013,88,198,Right-Handed,Two-Handed Backhand,Karen Khachanov
+ke46,Mohamed Ali,Kraimi,MAR,1991,12,25,0,0,0,0,0,Mohamed Ali Kraimi
+ke81,Filip,Karlsson,SWE,1994,4,30,0,0,0,0,0,Filip Karlsson
+ke61,Maxim,Kravtsov,RUS,1995,3,6,0,0,0,0,0,Maxim Kravtsov
+ke64,Stefan,Kozlov,USA,1998,2,1,2013,79,183,Right-Handed,Two-Handed Backhand,Stefan Kozlov
+kf17,Soon Woo,Kwon,KOR,1997,12,2,2015,72,180,Right-Handed,Two-Handed Backhand,Soon Woo Kwon
+kf15,Young Seok,Kim,KOR,1995,5,12,0,0,0,Left-Handed,Two-Handed Backhand,Young Seok Kim
+kf85,Daniel,Kerznerman,USA,1996,2,22,0,0,0,0,0,Daniel Kerznerman
+kg27,Strong,Kirchheimer,USA,1995,4,26,0,79,185,0,0,Strong Kirchheimer
+kg28,Aleksei,Khomich,BLR,1997,1,10,0,80,191,Right-Handed,Two-Handed Backhand,Aleksei Khomich
+kg53,Alexander,Klintcharov,NZL,1996,8,25,0,0,0,0,0,Alexander Klintcharov
+kh77,Niki,Kaliyanda Poonacha,IND,1995,4,27,0,83,191,Right-Handed,Two-Handed Backhand,Niki Kaliyanda Poonacha
+ki71,Kirill,Kivattsev,RUS,1997,10,10,0,83,193,Right-Handed,One-Handed Backhand,Kirill Kivattsev
+ki74,Nicola,Kuhn,ESP,2000,3,20,2015,75,185,Right-Handed,Two-Handed Backhand,Nicola Kuhn
+ki34,Hao Sheng,Koay,MAS,1998,7,27,0,0,0,0,0,Hao Sheng Koay
+ki17,Maksim,Kan,UZB,1994,4,23,0,0,0,Right-Handed,Two-Handed Backhand,Maksim Kan
+l0ao,Christian,Lakoseljac,CAN,1998,12,23,0,0,0,0,0,Christian Lakoseljac
+l290,Nicolas,Lapentti,ECU,1976,8,13,1995,86,188,Right-Handed,Two-Handed Backhand,Nicolas Lapentti
+l311,Hyung-Taik,Lee,KOR,1976,1,3,1995,82,180,Right-Handed,One-Handed Backhand,Hyung-Taik Lee
+l333,Martin,Lee,GBR,1978,1,13,1996,75,180,0,0,Martin Lee
+l334,Simon,Larose,CAN,1978,6,28,1998,86,191,0,0,Simon Larose
+l335,Robert,Lindstedt,SWE,1977,3,19,1998,88,193,Right-Handed,Two-Handed Backhand,Robert Lindstedt
+l336,Harel,Levy,ISR,1978,8,5,1995,82,185,0,0,Harel Levy
+l341,Helder,Lopes,POR,1977,8,7,0,0,0,0,0,Helder Lopes
+l360,Ivan,Ljubicic,CRO,1979,3,19,1998,92,193,Right-Handed,One-Handed Backhand,Ivan Ljubicic
+l384,Daniel,Lencina-Ribes,LTU,1977,2,5,0,0,0,0,0,Daniel Lencina-Ribes
+l386,Jean-Rene,Lisnard,MON,1979,9,25,1997,68,173,Right-Handed,One-Handed Backhand,Jean-Rene Lisnard
+l397,Feliciano,Lopez,ESP,1981,9,20,1997,73,185,Left-Handed,One-Handed Backhand,Feliciano Lopez
+l395,Federico,Luzzi,ITA,1980,1,3,1999,80,188,0,0,Federico Luzzi
+l391,Jaroslav,Levinsky,CZE,1981,2,11,1999,85,196,0,0,Jaroslav Levinsky
+l387,Sebastien,Lami,FRA,1977,2,10,0,0,0,0,0,Sebastien Lami
+l439,Irakli,Labadze,GEO,1981,6,9,1998,85,188,Left-Handed,Two-Handed Backhand,Irakli Labadze
+l430,Giovanni,Lapentti,ECU,1983,1,25,2002,91,193,Right-Handed,Two-Handed Backhand,Giovanni Lapentti
+l428,Michael,Llodra,FRA,1980,5,18,1999,80,191,Left-Handed,One-Handed Backhand,Michael Llodra
+l473,Mattia,Livraghi,ITA,1981,9,21,0,0,0,0,0,Mattia Livraghi
+l499,Pedro,Leao,POR,1982,5,11,0,0,0,0,0,Pedro Leao
+l480,Marc,Lopez,ESP,1982,7,31,1999,72,175,Right-Handed,Two-Handed Backhand,Marc Lopez
+l503,Paolo,Lorenzi,ITA,1981,12,15,2003,77,183,Right-Handed,Two-Handed Backhand,Paolo Lorenzi
+l504,Radoslav,Lukaev,BUL,1982,4,24,0,0,0,0,0,Radoslav Lukaev
+l513,Miguel Angel,Lopez Jaen,ESP,1982,11,29,2000,84,188,0,0,Miguel Angel Lopez Jaen
+l515,Peter,Luczak,AUS,1979,8,31,2000,77,183,Right-Handed,Two-Handed Backhand,Peter Luczak
+l517,Igor,Levine,RUS,1980,8,24,0,0,0,0,0,Igor Levine
+l523,Michael,Lammer,SUI,1982,3,25,0,80,185,0,0,Michael Lammer
+l546,Paul,Logtens,NED,1979,11,7,2000,73,175,0,0,Paul Logtens
+l565,Albert,Loncaric,CRO,1981,5,21,0,0,0,0,0,Albert Loncaric
+l575,Yen-Hsun,Lu,TPE,1983,8,14,2001,74,180,Right-Handed,Two-Handed Backhand,Yen-Hsun Lu
+l580,Scott,Lipsky,USA,1981,8,14,2003,86,185,Right-Handed,Two-Handed Backhand,Scott Lipsky
+l596,Komlavi,Loglo,TOG,1984,12,30,2003,83,183,0,0,Komlavi Loglo
+l619,Dave,Lingman,USA,1981,7,9,0,0,0,0,0,Dave Lingman
+l615,Daniel,Lustig,CZE,1984,11,25,0,83,191,0,0,Daniel Lustig
+l633,David,Luque-Velasco,ESP,1984,3,2,0,0,0,0,0,David Luque-Velasco
+l653,Haydn,Lewis,BAR,1986,1,2,0,87,0,0,0,Haydn Lewis
+l657,Gary,Lugassy,FRA,1982,8,20,0,0,0,0,0,Gary Lugassy
+l660,Hao,Lu,CHN,1984,1,30,0,0,0,0,0,Hao Lu
+l702,Mikhail,Ledovskikh,RUS,1986,8,8,0,82,188,Right-Handed,Two-Handed Backhand,Mikhail Ledovskikh
+l698,Karlis,Lejnieks,LAT,1988,3,16,0,0,0,0,0,Karlis Lejnieks
+l709,Christopher,Lam,USA,1983,6,16,2006,75,178,0,0,Christopher Lam
+l719,Tushar,Liberhan,IND,1986,10,8,0,0,0,0,0,Tushar Liberhan
+l733,Zhe,Li,CHN,1986,9,20,2004,78,183,Right-Handed,Two-Handed Backhand,Zhe Li
+l738,Dariusz,Lipka,POL,1987,9,2,0,74,180,Right-Handed,Two-Handed Backhand,Dariusz Lipka
+l762,Mikhail,Lifshits,RUS,1986,8,21,0,0,0,0,0,Mikhail Lifshits
+l761,James,Ludlow,USA,1985,6,3,0,0,0,0,0,James Ludlow
+l772,Shane,La Porte,USA,1985,5,12,0,0,0,0,0,Shane La Porte
+l781,Chris,Letcher,AUS,1985,5,11,0,0,0,0,0,Chris Letcher
+l784,Dennis,Lajola,USA,1989,2,12,0,0,0,0,0,Dennis Lajola
+l785,Piero,Luisi,VEN,1987,3,13,0,0,0,0,0,Piero Luisi
+l797,Lukas,Lacko,SVK,1987,11,3,2005,85,185,Right-Handed,Two-Handed Backhand,Lukas Lacko
+l799,Jesse,Levine,CAN,1987,10,15,2007,68,175,Left-Handed,Two-Handed Backhand,Jesse Levine
+l800,Anders,Lindstrom,SWE,1988,5,22,0,0,0,0,0,Anders Lindstrom
+l801,Dusan,Lojda,CZE,1988,3,8,2005,85,188,Left-Handed,Two-Handed Backhand,Dusan Lojda
+l802,Alexandru-Raul,Lazar,ROU,1988,8,20,0,0,0,0,0,Alexandru-Raul Lazar
+l812,Tiago,Lopes,BRA,1986,11,27,0,0,0,0,0,Tiago Lopes
+l831,Denes,Lukacs,HUN,1987,2,25,0,82,180,Right-Handed,Two-Handed Backhand,Denes Lukacs
+l837,Michael,Look,AUS,1987,11,24,0,0,0,0,0,Michael Look
+l836,Nick,Lindahl,AUS,1988,7,31,2006,77,183,0,0,Nick Lindahl
+l846,Shuang-Qiang,Liang,CHN,1985,1,18,0,0,0,0,0,Shuang-Qiang Liang
+l848,Thomas,Liversage,RSA,1986,5,24,0,0,0,0,0,Thomas Liversage
+l856,Christoph,Lessiak,AUT,1986,11,20,0,70,0,0,0,Christoph Lessiak
+l868,Ming,Li,CHN,1985,2,15,0,0,0,0,0,Ming Li
+l879,Dan,Lempa,USA,1979,5,10,0,0,0,0,0,Dan Lempa
+l872,Petru-Alexandru,Luncanu,ROU,1989,5,7,2005,80,185,Left-Handed,Two-Handed Backhand,Petru-Alexandru Luncanu
+l899,Filippo,Leonardi,ITA,1987,12,22,0,0,0,0,0,Filippo Leonardi
+l900,James,Lemke,AUS,1988,1,25,0,0,0,0,0,James Lemke
+l908,Nils,Langer,GER,1990,1,25,0,77,193,Right-Handed,One-Handed Backhand,Nils Langer
+l913,Raphael,Lustenberger,SUI,1988,11,23,0,0,0,0,0,Raphael Lustenberger
+l940,Jan-Henrik,Langhorst,GER,1982,9,13,0,0,0,0,0,Jan-Henrik Langhorst
+l941,Michael,Linzer,AUT,1989,11,2,0,77,180,Right-Handed,Two-Handed Backhand,Michael Linzer
+l950,Alexandar,Lazov,BUL,1990,7,9,0,69,183,Left-Handed,Two-Handed Backhand,Alexandar Lazov
+l949,Henri,Laaksonen,SUI,1992,3,31,2009,78,185,Right-Handed,Two-Handed Backhand,Henri Laaksonen
+l951,Joel,Lindner,AUS,1989,1,5,0,0,0,0,0,Joel Lindner
+l953,Marko,Lovrinovic,CRO,1991,4,5,0,0,0,0,0,Marko Lovrinovic
+l968,Juan,Lopez Vico,ESP,1989,1,4,0,0,0,0,0,Juan Lopez Vico
+l979,Pitchaya,Limpimprorh,THA,1989,3,14,0,0,0,0,0,Pitchaya Limpimprorh
+l987,Dusan,Lajovic,SRB,1990,6,30,2007,78,183,Right-Handed,One-Handed Backhand,Dusan Lajovic
+l988,Whit,Livingston,USA,1983,9,17,0,0,0,0,0,Whit Livingston
+l993,Jonas,Luetjen,GER,1990,8,13,0,82,188,0,0,Jonas Luetjen
+l996,Juan,Lizariturry,ESP,1991,4,20,0,0,0,0,0,Juan Lizariturry
+la01,Marko,Lenz,GER,1991,5,10,0,0,0,0,0,Marko Lenz
+la06,Facundo,Lugones,ARG,1992,7,6,0,0,0,0,0,Facundo Lugones
+la08,Yu Cheng,Li ,CHN,1992,2,21,0,0,0,0,0,Yu Cheng Li 
+la18,Ignacio,Lehyt,CHI,1991,12,19,0,0,0,0,0,Ignacio Lehyt
+la40,Augusto,Laranja,BRA,1992,4,15,0,0,0,0,0,Augusto Laranja
+la45,Alexander,Lobkov,RUS,1990,10,7,0,0,0,0,0,Alexander Lobkov
+la43,Sebastian,Lopez,COL,1992,3,3,0,0,0,0,0,Sebastian Lopez
+la50,Philip,Lang,AUT,1990,10,7,0,0,0,Right-Handed,Two-Handed Backhand,Philip Lang
+la54,Wilson,Leite,BRA,1991,11,6,2008,73,178,Right-Handed,Two-Handed Backhand,Wilson Leite
+la94,Christian,Lindell,SWE,1991,11,20,0,87,193,Right-Handed,Two-Handed Backhand,Christian Lindell
+lb07,Gonzalo,Lama,CHI,1993,4,27,0,82,180,0,0,Gonzalo Lama
+la93,Enrique,Lopez-Perez,ESP,1991,6,3,0,76,0,Right-Handed,Two-Handed Backhand,Enrique Lopez-Perez
+lb19,Ryan,Lipman,USA,1990,10,10,0,0,0,0,0,Ryan Lipman
+lb20,John,Lamble,USA,1992,3,31,0,79,183,Right-Handed,Two-Handed Backhand,John Lamble
+lb39,Antonio,Lupieri,CRO,1992,1,20,0,0,0,0,0,Antonio Lupieri
+lb25,Jannis,Liniger,SUI,1990,1,17,0,76,191,0,0,Jannis Liniger
+lb51,Julian,Lenz,GER,1993,2,17,0,82,188,Right-Handed,Two-Handed Backhand,Julian Lenz
+lb54,Jannick,Lupescu,NED,1993,7,16,0,0,0,0,0,Jannick Lupescu
+lb56,Kong Pop,Lertchai,THA,1992,9,1,0,0,0,0,0,Kong Pop Lertchai
+lb62,Stefan,Lindmark,SWE,1993,7,24,0,0,0,0,0,Stefan Lindmark
+lb66,Constant,Lestienne,FRA,1992,5,23,2012,72,180,Right-Handed,Two-Handed Backhand,Constant Lestienne
+lb69,Sebastian,Lavie,NZL,1992,3,18,0,0,0,Right-Handed,Two-Handed Backhand,Sebastian Lavie
+lb84,Juan Ignacio,Londero,ARG,1993,8,15,0,70,180,Right-Handed,Two-Handed Backhand,Juan Ignacio Londero
+lb90,Christian Oliver,Lee,MAS,1992,4,19,0,0,0,0,0,Christian Oliver Lee
+lc12,Laurent,Lokoli,FRA,1994,10,18,0,0,0,0,0,Laurent Lokoli
+lc11,Tristan,Lamasine,FRA,1993,3,5,2010,69,183,Right-Handed,Two-Handed Backhand,Tristan Lamasine
+lc37,Adam,Lee,NZL,1992,6,2,0,0,0,Right-Handed,Two-Handed Backhand,Adam Lee
+lc41,Ramy,Labna,EGY,1991,11,18,0,0,0,0,0,Ramy Labna
+lc50,Goncalo,Loureiro,POR,1995,4,6,0,0,0,0,0,Goncalo Loureiro
+lc58,Tomas,Lipovsek Puches,ARG,1993,4,17,0,0,0,0,0,Tomas Lipovsek Puches
+lc90,Siyu,Liu,CHN,1995,11,1,0,88,191,0,0,Siyu Liu
+ld05,Pietro,Licciardi,ITA,1994,5,17,0,0,0,0,0,Pietro Licciardi
+ld35,Zhao-Tai,Li,CHN,1994,3,14,0,85,188,Right-Handed,Two-Handed Backhand,Zhao-Tai Li
+ld81,Korey,Lovett,USA,1996,4,27,0,0,0,Right-Handed,Two-Handed Backhand,Korey Lovett
+le01,Duckhee,Lee,KOR,1998,5,29,2012,75,175,Right-Handed,Two-Handed Backhand,Duckhee Lee
+le13,Eduardo,Lameiras,POR,1994,9,16,0,0,0,Right-Handed,Two-Handed Backhand,Eduardo Lameiras
+le38,Niels,Lootsma,NED,1994,8,15,0,78,193,Right-Handed,Two-Handed Backhand,Niels Lootsma
+le79,Aws,Laaribi,TUN,1994,3,28,0,0,0,Right-Handed,Two-Handed Backhand,Aws Laaribi
+lf26,Orlando,Luz,BRA,1998,2,8,0,78,180,Right-Handed,Two-Handed Backhand,Orlando Luz
+lf29,Alvaro,Lopez San Martin,ESP,1997,6,2,0,78,185,Right-Handed,Two-Handed Backhand,Alvaro Lopez San Martin
+lg87,Gerardo,Lopez Villasenor,MEX,1995,5,12,0,91,193,Right-Handed,Two-Handed Backhand,Gerardo Lopez Villasenor
+lh74,Clement,Larriere,FRA,1997,5,21,0,0,0,Right-Handed,Two-Handed Backhand,Clement Larriere
+lh91,Tiago,Lourenco,POR,1997,4,7,0,0,0,0,0,Tiago Lourenco
+li11,Thomas,Laurent,FRA,1997,12,16,0,0,0,0,0,Thomas Laurent
+li16,Jack Mingjie,Lin,CAN,1999,4,15,0,0,0,0,0,Jack Mingjie Lin
+li39,Alexandar,Lazarov,BUL,1997,11,6,0,72,188,Right-Handed,One-Handed Backhand,Alexandar Lazarov
+m021,Pablo,Martin-Adalia,ESP,1988,5,20,0,0,0,0,0,Pablo Martin-Adalia
+m0bn,Marvin,Moeller,GER,1999,1,18,0,69,178,Right-Handed,Two-Handed Backhand,Marvin Moeller
+m181,Joao,Maio,POR,1991,11,2,0,0,0,Right-Handed,Two-Handed Backhand,Joao Maio
+m573,Lior,Mor,ISR,1976,2,29,0,72,175,0,0,Lior Mor
+m588,Eduardo,Medica,ARG,1976,2,10,1995,79,180,0,0,Eduardo Medica
+m590,Alberto,Martin,ESP,1978,8,20,1995,73,175,Right-Handed,One-Handed Backhand,Alberto Martin
+m600,Ion,Moldovan,ROU,1978,1,17,1996,88,188,Right-Handed,One-Handed Backhand,Ion Moldovan
+m595,Max,Mirnyi,BLR,1977,7,6,1996,93,196,Right-Handed,One-Handed Backhand,Max Mirnyi
+m607,Luke,Milligan,GBR,1976,8,6,1995,75,180,0,0,Luke Milligan
+m605,Carlos,Moya,ESP,1976,8,27,1995,86,191,Right-Handed,Two-Handed Backhand,Carlos Moya
+m611,Daniel,Melo,BRA,1977,7,4,1997,77,185,0,0,Daniel Melo
+m614,Cecil,Mamiit,PHI,1976,6,27,1996,70,173,0,0,Cecil Mamiit
+m640,Olivier,Mutis,FRA,1978,2,2,1996,72,175,Right-Handed,Two-Handed Backhand,Olivier Mutis
+m632,Toby,Mitchell,AUS,1976,8,20,0,0,0,0,0,Toby Mitchell
+m655,Nicolas,Massu,CHI,1979,10,10,1997,80,183,Right-Handed,Two-Handed Backhand,Nicolas Massu
+m663,Nuno,Matias,POR,1977,12,8,0,0,0,0,0,Nuno Matias
+m699,Harsh,Mankad,IND,1979,11,10,2002,70,173,0,0,Harsh Mankad
+m674,Markus,Menzler,GER,1977,7,25,0,0,0,0,0,Markus Menzler
+m680,Xavier,Malisse,BEL,1980,7,19,1998,83,185,Right-Handed,Two-Handed Backhand,Xavier Malisse
+m701,Thomas,Messmer,GER,1979,11,25,0,0,0,0,0,Thomas Messmer
+m711,Zbynek,Mlynarik,AUT,1977,4,24,1998,69,175,0,0,Zbynek Mlynarik
+m714,Edgardo,Massa,ARG,1981,3,22,1998,85,180,0,0,Edgardo Massa
+m708,Ricardo,Mello,BRA,1980,12,21,1999,73,175,Left-Handed,Two-Handed Backhand,Ricardo Mello
+m744,Karim,Maamoun,EGY,1979,11,18,0,0,0,0,0,Karim Maamoun
+m747,Frank,Moser,GER,1976,9,23,2001,92,196,0,0,Frank Moser
+m759,Wesley,Moodie,RSA,1979,2,14,2000,91,196,Right-Handed,One-Handed Backhand,Wesley Moodie
+m745,Abdul Hamid,Makhkamov,UZB,1976,4,19,0,0,0,0,0,Abdul Hamid Makhkamov
+m760,Oliver,Marach,AUT,1980,7,16,1998,78,185,Right-Handed,One-Handed Backhand,Oliver Marach
+m762,Jurgen,Melzer,AUT,1981,5,22,1999,81,183,Left-Handed,Two-Handed Backhand,Jurgen Melzer
+m776,Michal,Mertinak,SVK,1979,10,11,1999,92,185,Right-Handed,Two-Handed Backhand,Michal Mertinak
+m778,David,Martin,USA,1981,2,22,2003,86,185,0,0,David Martin
+m783,Ivan,Miranda,PER,1980,3,8,1999,70,175,0,0,Ivan Miranda
+m794,Jason,Marshall,USA,1978,6,20,2001,77,185,0,0,Jason Marshall
+m800,Jan,Minar,CZE,1981,4,9,0,0,0,0,0,Jan Minar
+m805,Jeff,Morrison,USA,1979,2,4,2000,73,185,0,0,Jeff Morrison
+m808,Julien,Maes,FRA,1981,2,28,0,0,0,0,0,Julien Maes
+m812,Gustavo,Marcaccio,ARG,1977,5,3,0,0,0,0,0,Gustavo Marcaccio
+m815,Toshihide,Matsui,JPN,1978,4,19,2001,77,180,0,0,Toshihide Matsui
+m820,Alan,Mackin,GBR,1981,8,11,1997,79,183,0,0,Alan Mackin
+m824,Albert,Montanes,ESP,1980,11,26,1999,70,175,Right-Handed,One-Handed Backhand,Albert Montanes
+m836,Dominik,Meffert,GER,1981,4,9,2005,92,198,Right-Handed,One-Handed Backhand,Dominik Meffert
+m844,Marcin,Matkowski,POL,1981,1,15,2003,90,185,Right-Handed,Two-Handed Backhand,Marcin Matkowski
+m854,Vasilis,Mazarakis,GRE,1980,2,9,1999,72,178,0,0,Vasilis Mazarakis
+m850,Paul-Henri,Mathieu,FRA,1982,1,12,1999,74,185,Right-Handed,Two-Handed Backhand,Paul-Henri Mathieu
+m864,Joji,Miyao,JPN,1981,6,15,0,0,0,0,0,Joji Miyao
+m867,Jeroen,Masson,BEL,1981,1,2,0,0,0,0,0,Jeroen Masson
+m873,Nicolas,Mahut,FRA,1982,1,21,2000,80,191,Right-Handed,One-Handed Backhand,Nicolas Mahut
+m915,Daniel,Munoz de la Nava,ESP,1982,1,29,1999,75,178,Left-Handed,Two-Handed Backhand,Daniel Munoz de la Nava
+m902,Julien,Mathieu,FRA,1982,4,22,0,0,0,0,0,Julien Mathieu
+m919,Marcelo,Melo,BRA,1983,9,23,1998,87,203,Right-Handed,Two-Handed Backhand,Marcelo Melo
+m934,Israel,Matos Gil,ESP,1982,12,14,0,0,0,0,0,Israel Matos Gil
+m935,Philipp,Marx,GER,1982,2,3,0,75,188,0,0,Philipp Marx
+m975,James,May,GBR,1981,6,17,0,0,0,0,0,James May
+m983,Jonathan,Marray,GBR,1981,3,10,2000,76,183,Right-Handed,One-Handed Backhand,Jonathan Marray
+m984,David,Marrero,ESP,1980,4,8,2001,85,183,Right-Handed,One-Handed Backhand,David Marrero
+m996,Christian,Magg,AUT,1981,3,8,0,0,0,0,0,Christian Magg
+m997,Marco,Mirnegg,AUT,1982,6,24,2002,73,180,0,0,Marco Mirnegg
+m999,Nils,Muschiol,GER,1984,5,5,0,0,0,0,0,Nils Muschiol
+ma03,Jordi,Marse-Vidri,ESP,1980,7,21,0,0,0,0,0,Jordi Marse-Vidri
+ma10,Marcel-Ioan,Miron,ROU,1982,4,6,0,0,0,0,0,Marcel-Ioan Miron
+ma21,Juan,Monaco,ARG,1984,3,29,2002,81,185,Right-Handed,Two-Handed Backhand,Juan Monaco
+ma12,Kabelo,Maleka,RSA,1982,1,8,0,0,0,0,0,Kabelo Maleka
+ma30,Gilles,Muller,LUX,1983,5,9,2001,89,193,Left-Handed,Two-Handed Backhand,Gilles Muller
+ma36,Gabriel,Moraru,ROU,1982,1,28,2001,72,180,0,0,Gabriel Moraru
+ma41,Ivo,Minar,CZE,1984,5,21,2002,85,183,0,0,Ivo Minar
+ma38,Jan,Mertl,CZE,1982,1,3,2002,84,191,Right-Handed,Two-Handed Backhand,Jan Mertl
+ma48,Alessandro,Motti,ITA,1979,2,21,0,75,185,Left-Handed,One-Handed Backhand,Alessandro Motti
+ma49,Rui,Machado,POR,1984,4,10,2002,70,178,Right-Handed,Two-Handed Backhand,Rui Machado
+ma96,Tigran,Martirosyan,ARM,1983,7,12,0,0,0,0,0,Tigran Martirosyan
+mb02,Florian,Mayer,GER,1983,10,5,2001,82,191,Right-Handed,Two-Handed Backhand,Florian Mayer
+mb07,Darko,Madjarovski,SRB,1983,6,17,0,0,0,0,0,Darko Madjarovski
+mb26,Andrei,Mlendea,ROU,1984,8,3,0,0,0,0,0,Andrei Mlendea
+mb27,Florin,Mergea,ROU,1985,1,26,2003,75,0,Right-Handed,One-Handed Backhand,Florin Mergea
+mb49,Nicholas,Monroe,USA,1982,4,12,2004,73,178,Right-Handed,Two-Handed Backhand,Nicholas Monroe
+mb53,Adrian,Menendez-Maceiras,ESP,1985,10,28,2005,74,183,Right-Handed,Two-Handed Backhand,Adrian Menendez-Maceiras
+mb60,Leandro,Migani,ARG,1985,3,2,0,0,0,0,0,Leandro Migani
+mb84,Mathieu,Montcourt,FRA,1985,3,4,2002,75,183,Right-Handed,Two-Handed Backhand,Mathieu Montcourt
+mb88,Matwe,Middelkoop,NED,1983,9,3,2002,85,191,Right-Handed,Two-Handed Backhand,Matwe Middelkoop
+mb94,Abdullah,Maqdes,KUW,1987,3,31,0,0,0,0,0,Abdullah Maqdes
+mb99,Vahid,Mirzadeh,USA,1986,12,28,2011,82,178,0,0,Vahid Mirzadeh
+mb98,Jochen,Matschke,GER,1985,7,5,0,0,0,0,0,Jochen Matschke
+mc18,Denis,Matsukevich,RUS,1986,3,28,0,80,191,0,0,Denis Matsukevich
+mc10,Andy,Murray,GBR,1987,5,15,2005,84,191,Right-Handed,Two-Handed Backhand,Andy Murray
+mc19,Devin,Mullings,BAH,1985,10,4,0,0,0,0,0,Devin Mullings
+mc42,Aleksandar,Maric,SRB,1984,5,23,0,0,0,0,0,Aleksandar Maric
+mc66,Nikola,Martinovic,CRO,1984,4,2,0,0,0,0,0,Nikola Martinovic
+mc65,Gael,Monfils,FRA,1986,9,1,2004,80,193,Right-Handed,Two-Handed Backhand,Gael Monfils
+mc81,Jamie,Murray,GBR,1986,2,13,2004,83,191,Left-Handed,Two-Handed Backhand,Jamie Murray
+md50,Andre,Miele,BRA,1987,4,12,0,0,0,0,0,Andre Miele
+md56,Leonardo,Mayer,ARG,1987,5,15,2003,80,191,Right-Handed,One-Handed Backhand,Leonardo Mayer
+me04,Fabrice,Martin,FRA,1986,9,11,2006,100,198,Right-Handed,One-Handed Backhand,Fabrice Martin
+me05,Marinko,Matosevic,AUS,1985,8,8,2003,86,193,Right-Handed,Two-Handed Backhand,Marinko Matosevic
+me17,Matteo,Marrai,ITA,1986,11,17,0,0,0,0,0,Matteo Marrai
+me29,Steven,Moneke,GER,1986,5,27,0,0,0,0,0,Steven Moneke
+me31,Vincent,Millot,FRA,1986,1,30,2007,75,173,Left-Handed,Two-Handed Backhand,Vincent Millot
+me56,Andres,Molteni,ARG,1988,3,15,0,70,180,Right-Handed,Two-Handed Backhand,Andres Molteni
+me45,Borja,Malo,CHI,1987,12,15,0,0,0,0,0,Borja Malo
+me82,Adrian,Mannarino,FRA,1988,6,29,2004,70,180,Left-Handed,Two-Handed Backhand,Adrian Mannarino
+me64,Saketh,Myneni,IND,1987,10,19,2012,85,193,Right-Handed,Two-Handed Backhand,Saketh Myneni
+me70,Alejandro,Mendoza,BOL,1990,2,2,0,80,183,0,0,Alejandro Mendoza
+me89,Illya,Marchenko,UKR,1987,9,8,2006,82,185,Right-Handed,Two-Handed Backhand,Illya Marchenko
+me86,Pierre,Metenier,FRA,1983,10,15,0,0,0,0,0,Pierre Metenier
+mf04,Marc,Meigel,GER,1988,3,4,0,0,0,0,0,Marc Meigel
+mf02,Dmitri,Marfinsky,RUS,1989,8,26,0,0,0,0,0,Dmitri Marfinsky
+mf09,Nikola,Mektic,CRO,1988,12,24,2006,80,183,Right-Handed,Two-Handed Backhand,Nikola Mektic
+mf06,Marcelo,Michelucci,BRA,1988,3,29,0,0,0,0,0,Marcelo Michelucci
+mf35,Andrej,Martin,SVK,1989,9,20,0,72,180,0,0,Andrej Martin
+mf30,Miha,Mlakar,SLO,1984,9,19,0,66,0,0,0,Miha Mlakar
+mf36,Miloslav,Mecir,SVK,1988,1,20,0,88,196,Right-Handed,Two-Handed Backhand,Miloslav Mecir
+mf40,Marek,Mrozek,POL,1988,3,31,0,0,0,0,0,Marek Mrozek
+mf45,Koki,Matsunaga,JPN,1984,9,3,0,0,0,0,0,Koki Matsunaga
+mf57,Michael,McClune,USA,1989,8,22,2007,84,188,0,0,Michael McClune
+mf54,Ivo,Mijic,GER,1990,1,15,0,0,0,0,0,Ivo Mijic
+mf71,Denys,Molchanov,UKR,1987,5,16,0,83,191,Right-Handed,Two-Handed Backhand,Denys Molchanov
+mf78,Marek,Michalicka,CZE,1986,12,23,0,74,183,0,0,Marek Michalicka
+mf90,Kristijan,Mesaros,CRO,1988,7,2,0,89,188,Right-Handed,Two-Handed Backhand,Kristijan Mesaros
+mf95,Ryusei,Makiguchi,JPN,1991,5,3,0,77,178,0,0,Ryusei Makiguchi
+mg08,Yannick,Mertens,BEL,1987,6,25,2006,72,188,0,0,Yannick Mertens
+mg39,Mithun,Murali,IND,1982,9,23,0,0,0,0,0,Mithun Murali
+mg47,James,McGee,IRL,1987,6,10,0,80,183,Right-Handed,Two-Handed Backhand,James McGee
+mg54,Yann,Marti,SUI,1988,6,7,0,74,173,Right-Handed,Two-Handed Backhand,Yann Marti
+mg55,Nikolaus,Moser,AUT,1990,3,21,0,0,0,0,0,Nikolaus Moser
+mg75,Marko,Mijacevic,CRO,1988,8,31,0,0,0,0,0,Marko Mijacevic
+mg88,Junn,Mitsuhashi,JPN,1989,6,1,0,0,0,0,0,Junn Mitsuhashi
+mg84,Nicolas,Meister,USA,1989,5,15,0,0,0,0,0,Nicolas Meister
+mg93,Christopher,Marquis,IND,1991,6,13,0,66,175,0,0,Christopher Marquis
+mg99,Jordi,Munoz-Abreu,VEN,1990,1,17,0,0,0,0,0,Jordi Munoz-Abreu
+mh10,Anton,Manegin,RUS,1990,3,12,0,0,0,0,0,Anton Manegin
+mg96,Rasmus,Moller,DEN,1988,12,28,0,0,0,0,0,Rasmus Moller
+mh15,Joshua,Milton,GBR,1989,10,14,0,0,0,0,0,Joshua Milton
+mh16,Yannick,Maden,GER,1989,10,28,2013,68,185,Right-Handed,Two-Handed Backhand,Yannick Maden
+mh30,John,Millman,AUS,1989,6,14,2006,79,183,Right-Handed,Two-Handed Backhand,John Millman
+mh48,Vijayant,Malik,IND,1990,2,14,0,0,0,0,0,Vijayant Malik
+mh61,Ya-Nan,Ma,CHN,1990,6,6,0,0,0,0,0,Ya-Nan Ma
+mh59,Valentin,Mihai,ROU,1991,2,10,0,0,0,0,0,Valentin Mihai
+mh98,Dino,Marcan,CRO,1991,2,12,2008,75,180,Right-Handed,Two-Handed Backhand,Dino Marcan
+mh71,Ahmed,Moumni,MAR,1988,11,1,0,0,0,0,0,Ahmed Moumni
+mi01,Hiroki,Moriya,JPN,1990,10,16,0,65,170,Right-Handed,Two-Handed Backhand,Hiroki Moriya
+mi08,Javier,Marti,ESP,1992,1,11,0,0,0,0,0,Javier Marti
+mi09,Brendan,Mckenzie,AUS,1990,6,10,0,0,0,0,0,Brendan Mckenzie
+mi11,Axel,Michon,FRA,1990,12,16,0,0,0,0,0,Axel Michon
+mi17,Victor,Morales,CHI,1991,2,14,0,0,0,0,0,Victor Morales
+mi37,Luis Ignacio,Morales,CHI,1991,8,6,0,0,0,0,0,Luis Ignacio Morales
+mi41,George,Morgan,GBR,1993,2,7,0,0,0,0,0,George Morgan
+mi48,Jose Gerardo,Meza,MEX,1991,4,3,0,0,0,0,0,Jose Gerardo Meza
+mi43,Gerald,Melzer,AUT,1990,7,13,2007,80,188,Left-Handed,Two-Handed Backhand,Gerald Melzer
+mi55,Logan,Mackenzie,NZL,1990,5,14,0,0,0,0,0,Logan Mackenzie
+mi73,Sascha,Meis,GER,1989,11,21,0,0,0,0,0,Sascha Meis
+mi74,Pascal,Meis,GER,1993,6,11,0,0,0,0,0,Pascal Meis
+mi62,Ronak,Manuja,IND,1991,10,9,0,0,0,0,0,Ronak Manuja
+mj08,Thiago,Monteiro,BRA,1994,5,31,2011,78,183,Left-Handed,Two-Handed Backhand,Thiago Monteiro
+mi75,Rafael,Mazon-Hernandez,ESP,1990,9,15,0,0,0,0,0,Rafael Mazon-Hernandez
+mj01,Roberto,Marcora,ITA,1989,8,30,2009,88,193,Right-Handed,One-Handed Backhand,Roberto Marcora
+mj03,Teodor Nicolae,Marin,ROU,1993,2,1,0,0,0,0,0,Teodor Nicolae Marin
+mj51,Irakli,Marutian,RUS,1991,3,13,0,0,0,0,0,Irakli Marutian
+mj10,Alexandru Catalin,Marasin,ROU,1991,5,6,0,0,0,0,0,Alexandru Catalin Marasin
+mj56,Richard,Muzaev,RUS,1992,3,21,0,74,178,Right-Handed,Two-Handed Backhand,Richard Muzaev
+mj62,Finn,Meinecke,GER,1992,9,29,0,0,0,0,0,Finn Meinecke
+mj71,Mats,Moraing,GER,1992,6,20,0,84,198,Left-Handed,Two-Handed Backhand,Mats Moraing
+mj69,Luca,Margaroli,SUI,1992,2,15,0,81,183,Right-Handed,One-Handed Backhand,Luca Margaroli
+mj82,Jeffrey,Mira Svensson,SWE,1991,2,26,0,0,0,0,0,Jeffrey Mira Svensson
+mj88,Felipe,Mantilla,COL,1993,5,10,0,38,0,Right-Handed,Two-Handed Backhand,Felipe Mantilla
+mj89,Gianni,Mina,FRA,1992,2,9,0,85,188,Right-Handed,Two-Handed Backhand,Gianni Mina
+mj98,Facundo,Mena,ARG,1992,9,22,0,85,183,Right-Handed,One-Handed Backhand,Facundo Mena
+mk26,Jules,Marie,FRA,1991,9,1,0,76,185,0,0,Jules Marie
+mk29,Stefan,Merunka,CRO,1994,10,4,2013,80,185,Right-Handed,Two-Handed Backhand,Stefan Merunka
+mk36,Christian,Mohs,GER,1992,2,3,0,0,0,Left-Handed,Two-Handed Backhand,Christian Mohs
+mk08,James,Marsalek,GBR,1992,4,5,0,83,185,Right-Handed,Two-Handed Backhand,James Marsalek
+mk39,Vasco,Mensurado,POR,1994,4,1,0,72,175,Right-Handed,Two-Handed Backhand,Vasco Mensurado
+mk40,Benjamin,Mitchell,AUS,1992,11,30,2008,80,183,0,0,Benjamin Mitchell
+mk45,Andrew,Mcleod,AUS,1993,3,15,0,0,0,Right-Handed,Two-Handed Backhand,Andrew Mcleod
+mk43,Laurent,Malouli,FRA,1987,11,2,0,0,0,0,0,Laurent Malouli
+mk59,Javier,Munoz,CHI,1991,10,16,0,0,0,Right-Handed,Two-Handed Backhand,Javier Munoz
+mk89,Sergiu,Margarit,ROU,1991,1,17,0,0,0,Right-Handed,Two-Handed Backhand,Sergiu Margarit
+mk66,Mackenzie,McDonald,USA,1995,4,16,2016,66,178,0,0,Mackenzie McDonald
+ml07,Nima,Madani,SWE,1993,7,3,0,0,0,0,0,Nima Madani
+ml14,Erik,Moberg,SWE,1992,3,23,0,0,0,Right-Handed,Two-Handed Backhand,Erik Moberg
+ml47,Mohd Assri,Merzuki,MAS,1994,12,28,0,0,0,0,0,Mohd Assri Merzuki
+ml41,Daniel,McCall,USA,1993,2,9,0,0,0,0,0,Daniel McCall
+ml57,Gianluca,Mager,ITA,1994,12,1,0,0,0,0,0,Gianluca Mager
+ml51,Toby,Martin,GBR,1993,2,19,0,78,188,Right-Handed,Two-Handed Backhand,Toby Martin
+ml73,Skander,Mansouri,TUN,1995,7,23,0,86,193,Right-Handed,Two-Handed Backhand,Skander Mansouri
+ml71,Alban,Meuffels,NED,1992,8,24,0,0,0,0,0,Alban Meuffels
+ml83,Devin,McCarthy,USA,1990,11,20,0,86,193,Right-Handed,Two-Handed Backhand,Devin McCarthy
+mm05,Yann,Minster,SUI,1989,8,22,0,0,0,0,0,Yann Minster
+mm20,Clement,Maas,BEL,1991,4,8,0,0,0,0,0,Clement Maas
+mm24,Bastian,Malla,CHI,1996,9,22,0,0,0,0,0,Bastian Malla
+mm32,Juan Manuel,Matute,ARG,1991,12,28,0,0,0,Right-Handed,Two-Handed Backhand,Juan Manuel Matute
+mm46,Juan Jose,Mateus Rubiano,COL,1994,2,21,0,0,0,Right-Handed,Two-Handed Backhand,Juan Jose Mateus Rubiano
+mm78,Jonathan,Mridha,SWE,1995,4,8,0,75,183,Right-Handed,Two-Handed Backhand,Jonathan Mridha
+mm66,Nikola,Milojevic,SRB,1995,6,19,0,76,188,Right-Handed,Two-Handed Backhand,Nikola Milojevic
+mm58,Daniil,Medvedev,RUS,1996,2,11,2014,81,198,Right-Handed,Two-Handed Backhand,Daniil Medvedev
+mm79,Blake,Mott,AUS,1996,4,21,0,77,180,Right-Handed,Two-Handed Backhand,Blake Mott
+mn03,Alexander,Mannapov,GER,1995,4,21,0,85,191,Right-Handed,Two-Handed Backhand,Alexander Mannapov
+mm84,Artur,Madzhar,RUS,1991,10,23,0,0,0,0,0,Artur Madzhar
+mn08,Nico,Matic,GER,1992,1,1,0,76,178,Right-Handed,Two-Handed Backhand,Nico Matic
+mn13,Maximilian,Marterer,GER,1995,6,15,2015,84,191,Left-Handed,Two-Handed Backhand,Maximilian Marterer
+mn20,Daniel,Masur,GER,1994,11,6,2013,79,183,Right-Handed,Two-Handed Backhand,Daniel Masur
+mn44,Bradley,Mousley,AUS,1996,1,3,2015,82,188,Right-Handed,One-Handed Backhand,Bradley Mousley
+mn36,Franko,Miocic,CRO,1995,5,2,0,0,0,Left-Handed,Two-Handed Backhand,Franko Miocic
+mn23,Aleksandre,Metreveli,GEO,1993,8,10,0,78,183,Right-Handed,Two-Handed Backhand,Aleksandre Metreveli
+mn41,Teimouraz,Metreveli,RUS,1993,11,6,0,0,0,0,0,Teimouraz Metreveli
+mn74,Jathan,Malik,GBR,1994,6,27,0,0,0,0,0,Jathan Malik
+mo07,Ben,Mclachlan,JPN,1992,5,10,2010,78,185,Right-Handed,One-Handed Backhand,Ben Mclachlan
+mo44,Pedro,Martinez,ESP,1997,4,26,0,70,183,Right-Handed,Two-Handed Backhand,Pedro Martinez
+mo55,Lucas,Miedler,AUT,1996,6,21,0,77,180,Right-Handed,One-Handed Backhand,Lucas Miedler
+mp01,Michael,Mmoh,USA,1998,1,10,2016,85,185,Right-Handed,Two-Handed Backhand,Michael Mmoh
+mp16,Sam,Matheson,NZL,1994,5,23,0,0,0,0,0,Sam Matheson
+mp13,Sasi Kumar,Mukund,IND,1997,1,14,0,76,185,Right-Handed,Two-Handed Backhand,Sasi Kumar Mukund
+mp22,Mladen,Mitak,CRO,1996,8,4,0,71,180,Right-Handed,Two-Handed Backhand,Mladen Mitak
+mp33,Juan,Montes,COL,1996,10,5,0,73,0,Right-Handed,Two-Handed Backhand,Juan Montes
+mp51,Philip,Moebius,SWE,1996,10,15,0,0,0,Right-Handed,Two-Handed Backhand,Philip Moebius
+mp62,Tommy,Mylnikov,CAN,1995,11,8,0,0,0,Right-Handed,Two-Handed Backhand,Tommy Mylnikov
+mp87,Fahad,Mohammed,IND,1995,6,3,0,0,0,0,0,Fahad Mohammed
+mq09,Oscar,Mesquida Berg,ESP,1996,5,7,0,68,183,Right-Handed,Two-Handed Backhand,Oscar Mesquida Berg
+mu08,Daniel,Mora,COL,1996,6,21,0,70,0,Right-Handed,Two-Handed Backhand,Daniel Mora
+mu90,Myrohn,Miranda,CHI,1996,1,13,0,0,0,0,0,Myrohn Miranda
+mu91,Rahul robinson,Manoah,IND,1996,11,29,0,0,0,Right-Handed,Two-Handed Backhand,Rahul robinson Manoah
+mv58,Isa,Mammetgulyyev,TKM,1997,1,8,0,0,0,Left-Handed,Two-Handed Backhand,Isa Mammetgulyyev
+mu94,Jaume,Munar,ESP,1997,5,5,2014,78,183,Right-Handed,Two-Handed Backhand,Jaume Munar
+mw02,Corentin,Moutet,FRA,1999,4,19,0,65,175,Left-Handed,Two-Handed Backhand,Corentin Moutet
+mw54,Dragos Nicolae,Madaras,SWE,1997,9,12,0,85,191,Left-Handed,Two-Handed Backhand,Dragos Nicolae Madaras
+n250,Magnus,Norman,SWE,1976,5,30,1995,89,188,Right-Handed,Two-Handed Backhand,Magnus Norman
+n251,Rene,Nicklisch,GER,1976,3,31,0,0,0,0,0,Rene Nicklisch
+n259,Salvador,Navarro,ESP,1977,1,8,1995,73,180,0,0,Salvador Navarro
+n267,Mark,Nielsen,NZL,1977,10,8,1997,85,185,0,0,Mark Nielsen
+n260,Susheel,Narla,IND,1976,12,7,0,0,0,0,0,Susheel Narla
+n277,Ingo,Neumuller,AUT,1979,3,30,1998,76,183,0,0,Ingo Neumuller
+n291,Frederic,Niemeyer,CAN,1976,4,24,1998,82,191,0,0,Frederic Niemeyer
+n289,Jarkko,Nieminen,FIN,1981,7,23,2000,78,185,Left-Handed,Two-Handed Backhand,Jarkko Nieminen
+n301,David,Nalbandian,ARG,1982,1,1,2000,79,180,Right-Handed,Two-Handed Backhand,David Nalbandian
+n309,Ivan,Navarro,ESP,1981,10,19,2001,86,183,Right-Handed,One-Handed Backhand,Ivan Navarro
+n313,Timo,Nieminen,FIN,1981,10,6,2000,76,185,0,0,Timo Nieminen
+n314,Radoslaw,Nijaki,POL,1982,1,25,0,0,0,0,0,Radoslaw Nijaki
+n343,Michal,Navratil,CZE,1982,11,20,0,0,0,0,0,Michal Navratil
+n334,Eric,Nunez,USA,1982,4,9,2000,85,0,0,0,Eric Nunez
+n348,Lionel,Noviski,ARG,1983,3,24,0,0,0,0,0,Lionel Noviski
+n349,Conor,Niland,IRL,1981,9,19,0,82,185,Right-Handed,Two-Handed Backhand,Conor Niland
+n365,Jochen,Nufer,GER,1981,6,18,0,0,0,0,0,Jochen Nufer
+n409,Rafael,Nadal,ESP,1986,6,3,2001,85,185,Left-Handed,Two-Handed Backhand,Rafael Nadal
+n390,Frederik,Nielsen,DEN,1983,8,27,2001,86,188,Right-Handed,Two-Handed Backhand,Frederik Nielsen
+n415,Rasmus,Norby,DEN,1982,9,10,2001,70,183,0,0,Rasmus Norby
+n425,Alexander,Nonnekes,NED,1984,5,12,0,0,0,0,0,Alexander Nonnekes
+n430,Hyun-Woo,Nam,KOR,1985,1,9,0,0,0,0,0,Hyun-Woo Nam
+n433,Pongsiri,Niroj,THA,1982,9,17,0,0,0,0,0,Pongsiri Niroj
+n437,Gianluca,Naso,ITA,1987,1,6,0,90,193,Right-Handed,One-Handed Backhand,Gianluca Naso
+n480,Jeevan,Nedunchezhiyan,IND,1988,10,20,0,69,173,Left-Handed,Two-Handed Backhand,Jeevan Nedunchezhiyan
+n491,David,Nylen,SWE,1983,2,2,0,0,0,0,0,David Nylen
+n503,Aleksandr,Nedovyesov,KAZ,1987,2,15,2005,81,193,Right-Handed,Two-Handed Backhand,Aleksandr Nedovyesov
+n506,Henrik,Norfeldt,SWE,1986,12,23,0,0,0,0,0,Henrik Norfeldt
+n511,Frederic,Nussbaum,SUI,1982,5,25,0,0,0,0,0,Frederic Nussbaum
+n532,Fabricio,Neis,BRA,1990,6,15,0,0,0,0,0,Fabricio Neis
+n546,David,Nord,SWE,1987,2,8,0,0,0,0,0,David Nord
+n555,Daniel,Nguyen,USA,1990,10,16,2013,73,173,Right-Handed,Two-Handed Backhand,Daniel Nguyen
+n552,Kei,Nishikori,JPN,1989,12,29,2007,75,178,Right-Handed,Two-Handed Backhand,Kei Nishikori
+n558,N.Sriram,Balaji,IND,1990,3,18,0,72,180,Right-Handed,Two-Handed Backhand,N.Sriram Balaji
+n561,Ivan,Nedelko,RUS,1986,5,12,0,0,0,0,0,Ivan Nedelko
+n563,Dennis,Nevolo,USA,1989,12,22,0,0,0,0,0,Dennis Nevolo
+n570,Justin,Diao Natale,USA,1981,6,25,0,0,0,0,0,Justin Diao Natale
+n583,Victor,Nunez,CHI,1991,5,25,0,90,173,Right-Handed,Two-Handed Backhand,Victor Nunez
+n607,Miliaan,Niesten,NED,1988,6,27,2008,65,183,Left-Handed,Two-Handed Backhand,Miliaan Niesten
+n587,Mahmoud-Nader,Al Baloushi,UAE,1980,6,30,0,0,0,0,0,Mahmoud-Nader Al Baloushi
+n598,Takuto,Niki,JPN,1987,10,12,0,73,183,Right-Handed,Two-Handed Backhand,Takuto Niki
+n605,Jose-Ricardo,Nunes,POR,1986,7,24,0,0,0,0,0,Jose-Ricardo Nunes
+n616,Catalin-Petre,Nedelescu,ROU,1991,6,27,0,0,0,0,0,Catalin-Petre Nedelescu
+n631,Jonas Pontus,Norberg,SWE,1986,9,1,0,0,0,0,0,Jonas Pontus Norberg
+n632,Marco Aurelio,Nunez,MEX,1993,5,21,0,0,0,Left-Handed,Two-Handed Backhand,Marco Aurelio Nunez
+n637,Mbonisi,Ndimande,ZIM,1991,5,29,0,0,0,0,0,Mbonisi Ndimande
+n652,Ji Sung,Nam,KOR,1993,8,15,0,0,0,0,0,Ji Sung Nam
+n663,Maximilian,Neuchrist,AUT,1991,7,22,0,0,0,Right-Handed,Two-Handed Backhand,Maximilian Neuchrist
+n670,Hugo,Nys,FRA,1991,2,16,0,77,185,Right-Handed,One-Handed Backhand,Hugo Nys
+n674,Dennis,Novikov,USA,1993,11,6,2013,91,193,Right-Handed,Two-Handed Backhand,Dennis Novikov
+n679,Stefano,Napolitano,ITA,1995,4,11,2013,90,196,Right-Handed,Two-Handed Backhand,Stefano Napolitano
+n695,Amrit,Narasimhan,USA,1985,3,10,0,0,0,0,0,Amrit Narasimhan
+n688,Tim,Nekic,GER,1992,12,9,0,0,0,0,0,Tim Nekic
+n707,Naoki,Nakagawa,JPN,1996,11,19,0,75,0,Right-Handed,Two-Handed Backhand,Naoki Nakagawa
+n705,Ashok,Narayana,USA,1993,9,23,0,0,0,0,0,Ashok Narayana
+n708,Simon,Norenius,SWE,1993,12,17,0,0,0,0,0,Simon Norenius
+n714,Alan,Nunez Aguilera,MEX,1995,12,12,0,0,0,0,0,Alan Nunez Aguilera
+n718,Ugo,Nastasi,LUX,1993,4,16,0,80,185,Right-Handed,Two-Handed Backhand,Ugo Nastasi
+n732,Yoshihito,Nishioka,JPN,1995,9,27,2014,64,170,Left-Handed,Two-Handed Backhand,Yoshihito Nishioka
+n738,Nicholas,Naumann,USA,1993,9,28,0,0,0,0,0,Nicholas Naumann
+n771,Cameron,Norrie,GBR,1995,8,23,2017,80,188,Left-Handed,Two-Handed Backhand,Cameron Norrie
+n830,Johan,Nikles,SUI,1997,3,23,0,67,170,Right-Handed,Two-Handed Backhand,Johan Nikles
+n838,Scott,Nicolas,BEL,1996,8,21,0,0,0,0,0,Scott Nicolas
+n897,Sumit,Nagal,IND,1997,8,16,0,68,175,Right-Handed,Two-Handed Backhand,Sumit Nagal
+o133,Noam,Okun,ISR,1978,4,16,1996,85,185,0,0,Noam Okun
+o145,Michihisa,Onoda,JPN,1978,1,31,0,0,0,0,0,Michihisa Onoda
+o151,Johan,Ortegren,SWE,1978,3,22,0,0,0,0,0,Johan Ortegren
+o168,Vladimir,Obradovic,SRB,1981,2,4,0,91,196,Right-Handed,One-Handed Backhand,Vladimir Obradovic
+o174,Justin,O'Neal,USA,1977,10,24,1999,0,0,0,0,Justin O'Neal
+o195,Thomas,Oger,MON,1980,3,22,0,0,0,0,0,Thomas Oger
+o207,Lamine,Ouahab,MAR,1984,12,22,2002,83,185,0,0,Lamine Ouahab
+o234,Wayne,Odesnik,USA,1985,11,21,2004,77,180,Left-Handed,Two-Handed Backhand,Wayne Odesnik
+o230,Guilherme,Ochiai,BRA,1981,5,7,0,0,0,0,0,Guilherme Ochiai
+o252,Scott,Oudsema,USA,1986,7,1,0,67,191,0,0,Scott Oudsema
+o253,Dawid,Olejniczak,POL,1983,3,1,0,0,0,0,0,Dawid Olejniczak
+o264,Josselin,Ouanna,FRA,1986,4,14,2004,91,193,0,0,Josselin Ouanna
+o259,Kacper,Owsian,POL,1986,9,2,0,0,0,0,0,Kacper Owsian
+o269,Greg,Ouellette,USA,1986,5,19,2008,72,178,0,0,Greg Ouellette
+o305,Philipp,Oswald,AUT,1986,1,23,2005,96,201,Right-Handed,One-Handed Backhand,Philipp Oswald
+o317,Francisco,Olivares,CHI,1988,1,4,0,0,0,0,0,Francisco Olivares
+o327,Guillermo,Olaso,ESP,1988,3,25,2006,74,175,Right-Handed,Two-Handed Backhand,Guillermo Olaso
+o336,Boris,Obama,FRA,1988,2,14,0,0,0,0,0,Boris Obama
+o340,Roberto,Ortega-Olmedo,ESP,1991,4,30,0,0,0,0,0,Roberto Ortega-Olmedo
+o370,David,O'Hare,IRL,1990,6,1,0,86,193,Right-Handed,One-Handed Backhand,David O'Hare
+o376,Renzo,Olivo,ARG,1992,3,15,2009,73,180,Right-Handed,Two-Handed Backhand,Renzo Olivo
+o388,Junior A.,Ore,USA,1992,9,8,0,0,0,0,0,Junior A. Ore
+o403,Nicolas Daniel,Olguin,GER,1991,12,6,0,0,0,0,0,Nicolas Daniel Olguin
+o410,Julien,Obry,FRA,1991,9,4,0,73,173,0,0,Julien Obry
+o409,David,O'leary,GBR,1991,1,26,0,0,0,0,0,David O'leary
+o411,Albano,Olivetti,FRA,1991,11,24,2010,104,203,Right-Handed,One-Handed Backhand,Albano Olivetti
+o420,Dean,O'Brien,RSA,1990,5,15,0,75,178,Right-Handed,Two-Handed Backhand,Dean O'Brien
+o427,Bowen,Ouyang,CHN,1992,5,19,0,76,185,Left-Handed,Two-Handed Backhand,Bowen Ouyang
+o432,Keelan,Oakley,GBR,1992,1,21,0,87,180,0,0,Keelan Oakley
+o455,Patrick,Ofner,AUT,1993,5,6,0,0,0,Right-Handed,Two-Handed Backhand,Patrick Ofner
+o474,Jonny,O'Mara,GBR,1995,3,2,0,80,183,Right-Handed,Two-Handed Backhand,Jonny O'Mara
+o459,Robin,Olin,SWE,1992,1,26,0,0,0,Right-Handed,Two-Handed Backhand,Robin Olin
+o481,Myles,Orton,GBR,1994,3,23,0,0,0,Right-Handed,Two-Handed Backhand,Myles Orton
+o482,Goncalo,Oliveira,POR,1995,2,17,2012,80,188,Left-Handed,Two-Handed Backhand,Goncalo Oliveira
+o483,Christopher,O'Connell,AUS,1994,6,3,0,78,183,Right-Handed,One-Handed Backhand,Christopher O'Connell
+o484,Adrian,Obert,GER,1995,3,19,0,0,0,Right-Handed,Two-Handed Backhand,Adrian Obert
+o513,Sebastian,Ofner,AUT,1996,5,12,2014,81,191,Right-Handed,Two-Handed Backhand,Sebastian Ofner
+o521,Alvaro,Ochoa,COL,1989,6,9,0,0,0,0,0,Alvaro Ochoa
+o522,Reilly,Opelka,USA,1997,8,28,2015,100,211,Right-Handed,Two-Handed Backhand,Reilly Opelka
+o558,Becker,O'Shaughnessey,USA,1994,1,31,0,0,0,0,0,Becker O'Shaughnessey
+o675,Alexander,Ovcharov,RUS,1998,6,17,0,78,188,Right-Handed,Two-Handed Backhand,Alexander Ovcharov
+p104,Valentino,Pest,GER,1976,9,12,1995,70,175,0,0,Valentino Pest
+p338,Mark,Philippoussis,AUS,1976,11,7,1994,103,196,Right-Handed,One-Handed Backhand,Mark Philippoussis
+p353,Axel,Pretzsch,GER,1976,6,16,1996,79,185,0,0,Axel Pretzsch
+p372,Mariano,Puerta,ARG,1978,9,19,1998,78,180,Left-Handed,One-Handed Backhand,Mariano Puerta
+p371,Vladimir,Pavicevic,SRB,1977,2,26,0,0,0,0,0,Vladimir Pavicevic
+p386,Jonathan,Printzlau,DEN,1976,10,7,0,0,0,0,0,Jonathan Printzlau
+p387,Dejan,Petrovic,SRB,1978,4,3,0,0,0,0,0,Dejan Petrovic
+p395,Alexander,Popp,GER,1976,11,4,1997,85,201,0,0,Alexander Popp
+p389,Jean-Baptiste,Perlant,FRA,1977,2,22,1996,81,191,0,0,Jean-Baptiste Perlant
+p398,Arvind,Parmar,GBR,1978,3,22,1997,78,193,0,0,Arvind Parmar
+p418,Jean-Michel,Pequery,FRA,1978,5,30,0,0,0,0,0,Jean-Michel Pequery
+p436,Bjorn,Phau,GER,1979,10,4,1999,70,175,Right-Handed,One-Handed Backhand,Bjorn Phau
+p443,Jonathan,Pastel,USA,1976,8,15,0,0,0,0,0,Jonathan Pastel
+p440,Andres,Pedroso,USA,1979,2,21,0,81,0,0,0,Andres Pedroso
+p452,Tripp,Phillips,USA,1977,8,26,2001,77,185,0,0,Tripp Phillips
+p467,Alexander,Peya,AUT,1980,6,27,1998,76,183,Right-Handed,One-Handed Backhand,Alexander Peya
+p469,Christophe,Pognon,BEN,1977,10,11,0,0,0,0,0,Christophe Pognon
+p470,Travis,Parrott,USA,1980,8,16,2003,79,185,0,0,Travis Parrott
+p471,Francesco,Piccari,ITA,1979,9,7,0,0,0,0,0,Francesco Piccari
+p485,Todd,Perry,AUS,1976,3,17,1998,72,175,0,0,Todd Perry
+p488,Olivier,Patience,FRA,1980,3,25,1998,75,180,0,0,Olivier Patience
+p491,Kristian,Pless,DEN,1981,2,9,1999,84,188,0,0,Kristian Pless
+p500,Sergei,Petrouchevsky,RUS,1980,3,23,0,0,0,0,0,Sergei Petrouchevsky
+p487,Eric,Prodon,FRA,1981,6,27,2000,76,180,Right-Handed,One-Handed Backhand,Eric Prodon
+p505,Andrew,Park,USA,1980,1,2,0,0,0,0,0,Andrew Park
+p518,Felipe,Parada,CHI,1981,5,16,2000,72,175,0,0,Felipe Parada
+p519,Julio,Peralta,CHI,1981,9,9,0,79,188,Right-Handed,One-Handed Backhand,Julio Peralta
+p524,Didac,Perez,ESP,1981,9,7,0,76,178,0,0,Didac Perez
+p529,Giancarlo,Petrazzuolo,ITA,1980,8,7,0,0,0,0,0,Giancarlo Petrazzuolo
+p535,Krystian,Pfeiffer,POL,1978,12,3,0,0,0,0,0,Krystian Pfeiffer
+p537,Pablo,Pires de Almeida,USA,1982,9,7,0,0,0,0,0,Pablo Pires de Almeida
+p552,Christoph,Palmanshofer,AUT,1981,2,18,0,0,0,0,0,Christoph Palmanshofer
+p567,Filip,Prpic,SWE,1982,5,26,2002,74,173,Right-Handed,Two-Handed Backhand,Filip Prpic
+p592,Vishal,Punna,USA,1984,1,14,0,0,0,0,0,Vishal Punna
+p595,Ravishankar,Pathanjali,IND,1982,3,7,0,0,0,0,0,Ravishankar Pathanjali
+p597,Tomislav,Peric,CRO,1983,4,10,0,0,0,0,0,Tomislav Peric
+p605,Jaroslav,Pospisil,CZE,1981,2,9,0,72,178,Right-Handed,Two-Handed Backhand,Jaroslav Pospisil
+p616,Dennis,Peschek,GER,1984,1,6,0,0,0,0,0,Dennis Peschek
+p624,Philipp,Petzschner,GER,1984,3,24,2001,77,185,Right-Handed,One-Handed Backhand,Philipp Petzschner
+p620,Torsten,Popp,GER,1983,11,25,0,0,0,0,0,Torsten Popp
+p634,Damian,Patriarca,ARG,1983,6,28,0,0,0,0,0,Damian Patriarca
+p642,Boris,Pashanski,SRB,1982,11,3,2001,74,180,0,0,Boris Pashanski
+p646,Carlos,Poch-Gradin,ESP,1982,11,9,0,75,185,0,0,Carlos Poch-Gradin
+p648,Petar,Popovic,SRB,1982,7,27,0,0,0,Ambidextrous,Two-Handed Backhand,Petar Popovic
+p693,Deniss,Pavlovs,LAT,1983,4,15,0,0,0,0,0,Deniss Pavlovs
+p701,Michal,Przysiezny,POL,1984,2,16,2001,84,185,0,0,Michal Przysiezny
+p708,Luis Antonio,Perez-Perez,ESP,1981,12,3,0,0,0,0,0,Luis Antonio Perez-Perez
+p713,Miquel,Perez Puigdomenech,ESP,1984,12,12,0,0,0,0,0,Miquel Perez Puigdomenech
+p728,Morgan,Phillips,GBR,1984,6,23,0,0,0,0,0,Morgan Phillips
+p735,Lars,Poerschke,GER,1984,6,17,0,0,0,Right-Handed,Two-Handed Backhand,Lars Poerschke
+pa07,Sergio,Perez-Perez,ESP,1984,7,23,0,0,0,0,0,Sergio Perez-Perez
+pa15,Juho,Paukku,FIN,1986,7,19,0,0,0,0,0,Juho Paukku
+pa46,Filip,Polasek,SVK,1985,7,21,2005,85,196,0,0,Filip Polasek
+pa74,Oskar,Pallin,SWE,1984,10,8,0,0,0,0,0,Oskar Pallin
+pa97,N Vijay Sundar,Prashanth,IND,1986,10,27,0,75,178,Right-Handed,Two-Handed Backhand,N Vijay Sundar Prashanth
+pb05,Eduardo,Peralta-Tello,MEX,1989,4,15,0,0,0,0,0,Eduardo Peralta-Tello
+pb13,Grzegorz,Panfil,POL,1988,1,1,2004,76,183,0,0,Grzegorz Panfil
+pb12,Paul-Mihai,Puscasu,ROU,1988,6,9,0,77,0,0,0,Paul-Mihai Puscasu
+pb21,Arvid,Puranen,SWE,1984,5,27,0,0,0,0,0,Arvid Puranen
+pb22,Peter,Polansky,CAN,1988,6,15,2006,79,183,Right-Handed,Two-Handed Backhand,Peter Polansky
+pb24,Alexandre,Penaud,FRA,1987,5,20,0,90,0,0,0,Alexandre Penaud
+pb23,Milan,Pokrajac,CAN,1987,10,31,0,0,0,0,0,Milan Pokrajac
+pb27,Todd,Paul,USA,1985,12,26,2007,84,180,0,0,Todd Paul
+pb29,Martin,Pedersen,DEN,1987,6,15,0,0,0,0,0,Martin Pedersen
+pb37,Hans,Podlipnik-Castillo,CHI,1988,1,9,2005,78,183,Right-Handed,One-Handed Backhand,Hans Podlipnik-Castillo
+pb31,Robbye,Poole,USA,1984,10,2,0,0,0,0,0,Robbye Poole
+pb55,Pier Marco,Pieracciani,BRA,1987,6,11,0,0,0,0,0,Pier Marco Pieracciani
+pb59,Ryan,Preston,USA,1985,8,23,0,0,0,0,0,Ryan Preston
+pb69,Dominik,Pfeiffer,GER,1980,10,9,0,75,0,0,0,Dominik Pfeiffer
+pb66,Egor,Puntus,BLR,1987,3,1,0,0,0,0,0,Egor Puntus
+pb75,James,Prescott,GBR,1988,12,2,0,0,0,0,0,James Prescott
+pb97,Andrei,Plotniy,RUS,1988,4,7,0,0,0,0,0,Andrei Plotniy
+pc09,Jose,Pereira,BRA,1991,1,26,0,74,180,Right-Handed,Two-Handed Backhand,Jose Pereira
+pc11,Guido,Pella,ARG,1990,5,17,2007,83,185,Left-Handed,Two-Handed Backhand,Guido Pella
+pc29,Dane,Propoggia,AUS,1990,4,24,0,0,0,0,0,Dane Propoggia
+pc21,Rodrigo,Perez,CHI,1989,3,7,0,0,0,0,0,Rodrigo Perez
+pc33,Neil,Pauffley,GBR,1990,3,29,0,80,188,Right-Handed,Two-Handed Backhand,Neil Pauffley
+pc34,Stephane,Piro,FRA,1989,8,12,0,0,0,0,0,Stephane Piro
+pc37,Goncalo,Pereira,POR,1984,9,6,0,0,0,0,0,Goncalo Pereira
+pc36,Vignesh,Peranamallur,IND,1987,11,6,0,75,173,Right-Handed,Two-Handed Backhand,Vignesh Peranamallur
+pc39,Vasco,Pascoal,POR,1988,11,21,0,0,0,0,0,Vasco Pascoal
+pc43,Costin,Paval,ROU,1990,9,1,0,89,191,Left-Handed,Two-Handed Backhand,Costin Paval
+pc54,Valentin,Palas,ROU,1987,11,11,0,0,0,0,0,Valentin Palas
+pc61,Brad,Pomeroy,USA,1984,8,29,0,0,0,0,0,Brad Pomeroy
+pc63,Alessandro,Petrone,ITA,1990,12,23,0,0,0,0,0,Alessandro Petrone
+pc68,Tim,Puetz,GER,1987,11,19,0,78,185,0,0,Tim Puetz
+pc65,Jakub,Piter,POL,1988,8,5,0,0,0,0,0,Jakub Piter
+pc70,Marcelo,Palacios-Siegenthale,ESP,1989,3,10,0,0,0,0,0,Marcelo Palacios-Siegenthale
+pc76,Bjorn,Propst,AUT,1987,6,5,0,0,0,0,0,Bjorn Propst
+pc78,Ante,Pavic,CRO,1989,3,7,0,96,196,Right-Handed,Two-Handed Backhand,Ante Pavic
+pc95,Gael,Particelli,FRA,1987,11,26,0,0,0,0,0,Gael Particelli
+pc96,John,Peers,AUS,1988,7,25,2011,84,188,Right-Handed,Two-Handed Backhand,John Peers
+pd04,Giorgio,Portaluri,ITA,1990,9,12,0,78,180,Right-Handed,Two-Handed Backhand,Giorgio Portaluri
+pd07,Vasek,Pospisil,CAN,1990,6,23,2007,84,193,Right-Handed,Two-Handed Backhand,Vasek Pospisil
+pd10,Alexander,Perfilov,RUS,1985,5,17,0,80,193,Right-Handed,Two-Handed Backhand,Alexander Perfilov
+pd24,Borut,Puc,CRO,1991,1,19,0,77,193,0,0,Borut Puc
+pd26,Grittaboon,Prahmanee,THA,1991,9,6,0,0,0,0,0,Grittaboon Prahmanee
+pd35,Dominic,Pagon,JAM,1988,3,8,0,0,0,0,0,Dominic Pagon
+pd31,Benoit,Paire,FRA,1989,5,8,2007,80,196,Right-Handed,Two-Handed Backhand,Benoit Paire
+pd44,Nicolas,Pastor,ARG,1991,3,12,0,0,0,0,0,Nicolas Pastor
+pd83,Martin,Prikryl,CZE,1992,6,10,0,0,0,0,0,Martin Prikryl
+pd87,Artem,Pudovkin,RUS,1989,12,17,0,0,0,0,0,Artem Pudovkin
+pe00,Nathan,Pasha,USA,1992,7,15,0,85,191,Right-Handed,Two-Handed Backhand,Nathan Pasha
+pe02,Danilo,Petrovic,SRB,1992,1,24,0,86,203,Right-Handed,Two-Handed Backhand,Danilo Petrovic
+pe29,Matthew,Pierot,NED,1990,1,4,0,0,0,0,0,Matthew Pierot
+pe39,Scott,Puodziunas,AUS,1989,11,9,0,95,198,Right-Handed,Two-Handed Backhand,Scott Puodziunas
+pe42,Luis,Patino,MEX,1993,10,6,0,76,0,Right-Handed,Two-Handed Backhand,Luis Patino
+pe64,Amogh,Prabhakar,IND,1991,7,26,0,0,0,0,0,Amogh Prabhakar
+pe69,David,Pel,NED,1991,7,9,0,93,0,Left-Handed,Two-Handed Backhand,David Pel
+pe84,Ciprian Alexandru,Porumb,ROU,1993,1,24,0,0,0,Right-Handed,Two-Handed Backhand,Ciprian Alexandru Porumb
+pe94,Marc,Powers,USA,1990,7,10,0,68,178,Right-Handed,Two-Handed Backhand,Marc Powers
+pf00,Mate,Pavic,CRO,1993,7,4,0,83,193,Left-Handed,Two-Handed Backhand,Mate Pavic
+pf03,Vladimir,Polyakov,RUS,1994,6,18,0,73,178,Right-Handed,Two-Handed Backhand,Vladimir Polyakov
+pf13,Mauricio,Perez Mota,ARG,1993,9,21,0,68,0,Right-Handed,Two-Handed Backhand,Mauricio Perez Mota
+pf36,David,Perez Sanz,ESP,1994,5,15,0,0,0,0,0,David Perez Sanz
+pf14,Stanislav,Poplavskyy,UKR,1991,4,2,0,0,0,0,0,Stanislav Poplavskyy
+pf39,Lucas,Pouille,FRA,1994,2,23,2012,81,185,Right-Handed,Two-Handed Backhand,Lucas Pouille
+pf65,Filip,Peliwo,CAN,1994,1,30,2013,72,178,Right-Handed,Two-Handed Backhand,Filip Peliwo
+pf52,Sebastian,Padure,ROU,1992,9,24,0,0,0,0,0,Sebastian Padure
+pf64,Hasier,Pastor,ESP,1993,5,29,0,0,0,Right-Handed,Two-Handed Backhand,Hasier Pastor
+pf69,Herkko,Pollanen,FIN,1994,7,21,0,0,0,0,0,Herkko Pollanen
+pf84,Mitchell J.,Polnet,USA,1994,6,6,0,0,0,Right-Handed,Two-Handed Backhand,Mitchell J. Polnet
+pf81,Marius,Pimishofer,AUT,1988,10,18,0,0,0,0,0,Marius Pimishofer
+pg13,Jaume,Pla Malfeito,ESP,1995,6,3,0,73,0,Right-Handed,Two-Handed Backhand,Jaume Pla Malfeito
+pf78,Antun,Pehar,CRO,1992,3,12,0,0,0,0,0,Antun Pehar
+pg32,Adam,Pavlasek,CZE,1994,10,8,2012,76,185,Right-Handed,Two-Handed Backhand,Adam Pavlasek
+pg20,Dmitry,Popko,KAZ,1996,10,24,0,85,191,Right-Handed,Two-Handed Backhand,Dmitry Popko
+pg58,Jan,Poskocil,AUT,1989,5,27,0,78,175,Right-Handed,Two-Handed Backhand,Jan Poskocil
+pg69,Juan Pablo,Paz,ARG,1995,1,4,0,0,170,Right-Handed,Two-Handed Backhand,Juan Pablo Paz
+pg74,Aviruth,Phaphui,THA,1993,1,31,0,0,0,0,0,Aviruth Phaphui
+pg77,Hugo,Perrin,FRA,1995,1,22,0,0,0,0,0,Hugo Perrin
+pg94,Marc,Polmans,AUS,1997,5,2,2015,77,188,Right-Handed,Two-Handed Backhand,Marc Polmans
+pg91,Loic,Perret,SUI,1994,6,8,0,0,0,0,0,Loic Perret
+ph19,Suraj R,Prabodh,IND,1995,1,8,0,79,188,Right-Handed,One-Handed Backhand,Suraj R Prabodh
+ph42,Matija,Pecotic,CRO,1989,7,3,0,83,188,Left-Handed,Two-Handed Backhand,Matija Pecotic
+ph36,Frederik,Press,GER,1995,4,4,0,0,0,0,0,Frederik Press
+ph48,Rodolfo,Pereira,POR,1995,1,30,0,0,0,Right-Handed,Two-Handed Backhand,Rodolfo Pereira
+ph52,Bayo,Philips,USA,1994,12,12,0,0,0,0,0,Bayo Philips
+ph65,Louis,Pretorius,RSA,1993,8,29,0,0,0,Right-Handed,Two-Handed Backhand,Louis Pretorius
+pj10,Andrei,Patrui,ROU,1996,7,1,0,0,0,0,0,Andrei Patrui
+pj17,Boris,Pokotilov,RUS,1997,5,27,0,78,180,Right-Handed,Two-Handed Backhand,Boris Pokotilov
+pj31,Victor Hugo Portugal,Pereira,BRA,1996,3,21,0,0,0,Right-Handed,Two-Handed Backhand,Victor Hugo Portugal Pereira
+pj32,Manuel,Pena Lopez,ARG,1998,2,10,0,675,180,Right-Handed,Two-Handed Backhand,Manuel Pena Lopez
+pj75,Marco,Prochazka,AUT,1996,8,21,0,0,0,0,0,Marco Prochazka
+pl36,Rhett,Purcell,NZL,1996,2,6,0,85,193,Right-Handed,Two-Handed Backhand,Rhett Purcell
+pl42,Zachary,Pelts,USA,1993,6,9,0,0,0,0,0,Zachary Pelts
+pl38,Sebastian,Prechtel,GER,1996,5,14,0,0,0,0,0,Sebastian Prechtel
+pl56,Tommy,Paul,USA,1997,5,17,2015,78,185,Right-Handed,Two-Handed Backhand,Tommy Paul
+pm54,Ricardo,Pabon Cuesta,COL,1992,12,31,0,0,0,Left-Handed,Two-Handed Backhand,Ricardo Pabon Cuesta
+q927,Sam,Querrey,USA,1987,10,7,2006,95,198,Right-Handed,Two-Handed Backhand,Sam Querrey
+q017,Michael,Quintero,COL,1980,7,11,0,0,0,0,0,Michael Quintero
+q938,Adriano,Quinti,GER,1988,5,10,0,0,0,0,0,Adriano Quinti
+q941,Roberto,Quiroz,ECU,1992,2,23,2014,88,193,Left-Handed,Two-Handed Backhand,Roberto Quiroz
+q019,Aisam-Ul-Haq,Qureshi,PAK,1980,3,17,1998,78,183,Right-Handed,One-Handed Backhand,Aisam-Ul-Haq Qureshi
+q945,Eric,Quigley,USA,1989,1,30,2012,84,185,Right-Handed,Two-Handed Backhand,Eric Quigley
+q948,Gianluigi,Quinzi,ITA,1996,2,1,0,84,191,Left-Handed,Two-Handed Backhand,Gianluigi Quinzi
+q949,Zhuoyang,Qiu,CHN,1996,6,23,0,75,185,Right-Handed,Two-Handed Backhand,Zhuoyang Qiu
+r060,Francisco,Rodriguez,PAR,1976,3,9,0,0,0,0,0,Francisco Rodriguez
+r294,Eduardo,Rincon,COL,1976,3,22,0,0,0,0,0,Eduardo Rincon
+r317,John,Roddick,USA,1976,7,4,0,0,0,0,0,John Roddick
+r336,Christophe,Rochus,BEL,1978,12,15,1996,68,170,Right-Handed,One-Handed Backhand,Christophe Rochus
+r348,Andrian,Raturandang,INA,1976,7,29,0,0,0,0,0,Andrian Raturandang
+r338,Jocelyn,Robichaud,CAN,1978,4,8,0,0,0,0,0,Jocelyn Robichaud
+r361,Yohny,Romero,VEN,1978,11,30,0,0,0,0,0,Yohny Romero
+r357,Larbi,Rharnit,MAR,1976,4,18,0,0,0,0,0,Larbi Rharnit
+r364,Bjorn,Rehnquist,SWE,1978,1,5,1997,69,175,0,0,Bjorn Rehnquist
+r365,Nikos,Rovas,GRE,1977,9,20,0,0,0,0,0,Nikos Rovas
+r367,Rodolfo,Rake,PER,1979,7,13,0,0,0,0,0,Rodolfo Rake
+r368,Michael,Russell,USA,1978,5,1,1998,70,173,Right-Handed,Two-Handed Backhand,Michael Russell
+r373,Victor,Romero,MEX,1979,1,26,0,0,0,0,0,Victor Romero
+r383,Ruben,Ramirez Hidalgo,ESP,1978,1,6,1998,74,183,Right-Handed,Two-Handed Backhand,Ruben Ramirez Hidalgo
+r388,Sergio,Roitman,ARG,1979,5,16,1996,79,185,0,0,Sergio Roitman
+r399,Andy,Ram,ISR,1980,4,10,1998,83,180,0,0,Andy Ram
+r397,Olivier,Rochus,BEL,1981,1,18,1999,65,168,Right-Handed,One-Handed Backhand,Olivier Rochus
+r408,Thierry,Roggi,FRA,1980,1,5,0,0,0,0,0,Thierry Roggi
+r419,Tommy,Robredo,ESP,1982,5,1,1998,75,180,Right-Handed,One-Handed Backhand,Tommy Robredo
+r421,Mario,Radic,CRO,1982,1,14,2000,72,188,0,0,Mario Radic
+r457,Pedro,Rico,ESP,1980,12,9,0,0,0,0,0,Pedro Rico
+r483,Bobby,Reynolds,USA,1982,7,17,2003,77,183,Right-Handed,Two-Handed Backhand,Bobby Reynolds
+r485,Andy,Roddick,USA,1982,8,30,2000,88,188,Right-Handed,Two-Handed Backhand,Andy Roddick
+r511,Predrag,Rusevski,MKD,1983,8,27,0,0,0,0,0,Predrag Rusevski
+r512,Fabian,Roetschi,SUI,1980,5,25,0,0,0,0,0,Fabian Roetschi
+r513,Jean-Julien,Rojer,NED,1981,8,25,2003,82,185,Right-Handed,Two-Handed Backhand,Jean-Julien Rojer
+r518,Sanchai,Ratiwatana,THA,1982,1,23,2004,70,175,0,0,Sanchai Ratiwatana
+r519,Sonchat,Ratiwatana,THA,1982,1,23,2004,71,175,0,0,Sonchat Ratiwatana
+r532,Michael,Rubin,USA,1981,9,2,0,0,0,0,0,Michael Rubin
+r542,Rylan,Rizza,USA,1984,4,24,0,0,0,0,0,Rylan Rizza
+r583,Todd,Reid,AUS,1984,6,3,2002,70,180,0,0,Todd Reid
+r548,Rajeev,Ram,USA,1984,3,18,2004,82,193,Right-Handed,One-Handed Backhand,Rajeev Ram
+r581,Antonio,Ruiz-Rosales,MEX,1984,9,18,0,100,193,Right-Handed,Two-Handed Backhand,Antonio Ruiz-Rosales
+r588,Nicolas,Renavand,FRA,1982,6,25,0,0,0,0,0,Nicolas Renavand
+r601,Max,Raditschnigg,AUT,1983,5,6,0,0,0,0,0,Max Raditschnigg
+r607,Bruno,Rosa,BRA,1986,2,14,0,0,0,0,0,Bruno Rosa
+r613,Edouard,Roger-Vasselin,FRA,1983,11,28,2002,75,188,Right-Handed,Two-Handed Backhand,Edouard Roger-Vasselin
+r612,Stephane,Robert,FRA,1980,5,17,2001,77,185,Right-Handed,Two-Handed Backhand,Stephane Robert
+r615,Simon,Rea,NZL,1982,7,18,0,0,0,0,0,Simon Rea
+r616,Travis,Rettenmaier,USA,1983,8,6,2002,84,188,0,0,Travis Rettenmaier
+r628,Laurent,Recouderc,AND,1984,7,10,0,0,0,0,0,Laurent Recouderc
+r632,Michael,Ryderstedt,SWE,1984,11,12,2002,78,188,0,0,Michael Ryderstedt
+r630,Diogo,Rocha,POR,1984,6,14,0,0,0,0,0,Diogo Rocha
+r640,Hector,Ruiz-Cadenas,ESP,1983,4,27,0,0,0,0,0,Hector Ruiz-Cadenas
+r644,Alexandre,Renard,FRA,1982,5,29,0,0,0,0,0,Alexandre Renard
+r646,Tom,Rushby,GBR,1986,6,4,0,0,0,0,0,Tom Rushby
+r704,Karan,Rastogi,HKG,1986,10,8,2003,66,178,Right-Handed,Two-Handed Backhand,Karan Rastogi
+r685,Lukas,Rosol,CZE,1985,7,24,2004,84,196,Right-Handed,Two-Handed Backhand,Lukas Rosol
+r709,Bruno,Rodriguez,MEX,1986,10,28,0,0,0,0,0,Bruno Rodriguez
+r736,Miguel Angel,Reyes-Varela,MEX,1987,6,21,0,73,175,Right-Handed,One-Handed Backhand,Miguel Angel Reyes-Varela
+r748,Felipe,Rojas,COL,1994,11,26,0,67,0,Right-Handed,Two-Handed Backhand,Felipe Rojas
+r750,Pere,Riba,ESP,1988,4,7,2004,78,183,Right-Handed,Two-Handed Backhand,Pere Riba
+r757,Amador,Romero-Torres,ESP,1986,1,22,0,0,0,0,0,Amador Romero-Torres
+r758,Sebastian,Rieschick,GER,1986,2,15,0,0,0,0,0,Sebastian Rieschick
+r762,Rupesh,Roy,IND,1989,2,16,0,0,0,0,0,Rupesh Roy
+r771,Mohcine,Roudami,MAR,1986,5,4,0,0,0,0,0,Mohcine Roudami
+r775,Artur,Romanowski,POL,1987,1,29,0,0,0,0,0,Artur Romanowski
+r772,Albert,Ramos-Vinolas,ESP,1988,1,17,2007,80,188,Left-Handed,Two-Handed Backhand,Albert Ramos-Vinolas
+r782,Julian,Reister,GER,1986,4,2,2005,87,188,Right-Handed,One-Handed Backhand,Julian Reister
+r776,Martin,Rmus,SLO,1987,3,14,0,0,0,0,0,Martin Rmus
+r790,Valery,Rudnev,RUS,1988,2,16,0,0,0,0,0,Valery Rudnev
+r805,Sebastian,Rivera,CHI,1986,9,18,0,77,178,Left-Handed,One-Handed Backhand,Sebastian Rivera
+r814,Guillermo,Rivera-Aranguiz,CHI,1989,2,2,0,0,0,Right-Handed,Two-Handed Backhand,Guillermo Rivera-Aranguiz
+r822,Laurent,Rochette,FRA,1988,2,5,2006,79,183,0,0,Laurent Rochette
+r823,Purav,Raja,IND,1985,12,7,2005,90,183,Right-Handed,Two-Handed Backhand,Purav Raja
+r843,Vitor,Requiao,BRA,1988,6,25,0,0,0,0,0,Vitor Requiao
+r835,Cesar,Ramirez,MEX,1990,1,25,0,0,0,0,0,Cesar Ramirez
+r844,Eladio,Ribeiro Neto,BRA,1986,1,9,0,86,191,0,0,Eladio Ribeiro Neto
+r847,Younes,Rachidi,MAR,1986,9,13,0,0,0,0,0,Younes Rachidi
+r851,Mathieu,Rodrigues,FRA,1985,11,7,2007,76,180,Right-Handed,Two-Handed Backhand,Mathieu Rodrigues
+r853,Nima,Roshan,AUS,1985,5,24,0,0,0,0,0,Nima Roshan
+r852,Clement,Reix,FRA,1983,10,9,0,0,0,0,0,Clement Reix
+r862,Christopher,Rungkat,INA,1990,1,14,2007,68,175,Right-Handed,Two-Handed Backhand,Christopher Rungkat
+r882,Georgi,Rumenov Payakov,ESP,1989,12,15,0,0,0,0,0,Georgi Rumenov Payakov
+r883,Robin,Roshardt,SUI,1988,2,22,0,0,0,0,0,Robin Roshardt
+r895,Florian,Reynet,FRA,1986,4,14,0,0,0,0,0,Florian Reynet
+r923,David,Rice,GBR,1989,1,1,0,90,193,Right-Handed,Two-Handed Backhand,David Rice
+r927,Vitali,Reshetnikov,RUS,1988,11,4,0,0,0,0,0,Vitali Reshetnikov
+r931,Patrik,Rosenholm,SWE,1988,3,5,0,85,178,Right-Handed,One-Handed Backhand,Patrik Rosenholm
+r960,Fernando,Romboli,BRA,1989,1,4,2006,81,180,Right-Handed,One-Handed Backhand,Fernando Romboli
+r934,Nicolas,Reissig,AUT,1989,4,7,2009,84,185,Right-Handed,One-Handed Backhand,Nicolas Reissig
+r975,Milos,Raonic,CAN,1990,12,27,2008,98,196,Right-Handed,Two-Handed Backhand,Milos Raonic
+r977,Matt,Reid,AUS,1990,7,17,0,0,0,0,0,Matt Reid
+r982,Filip,Rams,POL,1989,6,13,0,0,0,0,0,Filip Rams
+r984,Igor,Rud,RUS,1988,5,16,0,0,0,0,0,Igor Rud
+ra15,Elie,Rousset,FRA,1989,9,5,0,88,198,0,0,Elie Rousset
+r996,Marc,Rath,AUT,1990,12,5,0,0,0,0,0,Marc Rath
+ra17,Guillaume,Rufin,FRA,1990,5,26,2008,82,188,Right-Handed,Two-Handed Backhand,Guillaume Rufin
+ra21,Jonathan,Ribaste,USA,1988,12,5,0,0,0,0,0,Jonathan Ribaste
+ra24,Ruan,Roelofse,RSA,1989,11,18,0,98,188,Right-Handed,Two-Handed Backhand,Ruan Roelofse
+ra38,Marcel,Ruzic,CRO,1992,1,20,0,0,0,0,0,Marcel Ruzic
+ra46,Mohammed,Reda,KUW,1994,4,22,0,0,0,0,0,Mohammed Reda
+ra51,Blaz,Rola,SLO,1990,10,5,2013,85,193,Left-Handed,Two-Handed Backhand,Blaz Rola
+ra62,Sami,Reinwein,GER,1992,5,29,0,75,180,Left-Handed,Two-Handed Backhand,Sami Reinwein
+ra78,Vikram,Reddy B,IND,1990,1,26,0,0,0,0,0,Vikram Reddy B
+ra82,Yannik,Reuter,BEL,1991,3,6,0,0,0,Right-Handed,Two-Handed Backhand,Yannik Reuter
+rb04,Quentin,Robert,FRA,1994,8,24,0,0,0,0,0,Quentin Robert
+rb11,Pedro Pablo,Ruiz,COL,1994,2,8,0,0,0,0,0,Pedro Pablo Ruiz
+rb17,Alexander,Rumyantsev,RUS,1992,8,16,0,0,0,0,0,Alexander Rumyantsev
+rb23,Mark,Richards,AUS,1993,12,3,0,0,0,0,0,Mark Richards
+rb29,Marko,Rajic,SRB,1992,5,9,0,0,0,Right-Handed,Two-Handed Backhand,Marko Rajic
+rb32,Quentin,Robert,FRA,1991,9,30,0,0,0,Right-Handed,Two-Handed Backhand,Quentin Robert
+rb31,Martin,Rondina,ARG,1991,5,28,0,0,0,0,0,Martin Rondina
+rb47,Vorachit,Runglertmaneepong,THA,1990,2,13,0,0,0,0,0,Vorachit Runglertmaneepong
+rb49,Lucas,Renard,SWE,1992,9,30,0,80,185,Right-Handed,Two-Handed Backhand,Lucas Renard
+rb50,Claudio,Rivera,SWE,1992,6,28,0,0,0,Right-Handed,Two-Handed Backhand,Claudio Rivera
+rb56,Ramkumar,Ramanathan,IND,1994,11,8,0,77,188,Right-Handed,Two-Handed Backhand,Ramkumar Ramanathan
+rb58,Felipe,Rios,CHI,1992,3,4,0,0,0,Right-Handed,Two-Handed Backhand,Felipe Rios
+rb60,Oriol,Roca Batalla,ESP,1993,4,30,0,0,0,0,0,Oriol Roca Batalla
+rb77,Nathan,Rakitt,USA,1993,4,21,0,0,0,0,0,Nathan Rakitt
+rb70,Francisco,Ramos,POR,1993,3,25,0,0,0,0,0,Francisco Ramos
+rb86,Sidharth,Rawat,IND,1993,4,21,0,70,175,Right-Handed,Two-Handed Backhand,Sidharth Rawat
+rc04,Alexander,Ritschard,SUI,1994,3,24,0,0,0,Right-Handed,Two-Handed Backhand,Alexander Ritschard
+rc33,Mateo Andres,Ruiz Naranjo,COL,1996,7,15,0,77,3,Right-Handed,Two-Handed Backhand,Mateo Andres Ruiz Naranjo
+rc46,Juan,Rocha,ARG,1991,7,5,0,0,0,0,0,Juan Rocha
+rc77,Demian,Raab,GER,1993,7,20,0,79,188,Right-Handed,Two-Handed Backhand,Demian Raab
+rc92,Carlos,Ramirez Utermann,MEX,1995,8,22,0,81,191,Right-Handed,One-Handed Backhand,Carlos Ramirez Utermann
+rc83,Simeon,Rossier,SUI,1995,1,15,0,62,173,Left-Handed,One-Handed Backhand,Simeon Rossier
+rc86,John Harrison,Richmond,USA,1994,2,18,0,0,0,0,0,John Harrison Richmond
+rc96,Noah,Rubin,USA,1996,2,21,2015,68,175,Right-Handed,Two-Handed Backhand,Noah Rubin
+rd02,Diogo,Rocha,POR,1994,7,13,0,0,0,0,0,Diogo Rocha
+rd06,Joao,Riquelme,CHI,1995,7,13,0,0,0,Right-Handed,Two-Handed Backhand,Joao Riquelme
+rd32,Timur,Razmaitov,RUS,1997,4,10,0,0,0,0,0,Timur Razmaitov
+rd34,Lukas,Ruepke,GER,1993,7,6,0,85,180,Right-Handed,Two-Handed Backhand,Lukas Ruepke
+rd41,Kovit,Ratanaphet,THA,1983,11,6,0,0,0,0,0,Kovit Ratanaphet
+rd46,Nicholas,Reyes,USA,1995,1,17,0,83,188,Right-Handed,One-Handed Backhand,Nicholas Reyes
+re44,Andrey,Rublev,RUS,1997,10,20,2014,68,188,Right-Handed,Two-Handed Backhand,Andrey Rublev
+rg95,Raswant,Ravi,IND,1997,7,13,0,0,0,0,0,Raswant Ravi
+rh16,Casper,Ruud,NOR,1998,12,22,2015,77,183,Right-Handed,Two-Handed Backhand,Casper Ruud
+s483,Pedro,Sousa,POR,1988,5,27,2007,70,178,Right-Handed,Two-Handed Backhand,Pedro Sousa
+s535,Razvan,Sabau,ROU,1977,6,18,1993,76,185,0,0,Razvan Sabau
+s537,Suwandi,Suwandi,INA,1976,8,21,0,66,178,0,0,Suwandi Suwandi
+s550,Takao,Suzuki,JPN,1976,9,20,1995,73,175,0,0,Takao Suzuki
+s552,David,Skoch,CZE,1976,11,6,1994,70,183,0,0,David Skoch
+s572,Sjeng,Schalken,NED,1976,9,8,1994,82,193,Right-Handed,One-Handed Backhand,Sjeng Schalken
+s604,Andre,Sa,BRA,1977,5,6,1996,79,185,Right-Handed,Two-Handed Backhand,Andre Sa
+s608,Attila,Savolt,HUN,1976,2,5,1995,78,183,0,0,Attila Savolt
+s626,James,Sekulov,AUS,1976,10,13,1995,73,180,0,0,James Sekulov
+s631,Tom,Spinks,GBR,1976,11,7,0,0,0,0,0,Tom Spinks
+s636,Rainer,Schuettler,GER,1976,4,25,1995,75,180,Right-Handed,Two-Handed Backhand,Rainer Schuettler
+s649,Wolfgang,Schranz,AUT,1976,3,19,1994,73,178,0,0,Wolfgang Schranz
+s637,Jurek,Stasiak,AUS,1978,4,23,0,0,0,0,0,Jurek Stasiak
+s655,Wouter,Standaart,NED,1976,8,13,0,0,0,0,0,Wouter Standaart
+s672,Teo,Susnjak,NZL,1977,7,23,0,0,0,0,0,Teo Susnjak
+s675,Paradorn,Srichaphan,THA,1979,6,14,1997,82,185,Right-Handed,One-Handed Backhand,Paradorn Srichaphan
+s676,Oscar,Serrano,ESP,1978,5,25,1996,78,173,Right-Handed,One-Handed Backhand,Oscar Serrano
+s677,David,Sanchez,ESP,1978,4,20,1997,76,183,0,0,David Sanchez
+s688,Andrei,Stoliarov,RUS,1977,1,9,1995,72,178,0,0,Andrei Stoliarov
+s693,Raemon,Sluiter,NED,1978,4,13,1996,80,185,Right-Handed,Two-Handed Backhand,Raemon Sluiter
+s699,Ricardo,Schlachter,BRA,1977,7,7,1998,0,0,0,0,Ricardo Schlachter
+s694,Radek,Stepanek,CZE,1978,11,27,1996,76,185,Right-Handed,Two-Handed Backhand,Radek Stepanek
+s709,Johan,Settergren,SWE,1978,4,22,1997,77,185,0,0,Johan Settergren
+s713,Franz,Stauder,GER,1977,5,28,0,0,0,0,0,Franz Stauder
+s721,Alexandre,Simoni,BRA,1979,7,2,1997,78,188,0,0,Alexandre Simoni
+s741,Marat,Safin,RUS,1980,1,27,1997,88,193,Right-Handed,Two-Handed Backhand,Marat Safin
+s751,Marcus,Sarstrand,SWE,1978,7,24,1997,73,183,0,0,Marcus Sarstrand
+s760,Norikazu,Sugiyama,JPN,1977,7,29,0,72,178,0,0,Norikazu Sugiyama
+s772,Ladislav,Svarc,SVK,1978,11,13,1997,80,188,0,0,Ladislav Svarc
+s765,Luke,Smith,AUS,1976,10,25,1997,84,188,0,0,Luke Smith
+s799,Pavel,Snobel,CZE,1980,2,28,1997,82,191,0,0,Pavel Snobel
+s802,Valentin,Sanon,CIV,1980,5,20,0,0,0,0,0,Valentin Sanon
+s809,Yuri,Schukin,KAZ,1979,6,26,1999,88,185,0,0,Yuri Schukin
+s813,Jean-Claude,Scherrer,SUI,1978,7,20,1998,82,188,0,0,Jean-Claude Scherrer
+s818,David,Sherwood,GBR,1980,5,6,0,0,193,0,0,David Sherwood
+s827,Damien,Spizzo,AUS,1980,12,16,0,0,0,0,0,Damien Spizzo
+s823,Harel,Srugo,ISR,1982,3,15,0,0,0,0,0,Harel Srugo
+s842,Andrea,Stoppini,ITA,1980,2,29,1998,79,191,0,0,Andrea Stoppini
+s843,Potito,Starace,ITA,1981,7,14,2001,84,188,Right-Handed,Two-Handed Backhand,Potito Starace
+s847,Rob,Steckley,CAN,1980,2,16,0,0,0,0,0,Rob Steckley
+s877,Julio,Silva,BRA,1979,7,1,1999,69,173,0,0,Julio Silva
+s876,Flavio,Saretta,BRA,1980,6,28,1998,70,183,0,0,Flavio Saretta
+s893,Martin,Slanar,AUT,1981,5,1,0,0,0,0,0,Martin Slanar
+s902,Marc,Steger,FRA,1981,7,4,0,0,0,0,0,Marc Steger
+s913,Vinod,Sridhar,IND,1979,2,5,0,0,0,0,0,Vinod Sridhar
+s932,Saar,Steele,ISR,1984,9,28,0,0,0,0,0,Saar Steele
+s938,Bruno,Soares,BRA,1982,2,27,2001,72,180,Right-Handed,Two-Handed Backhand,Bruno Soares
+s944,Simon,Stadler,GER,1983,7,20,2002,75,183,0,0,Simon Stadler
+s948,Kevin,Sorensen,IRL,1981,5,10,2004,79,183,0,0,Kevin Sorensen
+s949,Trevor,Spracklin,USA,1977,12,17,2002,0,191,0,0,Trevor Spracklin
+s963,Florent,Serra,FRA,1981,2,28,2000,78,180,Right-Handed,Two-Handed Backhand,Florent Serra
+s989,Patrick,Schnidrig,SUI,1980,8,11,0,0,0,0,0,Patrick Schnidrig
+s990,Tobias,Summerer,GER,1983,2,1,2002,79,185,0,0,Tobias Summerer
+sa59,Eric,Scherer,GER,1985,6,20,0,0,0,0,0,Eric Scherer
+sa68,Aleksander,Slovic,SRB,1982,2,7,0,0,0,0,0,Aleksander Slovic
+sa49,Robin,Soderling,SWE,1984,8,14,2001,87,193,Right-Handed,Two-Handed Backhand,Robin Soderling
+sa77,Jose Pedro,Silva,POR,1983,6,19,0,0,0,0,0,Jose Pedro Silva
+sa86,Yew-Ming,Si,MAS,1979,8,24,0,0,0,0,0,Yew-Ming Si
+sa81,Dmitri,Sitak,RUS,1983,3,4,2000,79,183,0,0,Dmitri Sitak
+sa84,Phil,Stolt,USA,1981,3,12,0,0,0,0,0,Phil Stolt
+sa93,Andreas,Seppi,ITA,1984,2,21,2002,75,191,Right-Handed,Two-Handed Backhand,Andreas Seppi
+sb15,Pablo,Santos,ESP,1984,6,15,2002,83,183,0,0,Pablo Santos
+sb22,Patrick,Schmolzer,AUT,1984,1,11,0,0,0,0,0,Patrick Schmolzer
+sb23,Vjekoslav,Skenderovic,CRO,1983,3,20,0,0,0,0,0,Vjekoslav Skenderovic
+sb28,Carlos,Salamanca,COL,1983,1,15,2001,83,196,Left-Handed,Two-Handed Backhand,Carlos Salamanca
+sb34,Alexander,Satschko,GER,1980,11,12,2002,80,180,Right-Handed,One-Handed Backhand,Alexander Satschko
+sb37,Helio,Sileman,BRA,1980,5,28,0,0,0,0,0,Helio Sileman
+sb42,Bojan,Szumanski,POL,1984,6,5,0,0,0,0,0,Bojan Szumanski
+sb63,Gary,Sacks,RSA,1986,12,11,0,0,0,0,0,Gary Sacks
+sc03,Jasper,Smit,NED,1980,11,17,0,0,0,0,0,Jasper Smit
+sb92,Adil,Shamasdin,CAN,1982,5,23,2005,70,180,Right-Handed,Two-Handed Backhand,Adil Shamasdin
+sc40,Ken,Skupski,GBR,1983,4,9,0,85,185,Left-Handed,Two-Handed Backhand,Ken Skupski
+sc19,Jose Antonio,Sanchez-de Luna,ESP,1984,10,18,0,0,0,0,0,Jose Antonio Sanchez-de Luna
+sc47,Go,Soeda,JPN,1984,9,5,2003,73,178,Right-Handed,Two-Handed Backhand,Go Soeda
+sc56,Dudi,Sela,ISR,1985,4,4,2002,65,175,Right-Handed,One-Handed Backhand,Dudi Sela
+sc54,Andreas,Siljestrom,SWE,1981,7,21,0,96,206,Right-Handed,Two-Handed Backhand,Andreas Siljestrom
+sc63,Sunil-Kumar,Sipaeya,IND,1983,4,4,0,0,0,0,0,Sunil-Kumar Sipaeya
+sc68,Ashutosh,Singh,IND,1982,9,25,0,0,0,0,0,Ashutosh Singh
+sc73,Rogerio,Dutra Silva,BRA,1984,2,5,2003,73,178,Right-Handed,One-Handed Backhand,Rogerio Dutra Silva
+sc74,Sornsakol,Supakit,THA,1983,2,25,0,0,0,0,0,Sornsakol Supakit
+sc77,Sergiy,Stakhovsky,UKR,1986,1,6,2003,80,193,Right-Handed,One-Handed Backhand,Sergiy Stakhovsky
+sc95,Bartolome,Salva-Vidal,ESP,1986,11,20,0,79,183,0,0,Bartolome Salva-Vidal
+sc92,Peng,Sun,CHN,1983,10,19,0,0,0,0,0,Peng Sun
+sd01,Phillip,Simmonds,USA,1986,5,18,0,0,0,0,0,Phillip Simmonds
+sd20,Juan-Francisco,Spina,ARG,1985,5,8,0,0,0,0,0,Juan-Francisco Spina
+sd16,Henrik,Soderberg,SWE,1981,2,16,0,0,0,0,0,Henrik Soderberg
+sd23,Artem,Sitak,NZL,1986,2,8,2001,83,185,Right-Handed,Two-Handed Backhand,Artem Sitak
+sd32,Gilles,Simon,FRA,1984,12,27,2002,70,183,Right-Handed,Two-Handed Backhand,Gilles Simon
+sd46,Divij,Sharan,IND,1986,3,2,0,78,183,0,0,Divij Sharan
+sd69,Louk,Sorensen,IRL,1985,1,7,2003,78,175,Right-Handed,Two-Handed Backhand,Louk Sorensen
+sd56,Robert,Smeets,AUS,1985,11,10,0,70,188,0,0,Robert Smeets
+sd78,Alexandre,Sidorenko,FRA,1988,2,18,2006,80,185,0,0,Alexandre Sidorenko
+sd83,Matt,Simpson,NZL,1984,8,10,0,0,0,0,0,Matt Simpson
+sd97,Peter,Steinberger,GER,1985,1,22,0,0,0,0,0,Peter Steinberger
+se07,Mohamed,Saber,MAR,1987,9,4,0,0,0,0,0,Mohamed Saber
+se15,David,Savic,SRB,1985,8,23,0,0,0,0,0,David Savic
+se31,Armin,Sandbichler,AUT,1985,1,22,2005,76,180,0,0,Armin Sandbichler
+se20,Thomas,Schoeck,GER,1981,10,29,0,0,0,0,0,Thomas Schoeck
+se69,Ivan,Sergeyev,UKR,1988,1,20,0,78,175,Right-Handed,Two-Handed Backhand,Ivan Sergeyev
+se66,Eduardo,Schwank,ARG,1986,4,23,2005,83,183,Right-Handed,Two-Handed Backhand,Eduardo Schwank
+se73,Yuichi,Sugita,JPN,1988,9,18,2006,70,175,Right-Handed,Two-Handed Backhand,Yuichi Sugita
+se78,Adrian,Sikora,SVK,1988,7,5,0,0,0,0,0,Adrian Sikora
+se83,Alexander,Slabinsky,GBR,1986,3,6,0,0,185,0,0,Alexander Slabinsky
+sf11,Michael,Shabaz,USA,1987,8,20,0,83,0,Right-Handed,Two-Handed Backhand,Michael Shabaz
+sf18,Rudolf,Siwy,CZE,1986,2,4,0,76,175,0,0,Rudolf Siwy
+sf21,Kirati,Siributwong,THA,1987,5,17,0,0,0,0,0,Kirati Siributwong
+sf29,Ajai,Selvaraj,IND,1986,5,18,0,0,0,0,0,Ajai Selvaraj
+sf36,Igor,Sijsling,NED,1987,8,18,2006,85,191,Right-Handed,One-Handed Backhand,Igor Sijsling
+sf48,Olivier,Sajous,USA,1987,2,4,0,72,0,Right-Handed,Two-Handed Backhand,Olivier Sajous
+sf41,Aldin,Setkic,BIH,1987,12,21,0,86,191,0,0,Aldin Setkic
+sf55,Victor,Schmid,GER,1988,5,4,0,0,0,0,0,Victor Schmid
+sf62,Tim,Smyczek,USA,1987,12,30,2006,73,175,Right-Handed,Two-Handed Backhand,Tim Smyczek
+sf84,Otto,Sauer,SWE,1989,3,6,0,0,0,0,0,Otto Sauer
+sf76,Franko,Skugor,CRO,1987,9,20,0,96,198,Right-Handed,Two-Handed Backhand,Franko Skugor
+sf89,Rubin,Statham,NZL,1987,4,25,0,80,178,Right-Handed,Two-Handed Backhand,Rubin Statham
+sf93,Oscar,Sabate-Bretos,ESP,1986,8,31,0,0,0,0,0,Oscar Sabate-Bretos
+sg00,Victor,Stanica,ROU,1987,5,8,0,0,0,0,0,Victor Stanica
+sg01,Sherif,Sabry,EGY,1986,8,29,0,0,0,0,0,Sherif Sabry
+sg13,Stefan,Seifert,GER,1985,2,28,0,0,0,0,0,Stefan Seifert
+sg16,Matias,Saenz,ARG,1987,3,23,0,0,0,0,0,Matias Saenz
+sg28,Vivek,Shokeen,IND,1987,7,31,0,0,0,0,0,Vivek Shokeen
+sg29,Nicolas,Santos,BRA,1988,1,5,0,80,183,Right-Handed,Two-Handed Backhand,Nicolas Santos
+sg33,Sanam,Singh,IND,1988,1,11,0,67,175,Right-Handed,Two-Handed Backhand,Sanam Singh
+sg37,Pawel,Syrewicz,POL,1987,4,1,0,0,0,0,0,Pawel Syrewicz
+sg50,Edward,Seator,GBR,1986,4,7,0,0,0,0,0,Edward Seator
+sg54,Juan-Carlos,Spir,COL,1990,5,1,0,0,0,0,0,Juan-Carlos Spir
+sg56,Daniel,Dutra da Silva,BRA,1988,7,5,2007,76,0,Left-Handed,Two-Handed Backhand,Daniel Dutra da Silva
+sg64,Joao,Souza,BRA,1988,5,27,2006,92,193,Right-Handed,Two-Handed Backhand,Joao Souza
+sg66,Peerakiat,Siriluethaiwattana,THA,1989,8,16,0,0,0,0,0,Peerakiat Siriluethaiwattana
+sg78,Mikal,Statham,NZL,1987,4,25,0,0,0,0,0,Mikal Statham
+sg79,Navdeep,Singh,IND,1986,2,21,0,0,0,0,0,Navdeep Singh
+sg87,Ryan,Sweeting,USA,1987,7,14,2007,83,196,Right-Handed,Two-Handed Backhand,Ryan Sweeting
+sg86,Vedran,Siljegovic,CRO,1988,8,16,0,0,0,0,0,Vedran Siljegovic
+sg88,Alexander,Sadecky,SUI,1987,7,6,0,80,193,Left-Handed,One-Handed Backhand,Alexander Sadecky
+sg95,Bumpei,Sato,JPN,1985,12,16,0,59,0,0,0,Bumpei Sato
+sh08,Marek,Semjan,SVK,1987,11,7,0,0,0,0,0,Marek Semjan
+sh06,Peerakit,Siributwong,THA,1990,8,24,0,0,0,0,0,Peerakit Siributwong
+sh13,Michal,Sekula,POL,1988,1,23,0,0,0,0,0,Michal Sekula
+sh15,Sasa,Stojisavljevic,SRB,1987,2,26,0,0,0,0,0,Sasa Stojisavljevic
+sh37,Marc,Sieber,GER,1988,2,28,2006,68,178,Left-Handed,Two-Handed Backhand,Marc Sieber
+sh51,Sven,Swinnen,SUI,1981,1,22,2005,85,191,0,0,Sven Swinnen
+sh25,Philipp,Schneider,GER,1988,12,15,0,0,0,0,0,Philipp Schneider
+sh77,Artem,Smirnov,UKR,1988,2,2,0,85,188,Left-Handed,Two-Handed Backhand,Artem Smirnov
+sh91,Jordi,Samper-Montana,ESP,1990,4,5,0,0,0,0,0,Jordi Samper-Montana
+sh90,Joao,Sousa,POR,1989,3,30,2008,74,185,Right-Handed,Two-Handed Backhand,Joao Sousa
+si06,Antonio,Sancic,CRO,1988,11,23,0,80,180,Right-Handed,Two-Handed Backhand,Antonio Sancic
+si14,Tibor,Simic,CRO,1988,6,19,0,0,0,0,0,Tibor Simic
+si16,Nathaniel,Schnugg,USA,1988,10,5,0,0,0,0,0,Nathaniel Schnugg
+si36,Eduardo,Struvay,COL,1990,12,17,0,0,0,0,0,Eduardo Struvay
+si56,Janez,Semrajc,SLO,1989,7,24,0,0,0,0,0,Janez Semrajc
+si57,Daniel,Smethurst,GBR,1990,10,13,2011,83,188,0,0,Daniel Smethurst
+si32,Joao,Silverio,POR,1989,6,4,0,0,0,0,0,Joao Silverio
+si63,Wojciech,Starakiewicz,POL,1988,10,11,0,0,0,0,0,Wojciech Starakiewicz
+si67,Dylan,Sessagesimi,SUI,1989,7,27,0,0,0,0,0,Dylan Sessagesimi
+si74,Henrik,Sillanpaa,FIN,1991,1,24,0,78,185,Right-Handed,Two-Handed Backhand,Henrik Sillanpaa
+si78,Blake,Strode,USA,1987,7,9,2009,84,188,0,0,Blake Strode
+si82,Manuel,Sanchez,MEX,1991,1,5,0,76,183,Right-Handed,One-Handed Backhand,Manuel Sanchez
+si72,Wil,Spencer,USA,1989,9,8,0,69,183,0,0,Wil Spencer
+si83,Timofey,Skripkin,RUS,1989,6,24,0,0,0,0,0,Timofey Skripkin
+sj01,Luca,Schena,SUI,1983,1,7,0,0,0,0,0,Luca Schena
+si97,Xander,Spong,NED,1990,2,21,0,0,0,0,0,Xander Spong
+sj04,Mateusz,Szmigiel,POL,1989,6,13,0,0,0,0,0,Mateusz Szmigiel
+sj15,Milos,Sekulic,SWE,1989,11,4,2008,73,178,Right-Handed,Two-Handed Backhand,Milos Sekulic
+sj22,Gleb,Sakharov,FRA,1988,6,10,2005,78,185,Right-Handed,Two-Handed Backhand,Gleb Sakharov
+sj26,Scott,Sears,GBR,1990,8,30,0,0,0,0,0,Scott Sears
+sj25,Cristobal,Saavedra-Corvalan,CHI,1990,8,1,0,0,0,0,0,Cristobal Saavedra-Corvalan
+sj52,Michal,Schmid,CZE,1988,11,28,0,0,0,0,0,Michal Schmid
+sj63,Thomas,Schoorel,NED,1989,4,8,0,0,203,0,0,Thomas Schoorel
+sj55,John-Patrick,Smith,AUS,1989,1,24,2012,84,188,Left-Handed,Two-Handed Backhand,John-Patrick Smith
+sj71,Andrei,Savulescu,ROU,1991,11,1,0,0,0,0,0,Andrei Savulescu
+sj97,Harry,Skinner,GBR,1988,11,5,0,0,0,0,0,Harry Skinner
+sk06,David,Souto,VEN,1992,3,26,0,0,0,0,0,David Souto
+sk02,Karunuday,Singh,IND,1990,11,19,0,80,180,Right-Handed,Two-Handed Backhand,Karunuday Singh
+sk26,Sudanwa,Sitaram,IND,1991,8,23,0,0,0,Right-Handed,Two-Handed Backhand,Sudanwa Sitaram
+sk30,Carlos Eduardo,Severino,BRA,1990,12,5,0,76,183,Right-Handed,Two-Handed Backhand,Carlos Eduardo Severino
+sk41,Nicolaas,Scholtz,RSA,1991,2,5,0,0,0,Right-Handed,Two-Handed Backhand,Nicolaas Scholtz
+sk13,Sergey,Strelkov,RUS,1991,1,4,0,0,0,0,0,Sergey Strelkov
+sk47,Mohamed,Safwat,EGY,1990,9,19,0,83,183,Right-Handed,Two-Handed Backhand,Mohamed Safwat
+sk48,Caio,Silva,BRA,1991,10,15,0,81,180,Right-Handed,Two-Handed Backhand,Caio Silva
+sk51,Tobias,Simon,GER,1991,5,18,0,96,198,0,0,Tobias Simon
+sk66,Bruno,Semenzato,BRA,1992,7,11,0,0,0,0,0,Bruno Semenzato
+sk67,Jan,Satral,CZE,1990,7,24,2010,82,188,Right-Handed,Two-Handed Backhand,Jan Satral
+sk69,Joao Pedro,Sorgi,BRA,1993,10,18,0,82,188,Right-Handed,Two-Handed Backhand,Joao Pedro Sorgi
+sk86,Matthew,Short,GBR,1990,1,8,0,84,183,Right-Handed,Two-Handed Backhand,Matthew Short
+sk85,Ziad,Sultan,KUW,1993,6,7,0,0,0,0,0,Ziad Sultan
+sk94,Cedrik-Marcel,Stebe,GER,1990,10,9,2010,70,183,Left-Handed,Two-Handed Backhand,Cedrik-Marcel Stebe
+sl07,Alexander,Sarkissian,USA,1990,4,3,2014,79,191,Right-Handed,Two-Handed Backhand,Alexander Sarkissian
+sl09,Raymond,Sarmiento,USA,1992,7,24,0,68,178,Right-Handed,Two-Handed Backhand,Raymond Sarmiento
+sk97,Yaraslav,Shyla,BLR,1993,3,5,2011,85,193,Right-Handed,Two-Handed Backhand,Yaraslav Shyla
+sl08,Tennys,Sandgren,USA,1991,7,22,2011,87,188,Right-Handed,Two-Handed Backhand,Tennys Sandgren
+sl28,Jan-Lennard,Struff,GER,1990,4,25,2009,87,196,Right-Handed,Two-Handed Backhand,Jan-Lennard Struff
+sl22,Neal,Skupski,GBR,1989,12,1,0,82,183,Right-Handed,Two-Handed Backhand,Neal Skupski
+sl50,Ivan,Sabanov,CRO,1992,6,25,0,74,180,Right-Handed,One-Handed Backhand,Ivan Sabanov
+sl51,Matej,Sabanov,CRO,1992,6,25,0,74,180,Right-Handed,Two-Handed Backhand,Matej Sabanov
+sl55,Chandril,Sood,IND,1991,2,20,0,68,168,Right-Handed,Two-Handed Backhand,Chandril Sood
+sl56,Ilia,Starkov,RUS,1990,3,6,0,0,0,0,0,Ilia Starkov
+sl85,Juan Carlos,Saez,CHI,1991,8,5,0,0,0,0,0,Juan Carlos Saez
+sl89,Matias,Sborowitz,CHI,1993,7,9,0,0,0,0,0,Matias Sborowitz
+sl92,Shuichi,Sekiguchi,JPN,1991,7,15,0,66,168,Right-Handed,Two-Handed Backhand,Shuichi Sekiguchi
+sl94,Pedro,Sakamoto,BRA,1993,6,29,0,77,180,Right-Handed,Two-Handed Backhand,Pedro Sakamoto
+sm03,Sebastian,Sachs,GER,1992,2,18,0,0,0,0,0,Sebastian Sachs
+sm00,Naveen,Saai,IND,1991,7,22,0,0,0,Right-Handed,Two-Handed Backhand,Naveen Saai
+sm05,Ilia,Shatskiy,RUS,1991,7,21,0,0,0,0,0,Ilia Shatskiy
+sm14,Dominik,Schulz,GER,1992,3,16,0,0,0,Left-Handed,Two-Handed Backhand,Dominik Schulz
+sm09,Luke,Saville,AUS,1994,1,2,0,83,188,Right-Handed,Two-Handed Backhand,Luke Saville
+sm16,Filip,Serdarusic,CRO,1992,9,27,0,0,0,0,0,Filip Serdarusic
+sm18,Kelsey,Stevenson,CAN,1990,5,29,0,76,183,Right-Handed,One-Handed Backhand,Kelsey Stevenson
+sm23,Lakshit,Sood,IND,1991,2,20,0,62,165,Right-Handed,One-Handed Backhand,Lakshit Sood
+sm25,Jack,Sock,USA,1992,9,24,2011,84,191,Right-Handed,Two-Handed Backhand,Jack Sock
+sm37,Diego,Schwartzman,ARG,1992,8,16,2010,64,170,Right-Handed,Two-Handed Backhand,Diego Schwartzman
+sm42,J.T.,Sundling,USA,1991,1,16,0,0,0,0,0,J.T. Sundling
+sm38,Connor,Smith,USA,1990,12,19,0,0,0,Right-Handed,Two-Handed Backhand,Connor Smith
+sm67,Christian W.,Schultz,USA,1990,11,17,0,0,0,0,0,Christian W. Schultz
+sm22,Stefan,Sterland-Markovic,GBR,1992,5,18,0,0,0,0,0,Stefan Sterland-Markovic
+sm71,Vinayak Sharma,Kaza,IND,1991,3,28,0,65,180,Right-Handed,Two-Handed Backhand,Vinayak Sharma Kaza
+sm74,Austin,Smith,USA,1993,11,25,0,0,0,0,0,Austin Smith
+sm81,Arnau,Sanz Sanz,ESP,1992,6,29,0,0,0,0,0,Arnau Sanz Sanz
+sm88,Karue,Sell,BRA,1993,11,13,0,81,183,Right-Handed,Two-Handed Backhand,Karue Sell
+sn04,Dmitry,Surchenko,RUS,1990,5,2,0,82,188,Left-Handed,Two-Handed Backhand,Dmitry Surchenko
+sn07,Vlad-Cristian,Smighelschi,ROU,1989,10,12,0,0,0,0,0,Vlad-Cristian Smighelschi
+sn16,Alexandre,Schnitman,BRA,1992,3,27,0,0,0,0,0,Alexandre Schnitman
+sn44,Bruno,Santanna,BRA,1993,7,12,0,80,175,Right-Handed,Two-Handed Backhand,Bruno Santanna
+sn32,Steffen,Solomon,RSA,1986,8,18,0,0,0,Right-Handed,Two-Handed Backhand,Steffen Solomon
+sn54,Frederico,Ferreira Silva,POR,1995,3,18,0,0,0,Left-Handed,Two-Handed Backhand,Frederico Ferreira Silva
+sn55,Diogo,Soares,POR,1991,4,7,0,0,0,Left-Handed,Two-Handed Backhand,Diogo Soares
+sn72,Mac,Styslinger,USA,1993,9,6,0,88,193,0,0,Mac Styslinger
+sn77,Vaclav,Safranek,CZE,1994,5,20,2012,80,183,Right-Handed,Two-Handed Backhand,Vaclav Safranek
+sn90,Syed Mohd Agil,Syed Naguib,MAS,1994,2,10,0,0,0,0,0,Syed Mohd Agil Syed Naguib
+sn92,Tassilo,Schmid,GER,1992,2,26,0,0,0,0,0,Tassilo Schmid
+so02,Warit,Sornbutnark,THA,1993,2,27,0,63,180,0,0,Warit Sornbutnark
+so20,Jelle,Sels,NED,1995,8,10,0,83,188,Right-Handed,Two-Handed Backhand,Jelle Sels
+so25,Tom,Schonenberg,GER,1991,6,15,0,75,185,0,0,Tom Schonenberg
+so47,Justin S.,Shane,USA,1992,3,6,0,84,198,Right-Handed,Two-Handed Backhand,Justin S. Shane
+so56,Jose Antonio,Salazar Martin,ESP,1994,5,6,0,0,0,0,0,Jose Antonio Salazar Martin
+so57,Adam,Sanjurjo Hermida,ESP,1995,4,24,0,0,0,0,0,Adam Sanjurjo Hermida
+so36,Henrique,Sousa,POR,1994,12,9,0,0,0,0,0,Henrique Sousa
+so59,Filippo,Sassi,ITA,1982,4,26,0,0,0,0,0,Filippo Sassi
+so70,Joe,Salisbury,GBR,1992,4,20,0,84,193,Right-Handed,One-Handed Backhand,Joe Salisbury
+so86,Robin,Stanek,CZE,1995,1,3,0,75,188,Left-Handed,Two-Handed Backhand,Robin Stanek
+sp05,Evan,Song,USA,1992,6,7,0,75,178,Left-Handed,Two-Handed Backhand,Evan Song
+sp07,Andras,Szekely,ROU,1995,2,22,0,0,0,0,0,Andras Szekely
+sp26,Henry,Steer,USA,1992,11,16,0,0,0,0,0,Henry Steer
+sp24,Brayden,Schnur,CAN,1995,7,4,2016,84,193,Right-Handed,Two-Handed Backhand,Brayden Schnur
+sp25,Fred,Simonsson,SWE,1994,11,27,0,75,188,Right-Handed,Two-Handed Backhand,Fred Simonsson
+sp39,Johannes,Schretter,AUT,1994,12,23,0,0,0,Right-Handed,Two-Handed Backhand,Johannes Schretter
+sp64,Tudor,Sulea,ROU,1994,4,24,0,0,0,Right-Handed,Two-Handed Backhand,Tudor Sulea
+sq14,Blaz,Seric,CRO,1994,10,24,0,0,0,Right-Handed,Two-Handed Backhand,Blaz Seric
+sp80,Nino,Serdarusic,CRO,1996,12,13,0,79,188,Right-Handed,Two-Handed Backhand,Nino Serdarusic
+sq33,Christoffer,Solberg,SWE,1994,2,1,0,70,175,Right-Handed,Two-Handed Backhand,Christoffer Solberg
+sq48,Ryan,Shane,USA,1994,4,15,0,89,193,Right-Handed,One-Handed Backhand,Ryan Shane
+sq56,Kirill,Saplin,RUS,1995,6,21,0,0,0,Right-Handed,Two-Handed Backhand,Kirill Saplin
+sq80,Akira,Santillan,AUS,1997,5,22,2013,77,180,Right-Handed,One-Handed Backhand,Akira Santillan
+sq86,Hugo,Schott,FRA,1996,9,5,0,0,0,0,0,Hugo Schott
+sr15,Abdullah,Shannan Alharrasi,QAT,1997,8,23,0,0,0,0,0,Abdullah Shannan Alharrasi
+sr48,Soufiane,Sahli,MAR,1994,3,21,0,0,0,0,0,Soufiane Sahli
+sr55,Arthur,Surreaux,FRA,1987,2,11,2013,70,178,Right-Handed,One-Handed Backhand,Arthur Surreaux
+sr66,Matej,Svjetlicic,CRO,1995,4,6,0,0,0,0,0,Matej Svjetlicic
+sr71,Vitalii,Shcherba,UKR,1997,3,24,0,73,183,Right-Handed,Two-Handed Backhand,Vitalii Shcherba
+sr80,Pavel,Shchaya-Zubrov,RUS,1994,6,24,0,0,0,0,0,Pavel Shchaya-Zubrov
+su09,Philipp,Scholz,GER,1995,1,24,0,0,0,Right-Handed,Two-Handed Backhand,Philipp Scholz
+su23,Jan Oliver,Sadlowski,GER,1995,6,20,0,0,0,Right-Handed,Two-Handed Backhand,Jan Oliver Sadlowski
+su55,Denis,Shapovalov,CAN,1999,4,15,2016,76,183,Left-Handed,One-Handed Backhand,Denis Shapovalov
+su87,Lorenzo,Sonego,ITA,1995,5,11,0,73,0,Right-Handed,Two-Handed Backhand,Lorenzo Sonego
+sv55,Miguel,Semedo,POR,1996,4,23,0,0,0,Right-Handed,Two-Handed Backhand,Miguel Semedo
+sx81,Carl,Soderlund,SWE,1997,6,3,0,80,188,Right-Handed,Two-Handed Backhand,Carl Soderlund
+sx90,Fajing,Sun,CHN,1996,10,3,0,75,178,Right-Handed,Two-Handed Backhand,Fajing Sun
+sx96,Benjamin,Sigouin,CAN,1999,6,3,0,73,193,Right-Handed,Two-Handed Backhand,Benjamin Sigouin
+sy31,Ryan James,Storrie,GBR,1998,2,28,0,0,0,Right-Handed,Two-Handed Backhand,Ryan James Storrie
+sy58,Issa,Shanan Al Harrasi,QAT,1999,8,19,0,0,0,0,0,Issa Shanan Al Harrasi
+sy75,Patrik,Sudic,CRO,1995,2,6,0,0,0,Right-Handed,Two-Handed Backhand,Patrik Sudic
+t200,Mehdi,Tahiri,MAR,1977,7,28,1996,78,183,0,0,Mehdi Tahiri
+t231,Clemens,Trimmel,AUT,1978,6,8,1997,83,185,0,0,Clemens Trimmel
+t236,Nicklas,Timfjord,SWE,1977,3,18,0,75,180,0,0,Nicklas Timfjord
+t240,Ivaylo,Traykov,BUL,1978,12,17,1995,90,188,0,0,Ivaylo Traykov
+t243,Michal,Tabara,CZE,1979,8,11,1997,73,175,Right-Handed,Two-Handed Backhand,Michal Tabara
+t255,Artemi,Tchernenko,RUS,1978,4,4,0,0,0,0,0,Artemi Tchernenko
+t261,Stefano,Tarallo,ITA,1976,3,8,1996,75,185,0,0,Stefano Tarallo
+t264,Marko,Tkalec,SLO,1977,3,17,1997,78,178,0,0,Marko Tkalec
+t269,Nicolas,Todero,ARG,1979,4,15,1998,81,183,0,0,Nicolas Todero
+t277,Takahiro,Terachi,JPN,1979,7,8,1998,0,0,0,0,Takahiro Terachi
+t281,Marcio,Torres,BRA,1981,1,24,2003,75,185,0,0,Marcio Torres
+t296,Gabriel,Trujillo-Soler,ESP,1979,9,30,0,0,0,0,0,Gabriel Trujillo-Soler
+t310,Goran,Tosic,SRB,1982,10,7,0,0,0,0,0,Goran Tosic
+t315,Dmitry,Tursunov,RUS,1982,12,12,2000,82,185,Right-Handed,Two-Handed Backhand,Dmitry Tursunov
+t332,Tomas,Tenconi,ITA,1980,9,3,2000,70,178,0,0,Tomas Tenconi
+t333,Orest,Tereshchuk,UKR,1981,8,18,0,0,0,0,0,Orest Tereshchuk
+t323,Nicolas,Tourte,FRA,1979,8,18,0,0,0,0,0,Nicolas Tourte
+t354,Stephen,Taylor,IRL,1980,4,25,0,0,0,0,0,Stephen Taylor
+t389,Adam,Thompson,NZL,1982,7,28,0,0,0,0,0,Adam Thompson
+t724,Tiago,Sousa,POR,1978,11,14,0,0,0,0,0,Tiago Sousa
+t742,Janko,Tipsarevic,SRB,1984,6,22,2002,80,180,Right-Handed,Two-Handed Backhand,Janko Tipsarevic
+t749,Horia,Tecau,ROU,1985,1,19,2003,88,191,Right-Handed,Two-Handed Backhand,Horia Tecau
+t762,Josko,Topic,CRO,1983,12,8,0,0,0,0,0,Josko Topic
+t760,Sasa,Tuksar,CRO,1983,5,12,2002,72,180,0,0,Sasa Tuksar
+t771,Leonardo,Tavares,POR,1984,2,20,0,0,0,Right-Handed,Two-Handed Backhand,Leonardo Tavares
+t816,Clinton,Thomson,GER,1984,11,28,0,80,0,0,0,Clinton Thomson
+t786,Jo-Wilfried,Tsonga,FRA,1985,4,17,2004,91,188,Right-Handed,Two-Handed Backhand,Jo-Wilfried Tsonga
+t840,Viktor,Troicki,SRB,1986,2,10,2006,86,193,Right-Handed,Two-Handed Backhand,Viktor Troicki
+t836,Aljoscha,Thron,GER,1987,6,15,0,0,0,0,0,Aljoscha Thron
+t867,Erling,Tveit,NOR,1984,12,28,0,0,0,0,0,Erling Tveit
+t868,Walter,Trusendi,ITA,1985,1,3,0,0,0,0,0,Walter Trusendi
+t881,Gonzalo,Tur,ARG,1988,6,23,0,0,0,0,0,Gonzalo Tur
+t885,Kento,Takeuchi,JPN,1987,12,19,0,0,0,0,0,Kento Takeuchi
+t897,David,Thurner,GER,1990,1,12,0,0,0,0,0,David Thurner
+t911,Peter,Torebko,GER,1988,2,10,2008,84,185,Right-Handed,Two-Handed Backhand,Peter Torebko
+t929,Yannick,Thivant,FRA,1987,1,22,0,78,180,0,0,Yannick Thivant
+t948,Matteo,Trevisan,ITA,1989,8,13,0,80,183,Right-Handed,Two-Handed Backhand,Matteo Trevisan
+t957,Nathan,Thompson,USA,1982,12,16,0,79,0,0,0,Nathan Thompson
+t961,Thales,Turini,BRA,1989,7,18,0,0,0,0,0,Thales Turini
+t964,Patrick,Taubert,GER,1987,7,28,0,0,0,0,0,Patrick Taubert
+t963,Martin,Trueva,POR,1991,9,19,0,0,0,0,0,Martin Trueva
+t965,Sean,Thornley,GBR,1989,5,31,0,0,0,0,0,Sean Thornley
+t974,Yannick,Thomet,SUI,1988,5,25,0,0,0,0,0,Yannick Thomet
+t971,Andrew,Thomas,AUS,1990,3,1,0,0,0,0,0,Andrew Thomas
+t982,Tsung-Hua,Yang,TPE,1991,3,29,2006,80,178,0,0,Tsung-Hua Yang
+t984,Bastian,Trinker,AUT,1990,5,11,0,83,191,Right-Handed,One-Handed Backhand,Bastian Trinker
+t995,Jonathan,Tragardh,USA,1986,4,3,0,0,0,0,0,Jonathan Tragardh
+t997,Ignacio,Taboada,USA,1989,12,6,0,0,0,0,0,Ignacio Taboada
+t999,Maxime,Teixeira,FRA,1989,1,18,2010,75,188,0,0,Maxime Teixeira
+ta01,Ty,Trombetta,USA,1990,5,21,0,77,188,Right-Handed,Two-Handed Backhand,Ty Trombetta
+ta04,Finn,Tearney,NZL,1990,9,27,0,80,183,0,0,Finn Tearney
+ta12,Stefano,Travaglia,ITA,1991,12,18,2008,80,185,Right-Handed,Two-Handed Backhand,Stefano Travaglia
+ta17,Angel,Torres,CHI,1990,2,22,0,0,0,0,0,Angel Torres
+ta18,Alex,Theiler,CHI,1991,1,12,0,0,0,0,0,Alex Theiler
+ta21,Ryan,Thacher,USA,1989,10,6,0,0,0,0,0,Ryan Thacher
+ta22,Roman,Tudoreanu,MDA,1987,3,4,0,0,0,0,0,Roman Tudoreanu
+ta29,Marco,Trungelliti,ARG,1990,1,31,2008,78,180,Right-Handed,Two-Handed Backhand,Marco Trungelliti
+ta30,Tomislav,Ternar,SLO,1990,9,16,0,0,0,0,0,Tomislav Ternar
+ta46,Bernard,Tomic,AUS,1992,10,21,2008,91,196,Right-Handed,Two-Handed Backhand,Bernard Tomic
+ta47,Ivan,Turudic,CRO,1991,6,19,0,0,0,0,0,Ivan Turudic
+ta75,Abhijeet,Tiwari,IND,1990,8,1,0,0,0,0,0,Abhijeet Tiwari
+tb05,Alexandre,Tsuchiya,BRA,1992,12,5,0,74,180,Right-Handed,Two-Handed Backhand,Alexandre Tsuchiya
+tb42,Igor,Tubic,SWE,1989,4,18,0,0,0,0,0,Igor Tubic
+tb55,Edoardo,Tessaro,ITA,1992,11,24,0,0,0,0,0,Edoardo Tessaro
+tb70,Wishaya,Trongcharoenchaikul,THA,1995,4,8,0,0,0,Right-Handed,Two-Handed Backhand,Wishaya Trongcharoenchaikul
+tb69,Dominic,Thiem,AUT,1993,9,3,2011,82,185,Right-Handed,One-Handed Backhand,Dominic Thiem
+tb79,Maxime,Tchoutakian,FRA,1994,1,3,0,68,183,Right-Handed,Two-Handed Backhand,Maxime Tchoutakian
+tb84,Clay,Thompson,USA,1992,5,4,0,86,198,Right-Handed,Two-Handed Backhand,Clay Thompson
+tb90,Adam,Thornton-Brown,GBR,1991,5,15,0,0,0,0,0,Adam Thornton-Brown
+tc02,Taha,Tifnouti,MAR,1994,10,10,0,0,0,0,0,Taha Tifnouti
+tc09,Pol,Toledo Bague,ESP,1994,12,22,0,71,178,0,0,Pol Toledo Bague
+tc11,Marko,Tepavac,SRB,1994,4,5,0,90,193,Right-Handed,Two-Handed Backhand,Marko Tepavac
+tc13,Luca George,Tatomir,ROU,1995,8,21,0,81,191,Right-Handed,Two-Handed Backhand,Luca George Tatomir
+tc25,Gabriel,Townes,USA,1992,4,2,0,0,0,Right-Handed,Two-Handed Backhand,Gabriel Townes
+tc38,Pablo,Tellez,COL,1995,6,4,0,0,0,0,0,Pablo Tellez
+tc72,Teeradon,Tortrakul,THA,1996,1,29,0,0,0,0,0,Teeradon Tortrakul
+tc61,Jordan,Thompson,AUS,1994,4,20,2013,73,183,Right-Handed,Two-Handed Backhand,Jordan Thompson
+tc95,Johan,Tatlot,FRA,1996,3,26,0,80,180,Right-Handed,Two-Handed Backhand,Johan Tatlot
+td06,Vullnet,Tashi,SUI,1993,1,10,0,80,188,Right-Handed,Two-Handed Backhand,Vullnet Tashi
+td47,Evgeny,Tyurnev,RUS,1997,4,8,0,0,0,Right-Handed,Two-Handed Backhand,Evgeny Tyurnev
+td51,Frances,Tiafoe,USA,1998,1,20,2015,77,188,Right-Handed,Two-Handed Backhand,Frances Tiafoe
+te16,Carlos,Taberner,ESP,1997,8,8,2015,78,183,Right-Handed,Two-Handed Backhand,Carlos Taberner
+te23,Keivon,Tabrizi,SUI,1996,7,23,0,73,180,Right-Handed,Two-Handed Backhand,Keivon Tabrizi
+te33,Sam,Taylor,SWE,1997,7,3,0,78,185,Right-Handed,Two-Handed Backhand,Sam Taylor
+te51,Stefanos,Tsitsipas,GRE,1998,8,12,2016,83,193,Right-Handed,One-Handed Backhand,Stefanos Tsitsipas
+tf58,Yusuke,Takahashi,JPN,1997,10,17,2016,68,170,Right-Handed,Two-Handed Backhand,Yusuke Takahashi
+tg30,Rigele,Te,CHN,1997,10,9,0,80,188,Right-Handed,Two-Handed Backhand,Rigele Te
+u043,Danai,Udomchoke,THA,1981,8,11,1997,64,173,0,0,Danai Udomchoke
+u045,Lars,Uebel,GER,1980,10,14,0,0,0,0,0,Lars Uebel
+u044,Vishal,Uppal,IND,1976,11,10,0,0,0,0,0,Vishal Uppal
+u057,Filip,Urban,POL,1982,3,23,1999,86,193,0,0,Filip Urban
+u061,Adrian,Ungur,ROU,1985,1,22,2003,73,178,Right-Handed,One-Handed Backhand,Adrian Ungur
+u081,Vaja,Uzakov,UZB,1988,6,4,0,0,0,0,0,Vaja Uzakov
+u105,Ricardo,Urzua-Rivera,CHI,1989,2,10,0,65,0,Right-Handed,One-Handed Backhand,Ricardo Urzua-Rivera
+u107,Volodoymyr,Uzhylovskyi,UKR,1988,3,25,0,96,183,0,0,Volodoymyr Uzhylovskyi
+u120,Kaichi,Uchida,JPN,1994,8,23,0,0,0,0,0,Kaichi Uchida
+u133,Mike,Urbanija,SLO,1989,12,26,0,78,185,Right-Handed,One-Handed Backhand,Mike Urbanija
+u135,Gonzalo,Urruticoechea,CHI,1993,7,26,0,0,0,0,0,Gonzalo Urruticoechea
+u134,Yasutaka,Uchiyama,JPN,1992,8,5,2011,78,183,Right-Handed,Two-Handed Backhand,Yasutaka Uchiyama
+u149,Dennis,Uspensky,USA,1996,10,22,0,78,185,0,0,Dennis Uspensky
+v195,Fernando,Vicente,ESP,1977,3,8,1996,76,180,Right-Handed,One-Handed Backhand,Fernando Vicente
+v201,John,van Lottum,NED,1976,4,10,1994,72,185,0,0,John van Lottum
+v205,Dusan,Vemic,SRB,1976,6,17,1995,91,188,Right-Handed,Two-Handed Backhand,Dusan Vemic
+v206,Julien,Varlet,FRA,1977,9,8,1997,78,180,0,0,Julien Varlet
+v207,Jiri,Vanek,CZE,1978,4,24,1995,86,185,Right-Handed,Two-Handed Backhand,Jiri Vanek
+v211,Vladimir,Voltchkov,BLR,1978,4,7,1995,76,180,0,0,Vladimir Voltchkov
+v220,Jan,Vacek,CZE,1976,5,10,1999,92,198,0,0,Jan Vacek
+v226,Ivan,Vajda,CRO,1978,9,4,0,0,0,0,0,Ivan Vajda
+v232,Martin,Verkerk,NED,1978,10,31,1996,90,196,0,0,Martin Verkerk
+v239,Diego,Veronelli,ARG,1979,12,5,1996,83,193,0,0,Diego Veronelli
+v247,Robin,Vik,CZE,1980,2,5,1998,76,183,0,0,Robin Vik
+v250,Andreas,Vinciguerra,SWE,1981,2,19,1998,73,180,0,0,Andreas Vinciguerra
+v251,Santiago,Ventura,ESP,1980,1,5,2001,78,183,Right-Handed,Two-Handed Backhand,Santiago Ventura
+v254,Filippo,Volandri,ITA,1981,9,5,1997,73,183,Right-Handed,One-Handed Backhand,Filippo Volandri
+v256,Uros,Vico,ITA,1981,2,19,1998,83,188,0,0,Uros Vico
+v258,Martin,Vassallo Arguello,ARG,1980,2,10,1999,80,183,Right-Handed,One-Handed Backhand,Martin Vassallo Arguello
+v267,Melle,Van Gemerden,NED,1979,5,9,0,75,183,0,0,Melle Van Gemerden
+v296,Dmitry,Vlasov,RUS,1982,7,11,0,77,188,0,0,Dmitry Vlasov
+v298,Cristian,Villagran,SUI,1982,1,20,2001,73,180,0,0,Cristian Villagran
+v306,Fernando,Verdasco,ESP,1983,11,15,2001,87,185,Left-Handed,Two-Handed Backhand,Fernando Verdasco
+v303,Brian,Vahaly,USA,1979,7,19,2001,82,183,0,0,Brian Vahaly
+v309,Kristof,Vliegen,BEL,1982,6,22,2001,75,193,Right-Handed,Two-Handed Backhand,Kristof Vliegen
+v311,Roman,Valent,SUI,1983,7,8,0,78,183,0,0,Roman Valent
+v329,Juan-Pablo,Villar,ARG,1982,7,10,0,0,0,0,0,Juan-Pablo Villar
+v339,Simone,Vagnozzi,ITA,1983,5,30,1999,60,173,0,0,Simone Vagnozzi
+v346,Martin,Vacek,CZE,1981,6,15,0,0,0,0,0,Martin Vacek
+v377,Adam,Vejmelka,CZE,1985,9,15,0,0,0,0,0,Adam Vejmelka
+v379,Izak,Van der Merwe,RSA,1984,1,26,2005,88,196,0,0,Izak Van der Merwe
+v410,John,Valenti,USA,1976,10,14,0,0,0,Right-Handed,Two-Handed Backhand,John Valenti
+v418,Jorge,Vazquez-Catoira,ESP,1985,10,9,0,0,0,0,0,Jorge Vazquez-Catoira
+v457,Nick,Van Der Meer,NED,1985,1,18,0,0,0,0,0,Nick Van Der Meer
+v467,Vilim,Visak,CRO,1986,7,3,0,0,0,0,0,Vilim Visak
+v475,Daniel,Vallverdu,VEN,1986,3,17,0,0,0,Right-Handed,Two-Handed Backhand,Daniel Vallverdu
+v473,Martijn,Van Haasteren,AHO,1980,9,12,0,0,0,0,0,Martijn Van Haasteren
+v490,Matteo,Viola,ITA,1987,7,7,2004,80,185,Right-Handed,Two-Handed Backhand,Matteo Viola
+v494,Antal,Van Der Duim,NED,1987,9,16,0,80,185,Right-Handed,Two-Handed Backhand,Antal Van Der Duim
+v495,Luca,Vanni,ITA,1985,6,4,0,94,198,Right-Handed,Two-Handed Backhand,Luca Vanni
+v502,Ranjeet,Virali-Murugesan,IND,1985,9,30,0,0,0,0,0,Ranjeet Virali-Murugesan
+v505,Vishnu,Vardhan,IND,1987,7,27,2008,84,188,Right-Handed,Two-Handed Backhand,Vishnu Vardhan
+v510,Kaes,Van't Hof,USA,1986,8,1,0,84,185,0,0,Kaes Van't Hof
+v531,Florian,Valsot,FRA,1983,5,15,0,85,0,Right-Handed,One-Handed Backhand,Florian Valsot
+v537,Aleksander,Vasin,RUS,1986,2,28,0,68,0,0,0,Aleksander Vasin
+v542,Laurent,Vigne,FRA,1986,7,1,0,0,0,0,0,Laurent Vigne
+v552,David,Veliz-Lepe,CHI,1985,6,12,0,0,0,0,0,David Veliz-Lepe
+v556,Robert,Varga,HUN,1988,7,30,0,0,0,0,0,Robert Varga
+v564,Antonio,Veic,CRO,1988,2,18,2006,74,180,Right-Handed,Two-Handed Backhand,Antonio Veic
+v571,Andoni,Vivanco-Guzman,ESP,1990,10,15,0,0,0,0,0,Andoni Vivanco-Guzman
+v576,Michael,Venus,NZL,1987,10,16,2009,85,191,Right-Handed,Two-Handed Backhand,Michael Venus
+v613,Andrei,Vasilevski,BLR,1991,5,28,2009,80,185,Right-Handed,Two-Handed Backhand,Andrei Vasilevski
+v619,Ashwin,Vijayragavan,IND,1989,6,26,0,0,0,0,0,Ashwin Vijayragavan
+v620,Agustin,Velotti,ARG,1992,5,24,0,0,0,0,0,Agustin Velotti
+v624,Ilija,Vucic,SRB,1990,10,17,0,78,188,Right-Handed,Two-Handed Backhand,Ilija Vucic
+v627,Stanislav,Vovk,RUS,1991,2,19,2008,69,185,Right-Handed,One-Handed Backhand,Stanislav Vovk
+v628,Juan-Sebastian,Vivanco,ECU,1990,4,14,0,0,0,0,0,Juan-Sebastian Vivanco
+v656,Francesco,Vilardo,ITA,1989,12,28,0,70,178,Right-Handed,One-Handed Backhand,Francesco Vilardo
+v632,Neishit,Vakil,IND,1988,10,14,0,0,0,0,0,Neishit Vakil
+v635,Francois-Arthur,Vibert,FRA,1990,8,3,0,80,188,0,0,Francois-Arthur Vibert
+v642,Mark,Verryth,AUS,1991,5,3,0,102,201,Right-Handed,Two-Handed Backhand,Mark Verryth
+v682,Lennert,Van Der Linden,NED,1989,7,29,0,75,188,Right-Handed,Two-Handed Backhand,Lennert Van Der Linden
+v685,Thibault,Venturino,FRA,1989,4,29,0,72,175,Right-Handed,Two-Handed Backhand,Thibault Venturino
+v692,Johannes Robert,Van Overbeek,USA,1992,1,25,0,0,0,0,0,Johannes Robert Van Overbeek
+v708,Jiri,Vesely,CZE,1993,7,10,2009,92,198,Left-Handed,Two-Handed Backhand,Jiri Vesely
+v715,Federico,Valsangiacomo,SUI,1993,7,28,0,0,0,0,0,Federico Valsangiacomo
+v717,Alexey,Vatutin,RUS,1992,10,27,0,69,178,0,0,Alexey Vatutin
+v731,Michel,Vernier,CHI,1992,9,27,0,74,178,Right-Handed,Two-Handed Backhand,Michel Vernier
+v758,David,Vega Hernandez,ESP,1994,6,23,0,78,188,Right-Handed,Two-Handed Backhand,David Vega Hernandez
+v763,Filip,Veger,CRO,1994,12,21,0,0,0,0,0,Filip Veger
+v765,Jean-Pascal,Vernet,FRA,1989,2,7,0,0,0,0,0,Jean-Pascal Vernet
+v784,Gavin,Van Peperzeel,AUS,1992,3,29,0,74,180,Right-Handed,Two-Handed Backhand,Gavin Van Peperzeel
+v790,Martin,Vaisse,FRA,1987,8,11,0,0,0,0,0,Martin Vaisse
+v820,Mikhail,Vaks,RUS,1993,7,18,0,84,180,Right-Handed,Two-Handed Backhand,Mikhail Vaks
+v824,Mario,Vilella Martinez,ESP,1995,7,3,0,74,178,Right-Handed,Two-Handed Backhand,Mario Vilella Martinez
+v829,Daniel,Valent,SUI,1995,5,15,0,0,0,0,0,Daniel Valent
+v832,Aleksandar,Vukic,AUS,1996,4,6,0,84,188,Right-Handed,Two-Handed Backhand,Aleksandar Vukic
+v850,Alexander,Vasilenko,RUS,1995,2,26,0,0,0,Right-Handed,Two-Handed Backhand,Alexander Vasilenko
+v834,Diego,Vives,CHI,1995,6,21,0,0,0,0,0,Diego Vives
+v854,Eric,Vehovec,CAN,1990,11,22,0,0,0,0,0,Eric Vehovec
+v855,Fabian,Van Der Lans,NED,1995,10,29,0,0,0,0,0,Fabian Van Der Lans
+v875,Milan,Vopicka,CZE,1976,3,25,0,0,0,0,0,Milan Vopicka
+v883,Ilya,Vasilyev,RUS,1996,6,22,0,76,183,Right-Handed,Two-Handed Backhand,Ilya Vasilyev
+v931,Joy,Vigani,ITA,1996,10,12,0,0,0,0,0,Joy Vigani
+v942,Tim,Van Rijthoven,NED,1997,4,24,0,90,0,Right-Handed,One-Handed Backhand,Tim Van Rijthoven
+va15,Duarte,Vale,POR,1999,1,11,0,74,183,0,0,Duarte Vale
+va08,Andrea,Vavassori,ITA,1995,5,5,0,78,193,Right-Handed,One-Handed Backhand,Andrea Vavassori
+va16,Quinnton,Vega,USA,1992,11,22,0,81,185,Right-Handed,Two-Handed Backhand,Quinnton Vega
+va19,David,Volfson,CAN,1997,9,14,0,0,0,Right-Handed,Two-Handed Backhand,David Volfson
+w096,Robert,Wright,USA,1977,11,10,0,0,0,0,0,Robert Wright
+w208,Nir,Welgreen,ISR,1976,12,17,0,0,0,0,0,Nir Welgreen
+w217,Glenn,Weiner,USA,1976,4,27,1994,79,188,0,0,Glenn Weiner
+w224,Rogier,Wassen,NED,1976,8,9,1994,94,191,Right-Handed,Two-Handed Backhand,Rogier Wassen
+w242,Alex,Witt,USA,1976,3,21,0,0,0,0,0,Alex Witt
+w238,Talal,Ouahabi,MAR,1978,1,8,0,0,0,0,0,Talal Ouahabi
+w247,Reginald,Willems,BEL,1977,9,6,1996,78,180,0,0,Reginald Willems
+w254,Peter,Wessels,NED,1978,5,7,1996,85,196,Right-Handed,One-Handed Backhand,Peter Wessels
+w270,Wayne,Wong,HKG,1981,3,21,0,0,0,0,0,Wayne Wong
+w255,Ryan,Wolters,USA,1977,2,1,0,76,180,0,0,Ryan Wolters
+w272,Wesley,Whitehouse,NZL,1979,3,13,1998,91,191,0,0,Wesley Whitehouse
+w291,Yu Jr.,Wang,CHN,1981,8,1,0,0,0,0,0,Yu Jr. Wang
+w306,Stefan,Wauters,BEL,1982,3,12,0,0,0,0,0,Stefan Wauters
+w312,Brad,Weston,AUS,1980,10,6,0,0,0,0,0,Brad Weston
+w359,Todd,Widom,USA,1983,4,24,0,0,0,0,0,Todd Widom
+w360,Brian,Wilson,USA,1982,5,23,2004,85,191,0,0,Brian Wilson
+w361,Sam,Warburg,USA,1983,4,29,2005,85,191,0,0,Sam Warburg
+w367,Stan,Wawrinka,SUI,1985,3,28,2002,81,183,Right-Handed,One-Handed Backhand,Stan Wawrinka
+w373,Jimmy,Wang,TPE,1985,2,8,2001,73,180,Right-Handed,Two-Handed Backhand,Jimmy Wang
+w394,Ludovic,Walter,FRA,1983,1,4,0,0,0,0,0,Ludovic Walter
+w387,Jesse,Witten,USA,1982,10,15,2005,82,178,Right-Handed,Two-Handed Backhand,Jesse Witten
+w413,Chris,Wettengel,USA,1982,4,17,0,0,0,0,0,Chris Wettengel
+w421,Fritz,Wolmarans,RSA,1986,3,7,0,0,0,0,0,Fritz Wolmarans
+w442,Michal,Wlodarczyk,POL,1985,11,25,0,0,0,0,0,Michal Wlodarczyk
+w460,William,Ward,NZL,1986,3,4,0,0,0,Left-Handed,Two-Handed Backhand,William Ward
+w462,Andre,Wiesler,GER,1982,8,1,0,0,0,0,0,Andre Wiesler
+w471,Amir,Weintraub,ISR,1986,9,16,2005,81,188,Right-Handed,One-Handed Backhand,Amir Weintraub
+w480,Frank,Wintermantel,GER,1988,8,20,0,0,0,0,0,Frank Wintermantel
+w481,Kittipong,Wachiramanowong,THA,1990,6,25,0,73,183,Right-Handed,Two-Handed Backhand,Kittipong Wachiramanowong
+w483,Boy,Westerhof,NED,1985,10,24,2006,80,185,0,0,Boy Westerhof
+w488,Christian,Welte,USA,1986,8,21,0,0,0,0,0,Christian Welte
+w495,Ross,Wilson,USA,1983,12,29,0,0,0,0,0,Ross Wilson
+w503,James,Ward,GBR,1987,2,9,2006,74,191,Right-Handed,Two-Handed Backhand,James Ward
+w517,El Mehdi,Wasfy,MAR,1989,8,10,0,0,0,Left-Handed,Two-Handed Backhand,El Mehdi Wasfy
+w522,Rhyne,Williams,USA,1991,3,22,2011,84,185,Right-Handed,Two-Handed Backhand,Rhyne Williams
+w521,Marcus,Willis,GBR,1990,10,9,2007,91,191,Left-Handed,Two-Handed Backhand,Marcus Willis
+w541,Akash,Wagh,IND,1990,3,17,0,64,175,0,0,Akash Wagh
+w571,Di,Wu,CHN,1991,9,14,2009,65,175,Right-Handed,Two-Handed Backhand,Di Wu
+w555,Richard,Waite,GER,1990,7,31,0,0,0,0,0,Richard Waite
+w562,Matthias,Wolf,ITA,1989,6,2,0,0,0,0,0,Matthias Wolf
+w579,Alexander,Ward,GBR,1990,4,30,0,85,185,Right-Handed,Two-Handed Backhand,Alexander Ward
+w586,Jean-Marc,Werner,GER,1990,6,21,0,78,183,Right-Handed,Two-Handed Backhand,Jean-Marc Werner
+w609,Yusuke,Watanuki,JPN,1990,5,20,0,64,168,Right-Handed,Two-Handed Backhand,Yusuke Watanuki
+w597,Tak Khunn,Wang,FRA,1991,10,13,0,0,0,0,0,Tak Khunn Wang
+w610,Daniel,Whitehead,USA,1990,11,16,0,0,0,0,0,Daniel Whitehead
+w612,Tristan-Samuel,Weissborn,AUT,1991,10,24,2009,78,183,Left-Handed,Two-Handed Backhand,Tristan-Samuel Weissborn
+w613,Chung Hyo,Woo,KOR,1993,11,11,0,70,175,0,0,Chung Hyo Woo
+w614,Chuhan,Wang,CHN,1992,2,24,0,75,188,Right-Handed,Two-Handed Backhand,Chuhan Wang
+w617,Zachary,White,CAN,1991,2,26,0,0,0,0,0,Zachary White
+w630,Andrew,Whittington,AUS,1993,8,11,0,82,188,Right-Handed,Two-Handed Backhand,Andrew Whittington
+w654,David,Warren,USA,1988,7,25,0,0,0,0,0,David Warren
+w633,Christian,Wickenhauser,GER,1989,11,2,0,0,0,Right-Handed,Two-Handed Backhand,Christian Wickenhauser
+w640,Joao,Walendowsky,BRA,1995,9,15,0,80,183,Right-Handed,One-Handed Backhand,Joao Walendowsky
+w655,Matthias,Wunner,GER,1993,3,10,0,0,0,0,0,Matthias Wunner
+w664,Hufu,Wang,CHN,1991,9,23,0,0,0,0,0,Hufu Wang
+w679,Chieh-Fu,Wang,TPE,1993,9,11,0,0,0,0,0,Chieh-Fu Wang
+w677,Jamie,Whiteford,GBR,1990,8,30,0,0,0,0,0,Jamie Whiteford
+w687,Wan Abdul Muiz,Wan Abdul Aziz,MAS,1995,2,7,0,0,0,Right-Handed,Two-Handed Backhand,Wan Abdul Muiz Wan Abdul Aziz
+w721,Anton,Waern,SWE,1993,2,27,0,0,0,0,0,Anton Waern
+w711,Dominic,Weidinger,AUT,1995,1,11,0,0,0,Right-Handed,Two-Handed Backhand,Dominic Weidinger
+w700,Joshua,Ward Hibbert,GBR,1994,1,25,0,91,196,Right-Handed,One-Handed Backhand,Joshua Ward Hibbert
+w722,Colin Wei Ming,Wong,MAS,1996,1,8,0,0,0,Left-Handed,Two-Handed Backhand,Colin Wei Ming Wong
+w723,Pol,Wattanakul,THA,1995,8,3,0,0,0,0,0,Pol Wattanakul
+w741,Aoran,Wang,CHN,1997,2,5,0,0,0,Right-Handed,Two-Handed Backhand,Aoran Wang
+w739,Daniel,Windahl,SWE,1996,7,20,0,76,188,Right-Handed,Two-Handed Backhand,Daniel Windahl
+w797,David,Wright,RSA,1980,1,24,0,0,0,0,0,David Wright
+w804,Nikolas,Walterscheid-Tukic,GER,1996,11,27,0,0,0,Right-Handed,Two-Handed Backhand,Nikolas Walterscheid-Tukic
+w933,David,Warren,USA,1994,6,14,0,84,191,0,0,David Warren
+wa93,Karl,Wegner,GER,1994,5,13,0,75,183,Right-Handed,One-Handed Backhand,Karl Wegner
+wb08,Yosuke,Watanuki,JPN,1998,4,12,0,62,178,Right-Handed,Two-Handed Backhand,Yosuke Watanuki
+wa96,Jakub,Wojcik,USA,1997,10,12,0,0,0,0,0,Jakub Wojcik
+wb25,Louis,Wessels,GER,1998,8,27,0,89,201,Right-Handed,Two-Handed Backhand,Louis Wessels
+wb27,Jarryd,Woog,USA,1994,9,2,0,0,0,0,0,Jarryd Woog
+x011,Jun-Chao,Xu,CHN,1988,9,22,0,0,0,0,0,Jun-Chao Xu
+x014,Haitong,Xia,CHN,1996,1,8,0,70,185,Right-Handed,Two-Handed Backhand,Haitong Xia
+y039,Yu,Zhang,CHN,1976,4,12,0,0,0,0,0,Yu Zhang
+y070,Michael,Yani,USA,1980,12,31,2003,75,185,0,0,Michael Yani
+y062,Alexander,Yarmola,UKR,1978,10,6,0,0,0,0,0,Alexander Yarmola
+y061,Mikhail,Youzhny,RUS,1982,6,25,1999,73,183,Right-Handed,One-Handed Backhand,Mikhail Youzhny
+y100,Robert,Yim,USA,1985,2,25,2002,71,0,0,0,Robert Yim
+y105,Xin-Yuan,Yu,CHN,1985,2,13,0,0,0,0,0,Xin-Yuan Yu
+y114,Daniel,Yoo,KOR,1985,9,25,0,71,180,Left-Handed,Two-Handed Backhand,Daniel Yoo
+y117,Pierrick,Ysern,FRA,1984,10,24,0,0,0,0,0,Pierrick Ysern
+y131,Aaron,Yovan,USA,1984,4,2,0,0,0,0,0,Aaron Yovan
+y124,Donald,Young,USA,1989,7,23,2004,79,183,Left-Handed,Two-Handed Backhand,Donald Young
+y150,Juan-Pablo,Yunis,ARG,1987,4,11,0,0,0,0,0,Juan-Pablo Yunis
+y178,Andrey,Yakovlev,RUS,1992,8,18,0,75,175,Right-Handed,Two-Handed Backhand,Andrey Yakovlev
+y193,Efe,Yurtacan,TUR,1995,1,1,0,0,0,0,0,Efe Yurtacan
+y180,Barkin,Yalcinkale,TUR,1991,6,25,0,70,0,0,0,Barkin Yalcinkale
+y195,Yahor,Yatsyk,BLR,1992,8,6,0,0,0,Right-Handed,Two-Handed Backhand,Yahor Yatsyk
+y218,Elias,Ymer,SWE,1996,4,10,2014,78,183,Right-Handed,Two-Handed Backhand,Elias Ymer
+y268,Mikael,Ymer,SWE,1998,9,9,2015,75,183,Right-Handed,Two-Handed Backhand,Mikael Ymer
+z073,Mariano,Zabaleta,ARG,1978,2,28,1996,77,183,Right-Handed,One-Handed Backhand,Mariano Zabaleta
+z072,Nenad,Zimonjic,SRB,1976,6,4,1995,93,191,Right-Handed,One-Handed Backhand,Nenad Zimonjic
+z074,Tomas,Zib,CZE,1976,1,31,1995,76,178,Right-Handed,Two-Handed Backhand,Tomas Zib
+z084,Radim,Zitko,CZE,1978,12,8,0,0,0,0,0,Radim Zitko
+z090,Yu,Zheng,CHN,1976,5,15,0,0,0,0,0,Yu Zheng
+z096,Ben-Qiang,Zhu,CHN,1979,3,13,0,0,0,0,0,Ben-Qiang Zhu
+z103,Pavel,Zelenkin,RUS,1979,2,19,0,0,0,0,0,Pavel Zelenkin
+z104,Lovro,Zovko,CRO,1981,3,18,1999,80,191,0,0,Lovro Zovko
+z115,Marius,Zay,GER,1982,10,25,0,0,0,0,0,Marius Zay
+z125,Jedrzej,Zarski,POL,1981,2,20,0,0,0,0,0,Jedrzej Zarski
+z134,Igor,Zelenay,SVK,1982,10,2,0,88,198,Right-Handed,Two-Handed Backhand,Igor Zelenay
+z151,Shao-Xuan,Zeng,CHN,1981,8,29,2002,83,185,0,0,Shao-Xuan Zeng
+z161,Marcel,Zimmermann,GER,1985,1,20,0,66,183,0,0,Marcel Zimmermann
+z168,Mischa,Zverev,GER,1987,8,22,2005,88,191,Left-Handed,Two-Handed Backhand,Mischa Zverev
+z162,Holger,Zuehlsdorff-Pavlovic,GER,1979,1,20,0,0,0,0,0,Holger Zuehlsdorff-Pavlovic
+z163,Mehdi,Ziadi,MAR,1986,9,20,0,0,0,0,0,Mehdi Ziadi
+z183,Hui,Zhang,CHN,1984,11,10,0,0,0,0,0,Hui Zhang
+z178,Denis,Zivkovic,USA,1987,9,30,0,86,191,Right-Handed,One-Handed Backhand,Denis Zivkovic
+z166,Jason,Zimmermann,USA,1983,1,27,0,0,0,0,0,Jason Zimmermann
+z184,Horacio,Zeballos,ARG,1985,4,27,2003,83,188,Left-Handed,One-Handed Backhand,Horacio Zeballos
+z189,Grega,Zemlja,SLO,1986,9,29,2004,81,183,Right-Handed,Two-Handed Backhand,Grega Zemlja
+z185,Danilo,Zivanovic,AUS,1983,6,22,0,0,0,0,0,Danilo Zivanovic
+z198,Caio,Zampieri,BRA,1986,5,27,2005,79,183,0,0,Caio Zampieri
+z211,Adrians,Zguns,LAT,1981,12,1,0,0,0,0,0,Adrians Zguns
+z239,Federico,Zeballos,BOL,1988,5,30,0,75,0,Right-Handed,Two-Handed Backhand,Federico Zeballos
+z242,Marko,Zelch,GER,1981,1,2,0,0,0,Right-Handed,Two-Handed Backhand,Marko Zelch
+z245,Arsenije,Zlatanovic,SRB,1989,12,4,2006,77,193,0,0,Arsenije Zlatanovic
+z246,Miljan,Zekic,SRB,1988,7,12,0,79,185,Right-Handed,Two-Handed Backhand,Miljan Zekic
+z248,Dzmitry,Zhyrmont,BLR,1989,3,1,0,85,188,Right-Handed,Two-Handed Backhand,Dzmitry Zhyrmont
+z254,Jurgen,Zopp,EST,1988,3,29,2008,88,191,Right-Handed,Two-Handed Backhand,Jurgen Zopp
+z261,Ivan,Zovko,CRO,1988,5,9,0,0,0,0,0,Ivan Zovko
+z262,Deni,Zmak,CRO,1989,5,27,0,82,185,0,0,Deni Zmak
+z270,Luka,Zaninovic,CRO,1987,6,20,0,0,0,0,0,Luka Zaninovic
+z264,Steffen,Zornosa ,COL,1990,9,24,0,72,178,Left-Handed,Two-Handed Backhand,Steffen Zornosa 
+z272,Ze,Zhang,CHN,1990,7,4,2005,83,188,Right-Handed,Two-Handed Backhand,Ze Zhang
+z298,Joshua,Zavala,USA,1988,4,23,0,0,0,0,0,Joshua Zavala
+z301,Alexander,Zhurbin,RUS,1992,1,14,0,0,0,0,0,Alexander Zhurbin
+z307,Muhammad-Ashaari,Bin Zainal Abidin,MAS,1988,10,7,0,0,0,0,0,Muhammad-Ashaari Bin Zainal Abidin
+z316,Tilen,Zitnik,SLO,1991,7,2,0,0,0,0,0,Tilen Zitnik
+z334,Pedro,Zerbini,BRA,1988,12,9,0,0,0,0,0,Pedro Zerbini
+z349,Anton,Zaitcev,RUS,1987,7,22,0,71,180,Right-Handed,Two-Handed Backhand,Anton Zaitcev
+z357,Lennart,Zynga,GER,1991,10,21,0,0,0,Right-Handed,Two-Handed Backhand,Lennart Zynga
+z355,Alexander,Zverev,GER,1997,4,20,2013,86,198,Right-Handed,Two-Handed Backhand,Alexander Zverev
+z363,Marcelo,Zormann,BRA,1996,6,10,0,80,180,Right-Handed,Two-Handed Backhand,Marcelo Zormann
+z367,Mousa Shanan,Zayed,QAT,1994,3,9,0,0,0,0,0,Mousa Shanan Zayed
+z368,Su Hao,Zhong,CHN,1997,3,19,0,0,0,Right-Handed,Two-Handed Backhand,Su Hao Zhong
+z371,Zhizhen,Zhang,CHN,1996,10,16,2012,87,193,Right-Handed,Two-Handed Backhand,Zhizhen Zhang
+z377,Zhuo,Zhang,CHN,1994,1,8,0,0,0,0,0,Zhuo Zhang
+z381,Barlaham,Zuluaga Gaviria,COL,1996,1,21,0,0,0,Right-Handed,Two-Handed Backhand,Barlaham Zuluaga Gaviria
+z394,Hao,Zhang,CHN,1995,7,17,0,0,0,0,0,Hao Zhang
+z395,Fran Zvonimir,Zgombic,CRO,1996,1,24,0,80,180,Right-Handed,Two-Handed Backhand,Fran Zvonimir Zgombic
+z407,Andres,Zepeda,MEX,1995,2,25,0,0,0,0,0,Andres Zepeda
+z412,Zhicheng,Zhu,CHN,1995,9,14,0,0,0,Right-Handed,Two-Handed Backhand,Zhicheng Zhu
+z413,Jiacheng,Zhu,CHN,1996,9,30,0,0,0,0,0,Jiacheng Zhu
+z419,Bernabe,Zapata Miralles,ESP,1997,1,12,0,73,185,Right-Handed,Two-Handed Backhand,Bernabe Zapata Miralles
